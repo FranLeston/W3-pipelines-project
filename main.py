@@ -24,20 +24,26 @@ teams_list = list()
 players_list = list()
 
 
+def build_and_seed_db():
+    is_schema_done = db.create_schemas(conn)
+    if is_schema_done:
+        teams_list = db.get_liga_teams()
+        players_list = db.get_liga_players()
+
+    if teams_list and players_list:
+        # Lets add the information to our database
+        status = db.add_data_to_db(conn, players_list, teams_list)
+        print(status)
+        trophies_response = db.get_player_trophies(conn, players_list)
+        print(trophies_response)
+    return
+
+
 if __name__ == '__main__':
     conn = db.connect_to_mysql()
     redo_db = input(
-        "Do you wish to drop all tables and repopulate Database y/n ")
-    if redo_db == "y" or redo_db == "Y":
-        is_schema_done = db.create_schemas(conn)
-        if is_schema_done:
-            teams_list = db.get_liga_teams()
-            players_list = db.get_liga_players()
+        "Do you wish to drop all tables and repopulate Database (y)/(n): ")
+    if redo_db.lower() == "y":
+        build_and_seed_db()
 
-        if teams_list and players_list:
-            # Lets add the information to our database
-            status = db.add_data_to_db(conn, players_list, teams_list)
-            print(status)
-            trophies_response = db.get_player_trophies(conn, players_list)
-            print(trophies_response)
     print("Ready for next phase")
