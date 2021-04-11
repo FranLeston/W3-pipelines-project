@@ -7,10 +7,11 @@ import os
 import pymysql
 import sys
 import json
+import tweepy
 
 # My functions
 import src.build_db as db
-
+import src.twitter_followers as tf
 
 load_dotenv()
 
@@ -19,6 +20,7 @@ db_password = os.getenv("DB_PASSWORD")
 twitter_api_key = os.getenv("TWITTER_API_KEY")
 football_api_key = os.getenv("FOOTBALL_API_KEY")
 football_api_url = os.getenv("FOOTBALL_API_URL")
+
 
 teams_list = list()
 players_list = list()
@@ -46,4 +48,8 @@ if __name__ == '__main__':
     if redo_db.lower() == "y":
         build_and_seed_db()
 
-    print("Ready for next phase")
+    print("Getting twitter followers for known players")
+    followers_list = tf.get_twitter_followers(conn)
+    result = tf.update_followers_db(conn, followers_list)
+    print(result)
+    

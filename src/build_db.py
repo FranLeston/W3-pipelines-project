@@ -73,6 +73,8 @@ def create_schemas(conn):
                      'name varchar(50),'
                      'first_name varchar(50),'
                      'last_name varchar(50),'
+                     'twitter_username varchar(50),'
+                     'twitter_followers int,'
                      'age tinyint,'
                      'nationality varchar(50),'
                      'height varchar(50),'
@@ -222,8 +224,34 @@ def add_data_to_db(conn, players_list, teams_list):
             else:
                 player_rating = float(player_rating)
 
-            conn.execute("INSERT INTO Players (player_id, team_id, position, name, first_name, last_name, age, nationality, height, weight, minutes, goals, assists, saves, rating) VALUES"
-                         f"({player_id},{player_team_id},'{player_position}','{player_name}', '{player_first_name}', '{player_last_name}',{player_age},'{player_nationality}','{player_height}','{player_weight}',{player_minutes},{player_goals},{player_assists},{player_saves},{player_rating})"
+            # Verified Twitter UserName of known PLayers
+            if player_id == 154:
+                player_twitter_username = "TeamMessi"
+            elif player_id == 136:
+                player_twitter_username = "3gerardpique"
+            elif player_id == 738:
+                player_twitter_username = "SergioRamos"
+            elif player_id == 144:
+                player_twitter_username = "5sergiob"
+            elif player_id == 743:
+                player_twitter_username = "MarceloM12"
+            elif player_id == 137:
+                player_twitter_username = "SergiRoberto10"
+            elif player_id == 139:
+                player_twitter_username = "samumtiti"
+            elif player_id == 157:
+                player_twitter_username = "LuisSuarez9"
+            elif player_id == 128:
+                player_twitter_username = "JordiAlba"
+            elif player_id == 759:
+                player_twitter_username = "Benzema"
+            elif player_id == 752:
+                player_twitter_username = "ToniKroos"
+            else:
+                player_twitter_username = "None"
+
+            conn.execute("INSERT INTO Players (player_id, team_id, position, name, first_name, last_name, twitter_username, age, nationality, height, weight, minutes, goals, assists, saves, rating) VALUES"
+                         f"({player_id},{player_team_id},'{player_position}','{player_name}', '{player_first_name}', '{player_last_name}', '{player_twitter_username}',{player_age},'{player_nationality}','{player_height}','{player_weight}',{player_minutes},{player_goals},{player_assists},{player_saves},{player_rating})"
                          )
 
     except Exception as error:
