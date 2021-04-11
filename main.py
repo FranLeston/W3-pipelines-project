@@ -12,6 +12,7 @@ import tweepy
 # My functions
 import src.build_db as db
 import src.twitter_followers as tf
+import src.data_cleaning as clean
 
 load_dotenv()
 
@@ -44,12 +45,25 @@ def build_and_seed_db():
 if __name__ == '__main__':
     conn = db.connect_to_mysql()
     redo_db = input(
-        "Do you wish to drop all tables and repopulate Database (y)/(n): ")
+        "Do you wish to drop all tables and repopulate Database? (y)/(n): ")
+
     if redo_db.lower() == "y":
         build_and_seed_db()
 
-    print("Getting twitter followers for known players")
-    followers_list = tf.get_twitter_followers(conn)
-    result = tf.update_followers_db(conn, followers_list)
-    print(result)
-    
+    redo_followers = input(
+        "Do you want to repopulate twitter followers usig Tweepy? (y)/(n): ")
+
+    if redo_followers.lower() == "y":
+        print("Getting twitter followers for known players")
+        followers_list = tf.get_twitter_followers(conn)
+        result = tf.update_followers_db(conn, followers_list)
+        print(result)
+
+    try:
+        print("Preparing Data from Database for use in DataFrame and Jupyter Notebook..")
+        result = clean.get_dfs_and_clean(conn)
+        print(result)
+    except Exception as error:
+        print(error)
+        print("Something went wrong. Did you run database creation first? Make you have all .env variables defined. Exiting")
+        sys.exit()

@@ -13,7 +13,6 @@ load_dotenv()
 
 db_user = os.getenv("DB_USER")
 db_password = os.getenv("DB_PASSWORD")
-twitter_api_key = os.getenv("TWITTER_API_KEY")
 football_api_key = os.getenv("FOOTBALL_API_KEY")
 football_api_url = os.getenv("FOOTBALL_API_URL")
 
@@ -25,7 +24,7 @@ def connect_to_mysql():
     connectionData = f"mysql+pymysql://{db_user}:{db_password}@localhost/laliga"
     try:
 
-        engine = create_engine(connectionData, echo=True)
+        engine = create_engine(connectionData, echo=False)
         if not database_exists(engine.url):
             create_database(engine.url)
 
