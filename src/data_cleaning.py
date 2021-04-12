@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 
 
+
+
 def get_dfs_and_clean(conn):
 
     # first do the player
