@@ -53,6 +53,8 @@ pandas==1.2.3<br/>
 requests==2.22.0<br/>
 python-dotenv==0.17.0<br/>
 
-Run Python3 main.py after fulfilling all the requiments.
+Run Python3 main.py after fulfilling all the requiments:
+![alt text](https://github.com/FranLeston/W3-pipelines-project/blob/main/images/install_example.png?raw=true)
+
 
 

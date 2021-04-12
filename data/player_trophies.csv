@@ -8,52 +8,41 @@ id,league,region,season,name
 15,Copa del Rey,Spain,2012/2013,Diego da Silva Costa
 16,UEFA Super Cup,Europe,2012/2013,Diego da Silva Costa
 17,UEFA Super Cup,Europe,2010/2011,Diego da Silva Costa
-18,Super Cup,Spain,2016/2017,W. Kaptoum
-20,Trofeo Joan Gamper,World,2016,W. Kaptoum
-21,La Liga,Spain,2015/2016,W. Kaptoum
-22,Copa del Rey,Spain,2015/2016,W. Kaptoum
-24,FIFA Club World Cup,World,2015 Japan,W. Kaptoum
-25,UEFA Youth League,Europe,2013/2014,W. Kaptoum
-27,UEFA Europa League,Europe,2019/2020,Javier Vázquez López
-33,CONMEBOL Sudamericana,South-America,2010,Diego Matías Rodríguez
-36,Supercopa de Catalunya,Spain,2016,José Jurado
-37,Super Cup,Germany,2011/2012,José Jurado
-38,DFB Pokal,Germany,2010/2011,José Jurado
-39,UEFA Super Cup,Europe,2010/2011,José Jurado
-41,UEFA Europa League,Europe,2009/2010,José Jurado
-44,Super Cup,Spain,2003/2004,José Jurado
-45,Arena Cup,World,2021,Rafael Jesús Navarro Mazuelos
-50,Copa del Rey,Spain,2002/2003,Alberto Cifuentes Martínez
-53,Segunda División,Spain,2019/2020,Ander Bardají Maiza Lasgar
-54,Segunda B,Spain,2018/2019,Ander Bardají Maiza Lasgar
-57,Copa Federacion,Spain,2018/2019,Claudio Medina Ricoy
-58,Segunda División,Spain,2019/2020,Juan Sebastián Peñaloza Ragga
-59,Segunda División,Spain,2015/2016,Asier Benito Sasiain
-61,Trophée des Champions,France,2020/2021,Rafinha
-62,Trofeo Joan Gamper,World,2020,Rafinha
-64,Trofeo Joan Gamper,World,2019,Rafinha
-65,La Liga,Spain,2018/2019,Rafinha
-66,Super Cup,Spain,2018/2019,Rafinha
-68,Trofeo Joan Gamper,World,2018,Rafinha
-70,Trofeo Joan Gamper,World,2017,Rafinha
-71,Copa del Rey,Spain,2016/2017,Rafinha
-73,Super Cup,Spain,2016/2017,Rafinha
-74,Olympics,World,2016 Rio de Janeiro,Rafinha
-76,Trofeo Joan Gamper,World,2016,Rafinha
-77,La Liga,Spain,2015/2016,Rafinha
-79,Copa del Rey,Spain,2015/2016,Rafinha
-80,UEFA Super Cup,Europe,2015/2016,Rafinha
-81,FIFA Club World Cup,World,2015 Japan,Rafinha
-82,UEFA Champions League,Europe,2014/2015,Rafinha
-83,Copa del Rey,Spain,2014/2015,Rafinha
-84,La Liga,Spain,2014/2015,Rafinha
-85,World Youth Festival Toulon,World,2013,Rafinha
-87,La Liga,Spain,2012/2013,Rafinha
-88,Super Cup,Spain,2011/2012,Rafinha
-89,Copa del Rey,Spain,2011/2012,Rafinha
-91,UEFA Super Cup,Europe,2011/2012,Rafinha
-92,FIFA Club World Cup,World,2011 Japan,Rafinha
-93,Audi Cup,World,2011,Rafinha
+21,Super Cup,Portugal,2018/2019,Hernâni Jorge Santos Fortes
+23,Primeira Liga,Portugal,2017/2018,Hernâni Jorge Santos Fortes
+25,Super League 1,Greece,2015/2016,Hernâni Jorge Santos Fortes
+29,Taça de Portugal,Portugal,2012/2013,Hernâni Jorge Santos Fortes
+30,Super Cup,Spain,2016/2017,W. Kaptoum
+32,Trofeo Joan Gamper,World,2016,W. Kaptoum
+33,La Liga,Spain,2015/2016,W. Kaptoum
+34,Copa del Rey,Spain,2015/2016,W. Kaptoum
+36,FIFA Club World Cup,World,2015 Japan,W. Kaptoum
+37,UEFA Youth League,Europe,2013/2014,W. Kaptoum
+42,CONMEBOL Sudamericana,South-America,2010,Diego Matías Rodríguez
+45,J.League Cup / Copa Sudamericana Championship,World,2018,J. Sánchez
+46,CONMEBOL Sudamericana,South-America,2017,J. Sánchez
+50,Liga Profesional Argentina,Argentina,2011/2012 Apertura,J. Sánchez
+51,Copa Argentina,Argentina,2011/2012,J. Sánchez
+54,Supercopa de Catalunya,Spain,2016,José Jurado
+55,Super Cup,Germany,2011/2012,José Jurado
+56,DFB Pokal,Germany,2010/2011,José Jurado
+57,UEFA Super Cup,Europe,2010/2011,José Jurado
+59,UEFA Europa League,Europe,2009/2010,José Jurado
+62,Super Cup,Spain,2003/2004,José Jurado
+65,Copa Colombia,Colombia,2018,S. Lucumí
+67,Florida Cup,World,2018,S. Lucumí
+68,Primera B,Colombia,2016,S. Lucumí
+72,Super Cup,Portugal,2019/2020,Tomás Tavares
+74,International Champions Cup,World,2019,Tomás Tavares
+79,Copa del Rey,Spain,2002/2003,Alberto Cifuentes Martínez
+81,UEFA Super Cup,Europe,2018/2019,Roberto Olabe
+83,UEFA Europa League,Europe,2017/2018,Roberto Olabe
+84,Audi Cup,World,2017,Roberto Olabe
+86,Segunda División,Spain,2019/2020,Aleksandar Jovanović
+87,The Atlantic Cup,World,2018,Aleksandar Jovanović
+88,Segunda División,Spain,2019/2020,Ander Bardají Maiza Lasgar
+89,Segunda B,Spain,2018/2019,Ander Bardají Maiza Lasgar
+92,Copa Federacion,Spain,2018/2019,Claudio Medina Ricoy
 94,Trofeo Joan Gamper,World,2020,A. Vidal
 96,Trofeo Joan Gamper,World,2019,A. Vidal
 99,Super Cup,Spain,2018/2019,A. Vidal
@@ -77,1017 +66,1025 @@ id,league,region,season,name
 123,Serie A,Italy,2011/2012,A. Vidal
 126,Primera División,Chile,2006 Clausura,A. Vidal
 127,Primera División,Chile,2006 Apertura,A. Vidal
-131,Super Cup,Portugal,2018/2019,Hernâni Jorge Santos Fortes
-133,Primeira Liga,Portugal,2017/2018,Hernâni Jorge Santos Fortes
-135,Super League 1,Greece,2015/2016,Hernâni Jorge Santos Fortes
-139,Taça de Portugal,Portugal,2012/2013,Hernâni Jorge Santos Fortes
-141,Taça de Portugal,Portugal,2018/2019,A. Diaby
-142,Taça da Liga,Portugal,2018/2019,A. Diaby
-143,First Division A,Belgium,2017/2018,A. Diaby
-145,Super Cup,Belgium,2016/2017,A. Diaby
-146,First Division A,Belgium,2015/2016,A. Diaby
-149,La Liga,Spain,2019/2020,L. Jović
-150,Super Cup,Spain,2019/2020,L. Jović
-152,DFB Pokal,Germany,2017/2018,L. Jović
-153,Primeira Liga,Portugal,2016/2017,L. Jović
-154,Taça de Portugal,Portugal,2016/2017,L. Jović
-155,Super Cup,Portugal,2016/2017,L. Jović
-156,Primeira Liga,Portugal,2015/2016,L. Jović
-157,Taça da Liga,Portugal,2015/2016,L. Jović
-159,Super Liga,Serbia,2013/2014,L. Jović
-167,UEFA Super Cup,Europe,2018/2019,Roberto Olabe
-169,UEFA Europa League,Europe,2017/2018,Roberto Olabe
-170,Audi Cup,World,2017,Roberto Olabe
-171,UEFA U21 Championship,Europe,2019 Italy,Borja Mayoral
-173,Super Cup,Spain,2017/2018,Borja Mayoral
-174,UEFA Champions League,Europe,2017/2018,Borja Mayoral
-175,UEFA Super Cup,Europe,2017/2018,Borja Mayoral
-176,FIFA Club World Cup,World,2017 UAE,Borja Mayoral
-179,UEFA Champions League,Europe,2015/2016,Borja Mayoral
-180,UEFA U19 Championship,Europe,2015 Greece,Borja Mayoral
-183,Segunda División,Spain,2019/2020,Aleksandar Jovanović
-184,The Atlantic Cup,World,2018,Aleksandar Jovanović
-186,Segunda División,Spain,2019/2020,Enrique Hermoso Gómez
-187,Segunda División,Spain,2017/2018,Enrique Hermoso Gómez
-188,Super Cup,Italy,2019/2020,B. Adekanye
-192,Trofeo Joan Gamper,World,2019,Javier Enrique Delgado Saverio
-193,La Liga,Spain,2018/2019,Javier Enrique Delgado Saverio
-195,UEFA Youth League,Europe,2017/2018,Javier Enrique Delgado Saverio
-199,UEFA Super Cup,Europe,2018/2019,T. Partey
-201,UEFA Europa League,Europe,2017/2018,T. Partey
-202,Audi Cup,World,2017,T. Partey
-204,Copa del Rey,Spain,2012/2013,T. Partey
-205,La Liga,Spain,2019/2020,Éder Militão
-206,Super Cup,Spain,2019/2020,Éder Militão
-207,Copa America,South-America,2019 Brazil,Éder Militão
-211,Florida Cup,World,2017,Éder Militão
-212,La Liga,Spain,2019/2020,J. Rodríguez
-213,Super Cup,Spain,2019/2020,J. Rodríguez
-214,Bundesliga,Germany,2018/2019,J. Rodríguez
-215,Super Cup,Germany,2018/2019,J. Rodríguez
-216,DFB Pokal,Germany,2018/2019,J. Rodríguez
-217,Bundesliga,Germany,2017/2018,J. Rodríguez
-218,Super Cup,Germany,2017/2018,J. Rodríguez
-220,La Liga,Spain,2016/2017,J. Rodríguez
-221,UEFA Super Cup,Europe,2016/2017,J. Rodríguez
-222,UEFA Champions League,Europe,2016/2017,J. Rodríguez
-223,FIFA Club World Cup,World,2016 Japan,J. Rodríguez
-225,UEFA Champions League,Europe,2015/2016,J. Rodríguez
-228,UEFA Super Cup,Europe,2014/2015,J. Rodríguez
-230,FIFA Club World Cup,World,2014 Morocco,J. Rodríguez
-232,Super Cup,Portugal,2012/2013,J. Rodríguez
-234,Primeira Liga,Portugal,2012/2013,J. Rodríguez
-235,Super Cup,Portugal,2011/2012,J. Rodríguez
-236,Primeira Liga,Portugal,2011/2012,J. Rodríguez
-238,Super Cup,Portugal,2010/2011,J. Rodríguez
-239,Taça de Portugal,Portugal,2010/2011,J. Rodríguez
-240,Primeira Liga,Portugal,2010/2011,J. Rodríguez
-241,UEFA Europa League,Europe,2010/2011,J. Rodríguez
-242,Liga Profesional Argentina,Argentina,2009/2010 Apertura,J. Rodríguez
-243,La Liga,Spain,2019/2020,T. Courtois
-244,Super Cup,Spain,2019/2020,T. Courtois
-246,FIFA Club World Cup,World,2018 UAE,T. Courtois
-247,FA Cup,England,2017/2018,T. Courtois
-249,Premier League,England,2016/2017,T. Courtois
-252,Premier League,England,2014/2015,T. Courtois
-253,League Cup,England,2014/2015,T. Courtois
-254,La Liga,Spain,2013/2014,T. Courtois
-257,Copa del Rey,Spain,2012/2013,T. Courtois
-258,UEFA Super Cup,Europe,2012/2013,T. Courtois
-259,UEFA Europa League,Europe,2011/2012,T. Courtois
-260,First Division A,Belgium,2010/2011,T. Courtois
-262,Cup,Belgium,2008/2009,T. Courtois
-263,Super Cup,Spain,2019/2020,Carvajal
-264,La Liga,Spain,2019/2020,Carvajal
-266,FIFA Club World Cup,World,2018 UAE,Carvajal
-267,UEFA Super Cup,Europe,2017/2018,Carvajal
-268,Super Cup,Spain,2017/2018,Carvajal
-269,UEFA Champions League,Europe,2017/2018,Carvajal
-270,FIFA Club World Cup,World,2017 UAE,Carvajal
-271,La Liga,Spain,2016/2017,Carvajal
-272,UEFA Super Cup,Europe,2016/2017,Carvajal
-273,UEFA Champions League,Europe,2016/2017,Carvajal
-274,FIFA Club World Cup,World,2016 Japan,Carvajal
-275,UEFA Champions League,Europe,2015/2016,Carvajal
-279,UEFA Super Cup,Europe,2014/2015,Carvajal
-281,FIFA Club World Cup,World,2014 Morocco,Carvajal
-282,UEFA Champions League,Europe,2013/2014,Carvajal
-283,Copa del Rey,Spain,2013/2014,Carvajal
-284,UEFA U21 Championship,Europe,2013 Israel,Carvajal
-285,International Champions Cup,World,2013,Carvajal
-286,Segunda B,Spain,2011/2012,Carvajal
-287,UEFA U19 Championship,Europe,2011 Romania,Carvajal
-288,Super Cup,Spain,2019/2020,Sergio Ramos
-289,La Liga,Spain,2019/2020,Sergio Ramos
-291,FIFA Club World Cup,World,2018 UAE,Sergio Ramos
-292,Super Cup,Spain,2017/2018,Sergio Ramos
-293,UEFA Champions League,Europe,2017/2018,Sergio Ramos
-294,UEFA Super Cup,Europe,2017/2018,Sergio Ramos
-295,FIFA Club World Cup,World,2017 UAE,Sergio Ramos
-296,La Liga,Spain,2016/2017,Sergio Ramos
-297,UEFA Champions League,Europe,2016/2017,Sergio Ramos
-298,UEFA Super Cup,Europe,2016/2017,Sergio Ramos
-299,FIFA Club World Cup,World,2016 Japan,Sergio Ramos
-301,UEFA Champions League,Europe,2015/2016,Sergio Ramos
-304,UEFA Super Cup,Europe,2014/2015,Sergio Ramos
-306,FIFA Club World Cup,World,2014 Morocco,Sergio Ramos
-307,UEFA Champions League,Europe,2013/2014,Sergio Ramos
-308,Copa del Rey,Spain,2013/2014,Sergio Ramos
-310,International Champions Cup,World,2013,Sergio Ramos
-311,Super Cup,Spain,2012/2013,Sergio Ramos
-314,European Championship,Europe,2012 Poland/Ukraine,Sergio Ramos
-316,La Liga,Spain,2011/2012,Sergio Ramos
-318,Copa del Rey,Spain,2010/2011,Sergio Ramos
-319,World Cup,World,2010 South Africa,Sergio Ramos
-322,Super Cup,Spain,2008/2009,Sergio Ramos
-323,EC Qualification,Europe,2008 Austria/Switzer,Sergio Ramos
-324,European Championship,Europe,2008 Austria/Switzer,Sergio Ramos
-326,La Liga,Spain,2007/2008,Sergio Ramos
-328,La Liga,Spain,2006/2007,Sergio Ramos
-330,La Liga,Spain,2019/2020,R. Varane
-331,Super Cup,Spain,2019/2020,R. Varane
-333,FIFA Club World Cup,World,2018 UAE,R. Varane
-334,World Cup,World,2018 Russia,R. Varane
-335,UEFA Champions League,Europe,2017/2018,R. Varane
-336,UEFA Super Cup,Europe,2017/2018,R. Varane
-337,Super Cup,Spain,2017/2018,R. Varane
-338,FIFA Club World Cup,World,2017 UAE,R. Varane
-339,UEFA Champions League,Europe,2016/2017,R. Varane
-340,La Liga,Spain,2016/2017,R. Varane
-341,UEFA Super Cup,Europe,2016/2017,R. Varane
-342,FIFA Club World Cup,World,2016 Japan,R. Varane
-343,UEFA Champions League,Europe,2015/2016,R. Varane
-348,UEFA Super Cup,Europe,2014/2015,R. Varane
-349,FIFA Club World Cup,World,2014 Morocco,R. Varane
-350,Copa del Rey,Spain,2013/2014,R. Varane
-351,UEFA Champions League,Europe,2013/2014,R. Varane
-352,International Champions Cup,World,2013,R. Varane
-353,Super Cup,Spain,2012/2013,R. Varane
-356,La Liga,Spain,2011/2012,R. Varane
-358,1. HNL,Croatia,2019/2020,D. Kądzior
-359,Super Cup,Croatia,2019/2020,D. Kądzior
-360,1. HNL,Croatia,2018/2019,D. Kądzior
-364,Emirates Cup,World,2019,Y. Koné
-366,Algarve Football Cup,Europe,2018,Y. Koné
-370,J.League Cup / Copa Sudamericana Championship,World,2018,J. Sánchez
-371,CONMEBOL Sudamericana,South-America,2017,J. Sánchez
-375,Liga Profesional Argentina,Argentina,2011/2012 Apertura,J. Sánchez
-376,Copa Argentina,Argentina,2011/2012,J. Sánchez
-379,Copa Colombia,Colombia,2018,S. Lucumí
-381,Florida Cup,World,2018,S. Lucumí
-382,Primera B,Colombia,2016,S. Lucumí
-385,UEFA Super Cup,Europe,2016/2017,M. Ødegaard
-386,FIFA Club World Cup,World,2016 Japan,M. Ødegaard
-388,UEFA Champions League,Europe,2015/2016,M. Ødegaard
-393,Super Cup,Portugal,2019/2020,Tomás Tavares
-395,International Champions Cup,World,2019,Tomás Tavares
-399,UEFA Super Cup,Europe,2014/2015,Llorente
-400,FIFA Club World Cup,World,2014 Morocco,Llorente
-401,Copa del Rey,Spain,2013/2014,Llorente
-402,UEFA Champions League,Europe,2013/2014,Llorente
-403,International Champions Cup,World,2013,Llorente
-406,Sudamericano U20,South-America,Peru 2011,Willian José
-407,UEFA Champions League,Europe,2013/2014,Willian José
-408,Copa del Rey,Spain,2013/2014,Willian José
-409,CONMEBOL Sudamericana,South-America,2012,Willian José
-410,U20 World Cup,World,2011 Colombia,Willian José
-411,U20 World Cup,World,2019 Poland,A. Lunin
-413,1. Lig,Turkey,2014/2015,O. Yokuşlu
-414,La Liga,Spain,2019/2020,Diego Altube
-415,Super Cup,Spain,2019/2020,Diego Altube
-417,Alkass International Cup,World,2017,Diego Altube
-419,La Liga,Spain,2019/2020,Luis López
-420,UEFA Youth League,Europe,2019/2020,Luis López
-421,La Liga,Spain,2019/2020,F. Mendy
-422,Super Cup,Spain,2019/2020,F. Mendy
-423,La Liga,Spain,2019/2020,Nacho
-424,Super Cup,Spain,2019/2020,Nacho
-426,FIFA Club World Cup,World,2018 UAE,Nacho
-427,UEFA Super Cup,Europe,2017/2018,Nacho
-428,UEFA Champions League,Europe,2017/2018,Nacho
-429,Super Cup,Spain,2017/2018,Nacho
-430,FIFA Club World Cup,World,2017 UAE,Nacho
-431,La Liga,Spain,2016/2017,Nacho
-432,UEFA Super Cup,Europe,2016/2017,Nacho
-433,UEFA Champions League,Europe,2016/2017,Nacho
-434,FIFA Club World Cup,World,2016 Japan,Nacho
-435,UEFA Champions League,Europe,2015/2016,Nacho
-439,UEFA Super Cup,Europe,2014/2015,Nacho
-441,FIFA Club World Cup,World,2014 Morocco,Nacho
-442,Copa del Rey,Spain,2013/2014,Nacho
-443,UEFA Champions League,Europe,2013/2014,Nacho
-444,UEFA U21 Championship,Europe,2013 Israel,Nacho
-445,International Champions Cup,World,2013,Nacho
-448,Super Cup,Spain,2012/2013,Nacho
-449,La Liga,Spain,2011/2012,Nacho
-450,Segunda B,Spain,2011/2012,Nacho
-453,Bundesliga,Germany,2019/2020,Odriozola
-454,DFB Pokal,Germany,2019/2020,Odriozola
-455,Super Cup,Spain,2019/2020,Odriozola
-456,UEFA Champions League,Europe,2019/2020,Odriozola
-458,FIFA Club World Cup,World,2018 UAE,Odriozola
-460,La Liga,Spain,2019/2020,Marcelo
-461,Super Cup,Spain,2019/2020,Marcelo
-463,FIFA Club World Cup,World,2018 UAE,Marcelo
-464,UEFA Champions League,Europe,2017/2018,Marcelo
-465,UEFA Super Cup,Europe,2017/2018,Marcelo
-466,Super Cup,Spain,2017/2018,Marcelo
-467,FIFA Club World Cup,World,2017 UAE,Marcelo
-468,La Liga,Spain,2016/2017,Marcelo
-469,UEFA Champions League,Europe,2016/2017,Marcelo
-470,UEFA Super Cup,Europe,2016/2017,Marcelo
-471,FIFA Club World Cup,World,2016 Japan,Marcelo
-473,UEFA Champions League,Europe,2015/2016,Marcelo
-475,UEFA Super Cup,Europe,2014/2015,Marcelo
-478,FIFA Club World Cup,World,2014 Morocco,Marcelo
-479,Copa del Rey,Spain,2013/2014,Marcelo
-480,UEFA Champions League,Europe,2013/2014,Marcelo
-481,Confederations Cup,World,2013 Brazil,Marcelo
-482,International Champions Cup,World,2013,Marcelo
-483,Super Cup,Spain,2012/2013,Marcelo
-488,La Liga,Spain,2011/2012,Marcelo
-489,Copa del Rey,Spain,2010/2011,Marcelo
-492,Super Cup,Spain,2008/2009,Marcelo
-496,La Liga,Spain,2007/2008,Marcelo
-497,La Liga,Spain,2006/2007,Marcelo
-498,La Liga,Spain,2019/2020,Isco
-499,Super Cup,Spain,2019/2020,Isco
-501,FIFA Club World Cup,World,2018 UAE,Isco
-502,Super Cup,Spain,2017/2018,Isco
-503,UEFA Champions League,Europe,2017/2018,Isco
-504,UEFA Super Cup,Europe,2017/2018,Isco
-505,FIFA Club World Cup,World,2017 UAE,Isco
-506,La Liga,Spain,2016/2017,Isco
-507,UEFA Super Cup,Europe,2016/2017,Isco
-508,UEFA Champions League,Europe,2016/2017,Isco
-509,FIFA Club World Cup,World,2016 Japan,Isco
-510,UEFA Champions League,Europe,2015/2016,Isco
-514,UEFA Super Cup,Europe,2014/2015,Isco
-516,FIFA Club World Cup,World,2014 Morocco,Isco
-517,UEFA Champions League,Europe,2013/2014,Isco
-518,Copa del Rey,Spain,2013/2014,Isco
-519,UEFA U21 Championship,Europe,2013 Israel,Isco
-520,International Champions Cup,World,2013,Isco
-521,UEFA U19 Championship,Europe,2011 Romania,Isco
-523,La Liga,Spain,2019/2020,Asensio
-524,Super Cup,Spain,2019/2020,Asensio
-526,FIFA Club World Cup,World,2018 UAE,Asensio
-527,Super Cup,Spain,2017/2018,Asensio
-528,UEFA Champions League,Europe,2017/2018,Asensio
-529,UEFA Super Cup,Europe,2017/2018,Asensio
-530,FIFA Club World Cup,World,2017 UAE,Asensio
-532,La Liga,Spain,2016/2017,Asensio
-533,UEFA Champions League,Europe,2016/2017,Asensio
-534,UEFA Super Cup,Europe,2016/2017,Asensio
-535,FIFA Club World Cup,World,2016 Japan,Asensio
-536,UEFA U19 Championship,Europe,2015 Greece,Asensio
-538,Sudamericano U20,South-America,Peru 2011,Casemiro
-539,La Liga,Spain,2019/2020,Casemiro
-540,Super Cup,Spain,2019/2020,Casemiro
-541,Copa America,South-America,2019 Brazil,Casemiro
-543,FIFA Club World Cup,World,2018 UAE,Casemiro
-544,UEFA Super Cup,Europe,2017/2018,Casemiro
-545,Super Cup,Spain,2017/2018,Casemiro
-546,UEFA Champions League,Europe,2017/2018,Casemiro
-547,FIFA Club World Cup,World,2017 UAE,Casemiro
-548,La Liga,Spain,2016/2017,Casemiro
-549,UEFA Super Cup,Europe,2016/2017,Casemiro
-550,UEFA Champions League,Europe,2016/2017,Casemiro
-551,FIFA Club World Cup,World,2016 Japan,Casemiro
-552,UEFA Champions League,Europe,2015/2016,Casemiro
-556,UEFA Champions League,Europe,2013/2014,Casemiro
-557,Copa del Rey,Spain,2013/2014,Casemiro
-558,International Champions Cup,World,2013,Casemiro
-561,CONMEBOL Sudamericana,South-America,2012,Casemiro
-562,U20 World Cup,World,2011 Colombia,Casemiro
-563,La Liga,Spain,2019/2020,T. Kroos
-564,Super Cup,Spain,2019/2020,T. Kroos
-566,FIFA Club World Cup,World,2018 UAE,T. Kroos
-567,UEFA Super Cup,Europe,2017/2018,T. Kroos
-568,UEFA Champions League,Europe,2017/2018,T. Kroos
-569,Super Cup,Spain,2017/2018,T. Kroos
-570,FIFA Club World Cup,World,2017 UAE,T. Kroos
-571,La Liga,Spain,2016/2017,T. Kroos
-572,UEFA Super Cup,Europe,2016/2017,T. Kroos
-573,UEFA Champions League,Europe,2016/2017,T. Kroos
-574,FIFA Club World Cup,World,2016 Japan,T. Kroos
-576,UEFA Champions League,Europe,2015/2016,T. Kroos
-580,UEFA Super Cup,Europe,2014/2015,T. Kroos
-581,FIFA Club World Cup,World,2014 Morocco,T. Kroos
-582,World Cup,World,2014 Brazil,T. Kroos
-583,Bundesliga,Germany,2013/2014,T. Kroos
-585,DFB Pokal,Germany,2013/2014,T. Kroos
-586,UEFA Super Cup,Europe,2013/2014,T. Kroos
-587,FIFA Club World Cup,World,2013 Morocco,T. Kroos
-588,Audi Cup,World,2013,T. Kroos
-589,Bundesliga,Germany,2012/2013,T. Kroos
-590,UEFA Champions League,Europe,2012/2013,T. Kroos
-591,Super Cup,Germany,2012/2013,T. Kroos
-592,DFB Pokal,Germany,2012/2013,T. Kroos
-597,Super Cup,Germany,2010/2011,T. Kroos
-599,DFB Pokal,Germany,2007/2008,T. Kroos
-600,Bundesliga,Germany,2007/2008,T. Kroos
-601,Liga Pokal,Germany,2007,T. Kroos
-602,La Liga,Spain,2019/2020,L. Modrić
-603,Super Cup,Spain,2019/2020,L. Modrić
-605,FIFA Club World Cup,World,2018 UAE,L. Modrić
-607,UEFA Super Cup,Europe,2017/2018,L. Modrić
-608,UEFA Champions League,Europe,2017/2018,L. Modrić
-609,Super Cup,Spain,2017/2018,L. Modrić
-610,FIFA Club World Cup,World,2017 UAE,L. Modrić
-611,La Liga,Spain,2016/2017,L. Modrić
-612,UEFA Super Cup,Europe,2016/2017,L. Modrić
-613,UEFA Champions League,Europe,2016/2017,L. Modrić
-614,FIFA Club World Cup,World,2016 Japan,L. Modrić
-616,UEFA Champions League,Europe,2015/2016,L. Modrić
-618,UEFA Super Cup,Europe,2014/2015,L. Modrić
-621,FIFA Club World Cup,World,2014 Morocco,L. Modrić
-622,Copa del Rey,Spain,2013/2014,L. Modrić
-623,UEFA Champions League,Europe,2013/2014,L. Modrić
-624,International Champions Cup,World,2013,L. Modrić
-625,Super Cup,Spain,2012/2013,L. Modrić
-629,Cup,Croatia,2007/2008,L. Modrić
-630,1. HNL,Croatia,2007/2008,L. Modrić
-631,Cup,Croatia,2006/2007,L. Modrić
-632,1. HNL,Croatia,2006/2007,L. Modrić
-633,1. HNL,Croatia,2005/2006,L. Modrić
-634,La Liga,Spain,2019/2020,F. Valverde
-635,Super Cup,Spain,2019/2020,F. Valverde
-636,China Cup,World,2019,F. Valverde
-638,FIFA Club World Cup,World,2018 UAE,F. Valverde
-639,Copa del Rey Juvenil,Spain,2017,F. Valverde
-640,División de Honor Juvenil,Spain,2016/2017,F. Valverde
-641,Primera División,Uruguay,2015/2016,F. Valverde
-642,Super Cup,Spain,2019/2020,Lucas Vázquez
-643,La Liga,Spain,2019/2020,Lucas Vázquez
-645,FIFA Club World Cup,World,2018 UAE,Lucas Vázquez
-646,Super Cup,Spain,2017/2018,Lucas Vázquez
-647,UEFA Champions League,Europe,2017/2018,Lucas Vázquez
-648,UEFA Super Cup,Europe,2017/2018,Lucas Vázquez
-649,FIFA Club World Cup,World,2017 UAE,Lucas Vázquez
-650,La Liga,Spain,2016/2017,Lucas Vázquez
-651,UEFA Champions League,Europe,2016/2017,Lucas Vázquez
-652,UEFA Super Cup,Europe,2016/2017,Lucas Vázquez
-653,FIFA Club World Cup,World,2016 Japan,Lucas Vázquez
-654,UEFA Champions League,Europe,2015/2016,Lucas Vázquez
-657,UEFA Super Cup,Europe,2014/2015,Lucas Vázquez
-658,UEFA Champions League,Europe,2013/2014,Lucas Vázquez
-659,Copa del Rey,Spain,2013/2014,Lucas Vázquez
-660,Segunda B,Spain,2011/2012,Lucas Vázquez
-661,Super Cup,Spain,2019/2020,K. Benzema
-662,La Liga,Spain,2019/2020,K. Benzema
-664,FIFA Club World Cup,World,2018 UAE,K. Benzema
-665,Super Cup,Spain,2017/2018,K. Benzema
-666,UEFA Champions League,Europe,2017/2018,K. Benzema
-667,UEFA Super Cup,Europe,2017/2018,K. Benzema
-668,FIFA Club World Cup,World,2017 UAE,K. Benzema
-669,La Liga,Spain,2016/2017,K. Benzema
-670,UEFA Champions League,Europe,2016/2017,K. Benzema
-671,UEFA Super Cup,Europe,2016/2017,K. Benzema
-672,FIFA Club World Cup,World,2016 Japan,K. Benzema
-673,UEFA Champions League,Europe,2015/2016,K. Benzema
-676,UEFA Super Cup,Europe,2014/2015,K. Benzema
-679,FIFA Club World Cup,World,2014 Morocco,K. Benzema
-680,Copa del Rey,Spain,2013/2014,K. Benzema
-681,UEFA Champions League,Europe,2013/2014,K. Benzema
-682,International Champions Cup,World,2013,K. Benzema
-683,Super Cup,Spain,2012/2013,K. Benzema
-687,La Liga,Spain,2011/2012,K. Benzema
-688,Copa del Rey,Spain,2010/2011,K. Benzema
-692,Coupe de France,France,2007/2008,K. Benzema
-693,Ligue 1,France,2007/2008,K. Benzema
-694,Trophée des Champions,France,2007/2008,K. Benzema
-695,Ligue 1,France,2006/2007,K. Benzema
-696,Trophée des Champions,France,2006/2007,K. Benzema
-698,Ligue 1,France,2005/2006,K. Benzema
-699,Trophée des Champions,France,2005/2006,K. Benzema
-700,Ligue 1,France,2004/2005,K. Benzema
-701,Trophée des Champions,France,2004/2005,K. Benzema
-702,La Liga,Spain,2019/2020,Vinícius Júnior
-703,Super Cup,Spain,2019/2020,Vinícius Júnior
-705,FIFA Club World Cup,World,2018 UAE,Vinícius Júnior
-706,Sudamericano U17,South-America,2017 Chile,Vinícius Júnior
-708,Carioca 1,Brazil,2017,Vinícius Júnior
-710,La Liga,Spain,2019/2020,E. Hazard
-711,Super Cup,Spain,2019/2020,E. Hazard
-712,UEFA Europa League,Europe,2018/2019,E. Hazard
-715,FA Cup,England,2017/2018,E. Hazard
-717,Premier League,England,2016/2017,E. Hazard
-720,League Cup,England,2014/2015,E. Hazard
-721,Premier League,England,2014/2015,E. Hazard
-725,UEFA Europa League,Europe,2012/2013,E. Hazard
-729,Coupe de France,France,2010/2011,E. Hazard
-730,Ligue 1,France,2010/2011,E. Hazard
-731,UEFA Youth League,Europe,2019/2020,Marvin
-732,Alkass International Cup,World,2017,Marvin
-734,La Liga,Spain,2019/2020,Miguel Gutiérrez
-735,Super Cup,Spain,2019/2020,Miguel Gutiérrez
-736,UEFA Youth League,Europe,2019/2020,Miguel Gutiérrez
-737,UEFA U19 Championship,Europe,2019 Armenia,Miguel Gutiérrez
-739,UEFA Youth League,Europe,2019/2020,Sergio Arribas
-740,UEFA Youth League,Europe,2019/2020,Víctor Chust
-741,UEFA U19 Championship,Europe,2019 Armenia,Víctor Chust
-744,UEFA U17 Championship,Europe,2017 Croatia,Víctor Chust
-745,Copa del Rey Juvenil,Spain,2017,Víctor Chust
-746,División de Honor Juvenil,Spain,2016/2017,Víctor Chust
-747,UEFA Youth League,Europe,2019/2020,Sergio Santos
-748,UEFA Youth League,Europe,2019/2020,Antonio Blanco
-749,UEFA U19 Championship,Europe,2019 Armenia,Antonio Blanco
-752,UEFA U17 Championship,Europe,2017 Croatia,Antonio Blanco
-753,Copa del Rey Juvenil,Spain,2017,Antonio Blanco
-754,División de Honor Juvenil,Spain,2016/2017,Antonio Blanco
-758,UEFA Super Cup,Europe,2018/2019,J. Oblak
-760,UEFA Europa League,Europe,2017/2018,J. Oblak
-761,Audi Cup,World,2017,J. Oblak
-763,Super Cup,Spain,2014/2015,J. Oblak
-764,Primeira Liga,Portugal,2013/2014,J. Oblak
-765,Taça de Portugal,Portugal,2013/2014,J. Oblak
-766,Taça da Liga,Portugal,2013/2014,J. Oblak
-769,China Cup,World,2019,J. Giménez
-772,UEFA Super Cup,Europe,2018/2019,J. Giménez
-773,China Cup,World,2018,J. Giménez
-775,UEFA Europa League,Europe,2017/2018,J. Giménez
-776,Audi Cup,World,2017,J. Giménez
-778,Super Cup,Spain,2014/2015,J. Giménez
-779,La Liga,Spain,2013/2014,J. Giménez
-786,UEFA Super Cup,Europe,2018/2019,S. Savić
-788,UEFA Europa League,Europe,2017/2018,S. Savić
-789,Audi Cup,World,2017,S. Savić
-792,Community Shield,England,2012/2013,S. Savić
-793,Premier League,England,2011/2012,S. Savić
-795,Super Liga,Serbia,2010/2011,S. Savić
-796,Cup,Serbia,2010/2011,S. Savić
-800,UEFA Super Cup,Europe,2018/2019,Koke
-801,UEFA Europa League,Europe,2017/2018,Koke
-803,Audi Cup,World,2017,Koke
-805,Super Cup,Spain,2014/2015,Koke
-808,La Liga,Spain,2013/2014,Koke
-809,UEFA U21 Championship,Europe,2013 Israel,Koke
-810,Copa del Rey,Spain,2012/2013,Koke
-811,UEFA Super Cup,Europe,2012/2013,Koke
-812,UEFA Europa League,Europe,2011/2012,Koke
-813,UEFA U19 Championship,Europe,2011 Romania,Koke
-814,UEFA Super Cup,Europe,2010/2011,Koke
-817,UEFA Europa League,Europe,2009/2010,Koke
-821,International Champions Cup,World,2018,K. Trippier
-829,UEFA Europa League,Europe,2017/2018,Š. Vrsaljko
-830,Audi Cup,World,2017,Š. Vrsaljko
-831,Super Cup,Croatia,2013/2014,Š. Vrsaljko
-832,1. HNL,Croatia,2012/2013,Š. Vrsaljko
-833,1. HNL,Croatia,2011/2012,Š. Vrsaljko
-834,Cup,Croatia,2011/2012,Š. Vrsaljko
-835,1. HNL,Croatia,2010/2011,Š. Vrsaljko
-836,Cup,Croatia,2010/2011,Š. Vrsaljko
-837,1. HNL,Croatia,2009/2010,Š. Vrsaljko
-843,Super Cup,Portugal,2018/2019,Felipe
-845,Primeira Liga,Portugal,2017/2018,Felipe
-847,Serie A,Brazil,2015,Felipe
-848,CONMEBOL Recopa,South-America,2013/2014,Felipe
-849,Paulista A1,Brazil,2013,Felipe
-850,FIFA Club World Cup,World,2012 Japan,Felipe
-851,CONMEBOL Libertadores,South-America,2012,Felipe
-852,La Liga,Spain,2019/2020,M. Díaz
-853,Super Cup,Spain,2019/2020,M. Díaz
-854,FIFA Club World Cup,World,2018 UAE,M. Díaz
-855,La Liga,Spain,2016/2017,M. Díaz
-856,UEFA Champions League,Europe,2016/2017,M. Díaz
-857,UEFA Super Cup,Europe,2016/2017,M. Díaz
-858,FIFA Club World Cup,World,2016 Japan,M. Díaz
-860,UEFA Champions League,Europe,2015/2016,M. Díaz
-861,Copa del Rey,Spain,2018/2019,G. Kondogbia
-863,U20 World Cup,World,2013 Turkey,G. Kondogbia
-864,Community Shield,England,2020/2021,L. Torreira
-865,FA Cup,England,2019/2020,L. Torreira
-866,China Cup,World,2019,L. Torreira
-870,China Cup,World,2018,L. Torreira
-875,La Liga,Spain,2019/2020,Rodrygo
-876,Super Cup,Spain,2019/2020,Rodrygo
-880,Paranaense 1,Brazil,2019,Renan Lodi
-881,CONMEBOL Sudamericana,South-America,2018,Renan Lodi
-882,Paranaense 1,Brazil,2018,Renan Lodi
-891,Segunda División,Spain,2014/2015,Vadillo
-894,UEFA Europa League,Europe,2017/2018,Miguel San Román
-895,UEFA U19 Championship,Europe,2019 Armenia,Ricard Sánchez
-897,UEFA Youth League,Europe,2019/2020,Óscar Subiela
-901,UEFA Super Cup,Europe,2018/2019,T. Lemar
-902,World Cup,World,2018 Russia,T. Lemar
-906,Ligue 1,France,2016/2017,T. Lemar
-908,World Youth Festival Toulon,World,2015,T. Lemar
-912,UEFA Super Cup,Europe,2018/2019,Vitolo
-914,UEFA Europa League,Europe,2017/2018,Vitolo
-917,Supercopa Euroamericana,World,2016,Vitolo
-919,UEFA Europa League,Europe,2015/2016,Vitolo
-922,UEFA Europa League,Europe,2014/2015,Vitolo
-924,UEFA Europa League,Europe,2013/2014,Vitolo
-928,UEFA Super Cup,Europe,2018/2019,Toni Moya
-929,Copa del Rey Juvenil,Spain,2018,Toni Moya
-931,División de Honor Juvenil,Spain,2017/2018,Toni Moya
-932,UEFA Europa League,Europe,2017/2018,Toni Moya
-934,Audi Cup,World,2017,Toni Moya
-938,UEFA Super Cup,Europe,2018/2019,Saúl
-940,UEFA Europa League,Europe,2017/2018,Saúl
-942,Audi Cup,World,2017,Saúl
-944,Super Cup,Spain,2014/2015,Saúl
-945,Copa del Rey,Spain,2012/2013,Saúl
-946,UEFA Super Cup,Europe,2012/2013,Saúl
-947,UEFA Europa League,Europe,2011/2012,Saúl
-955,UEFA Super Cup,Europe,2018/2019,Á. Correa
-957,UEFA Europa League,Europe,2017/2018,Á. Correa
-958,Audi Cup,World,2017,Á. Correa
-960,Sudamericano U20,South-America,2015 Uruguay,Á. Correa
-962,CONMEBOL Libertadores,South-America,2014,Á. Correa
-963,Liga Profesional Argentina,Argentina,2013/2014 Torneo Ini,Á. Correa
-967,Trofeo Joan Gamper,World,2020,Iñaki Peña
-970,Trofeo Joan Gamper,World,2019,Iñaki Peña
-971,La Liga,Spain,2018/2019,Iñaki Peña
-973,UEFA Youth League,Europe,2017/2018,Iñaki Peña
-976,Trofeo Joan Gamper,World,2020,M. ter Stegen
-978,Trofeo Joan Gamper,World,2019,M. ter Stegen
-980,La Liga,Spain,2018/2019,M. ter Stegen
-982,Super Cup,Spain,2018/2019,M. ter Stegen
-983,Trofeo Joan Gamper,World,2018,M. ter Stegen
-984,Supercopa de Catalunya,Spain,2018,M. ter Stegen
-985,La Liga,Spain,2017/2018,M. ter Stegen
-987,Copa del Rey,Spain,2017/2018,M. ter Stegen
-988,Confederations Cup,World,2017 Russia,M. ter Stegen
-989,Trofeo Joan Gamper,World,2017,M. ter Stegen
-990,Super Cup,Spain,2016/2017,M. ter Stegen
-991,Copa del Rey,Spain,2016/2017,M. ter Stegen
-994,Trofeo Joan Gamper,World,2016,M. ter Stegen
-995,Copa del Rey,Spain,2015/2016,M. ter Stegen
-997,UEFA Super Cup,Europe,2015/2016,M. ter Stegen
-998,La Liga,Spain,2015/2016,M. ter Stegen
-999,FIFA Club World Cup,World,2015 Japan,M. ter Stegen
-1000,La Liga,Spain,2014/2015,M. ter Stegen
-1001,UEFA Champions League,Europe,2014/2015,M. ter Stegen
-1002,Copa del Rey,Spain,2014/2015,M. ter Stegen
-1003,Play-offs 1/2,Germany,2010/2011,M. ter Stegen
-1006,Trofeo Joan Gamper,World,2019,L. Suárez
-1007,La Liga,Spain,2018/2019,L. Suárez
-1009,Super Cup,Spain,2018/2019,L. Suárez
-1010,Supercopa de Catalunya,Spain,2018,L. Suárez
-1011,China Cup,World,2018,L. Suárez
-1012,Trofeo Joan Gamper,World,2018,L. Suárez
-1014,Copa del Rey,Spain,2017/2018,L. Suárez
-1015,La Liga,Spain,2017/2018,L. Suárez
-1016,Trofeo Joan Gamper,World,2017,L. Suárez
-1017,Copa del Rey,Spain,2016/2017,L. Suárez
-1019,Super Cup,Spain,2016/2017,L. Suárez
-1020,Trofeo Joan Gamper,World,2016,L. Suárez
-1023,Copa del Rey,Spain,2015/2016,L. Suárez
-1024,La Liga,Spain,2015/2016,L. Suárez
-1025,UEFA Super Cup,Europe,2015/2016,L. Suárez
-1026,FIFA Club World Cup,World,2015 Japan,L. Suárez
-1027,Copa del Rey,Spain,2014/2015,L. Suárez
-1028,La Liga,Spain,2014/2015,L. Suárez
-1029,UEFA Champions League,Europe,2014/2015,L. Suárez
-1031,League Cup,England,2011/2012,L. Suárez
-1033,Copa America,South-America,2011 Argentina,L. Suárez
-1036,KNVB Beker,Holland,2009/2010,L. Suárez
-1037,Super Cup,Holland,2007/2008,L. Suárez
-1042,Super Cup,Portugal,2018/2019,H. Herrera
-1046,Primeira Liga,Portugal,2017/2018,H. Herrera
-1049,Concacaf Gold Cup,Nc-America,2015,H. Herrera
-1052,Super Cup,Portugal,2013/2014,H. Herrera
-1054,Olympics,World,2012 London,H. Herrera
-1055,Olympic Qualifying Concacaf,Nc-America,2012,H. Herrera
-1056,World Youth Festival Toulon,World,2012,H. Herrera
-1057,Concacaf Champions League,Nc-America,2009/2010,H. Herrera
-1060,Primeira Liga,Portugal,2018/2019,João Félix
-1061,UEFA Nations League,Europe,2018/2019,João Félix
-1062,Júniores U19,Portugal,2017/2018,João Félix
-1065,Emirates Cup,World,2019,M. Dembélé
-1066,Premiership,Scotland,2017/2018,M. Dembélé
-1067,FA Cup,Scotland,2017/2018,M. Dembélé
-1068,League Cup,Scotland,2017/2018,M. Dembélé
-1069,Premiership,Scotland,2016/2017,M. Dembélé
-1070,FA Cup,Scotland,2016/2017,M. Dembélé
-1071,League Cup,Scotland,2016/2017,M. Dembélé
-1075,FIFA Club World Cup,World,2018 UAE,Llorente
-1076,Super Cup,Spain,2017/2018,Llorente
-1077,UEFA Champions League,Europe,2017/2018,Llorente
-1078,UEFA Super Cup,Europe,2017/2018,Llorente
-1079,FIFA Club World Cup,World,2017 UAE,Llorente
-1081,UEFA Super Cup,Europe,2016/2017,Llorente
-1084,UEFA Champions League,Europe,2015/2016,Llorente
-1086,UEFA Super Cup,Europe,2014/2015,Llorente
-1089,FIFA Club World Cup,World,2014 Morocco,Llorente
-1091,Trofeo Joan Gamper,World,2020,Neto
-1093,Trofeo Joan Gamper,World,2019,Neto
-1094,Copa del Rey,Spain,2018/2019,Neto
-1095,Serie A,Italy,2016/2017,Neto
-1096,Coppa Italia,Italy,2016/2017,Neto
-1099,Serie A,Italy,2015/2016,Neto
-1100,Coppa Italia,Italy,2015/2016,Neto
-1101,Super Cup,Italy,2015/2016,Neto
-1105,Paranaense 1,Brazil,2009,Neto
-1106,Audi Cup,World,2017,Y. Carrasco
-1109,Ligue 2,France,2012/2013,Y. Carrasco
-1110,Segunda División,Spain,2016/2017,Koke
-1111,UEFA Youth League,Europe,2017/2018,Josep Calavera
-1113,Copa del Rey Juvenil,Spain,2018,Óscar Castro
-1114,División de Honor Juvenil,Spain,2017/2018,Óscar Castro
-1116,UEFA U17 Championship,Europe,2017 Croatia,Álvaro García
-1118,Trofeo Joan Gamper,World,2020,Jordi Alba
-1120,Trofeo Joan Gamper,World,2019,Jordi Alba
-1122,La Liga,Spain,2018/2019,Jordi Alba
-1123,Super Cup,Spain,2018/2019,Jordi Alba
-1125,Trofeo Joan Gamper,World,2018,Jordi Alba
-1126,Supercopa de Catalunya,Spain,2018,Jordi Alba
-1127,La Liga,Spain,2017/2018,Jordi Alba
-1129,Copa del Rey,Spain,2017/2018,Jordi Alba
-1130,Trofeo Joan Gamper,World,2017,Jordi Alba
-1131,Super Cup,Spain,2016/2017,Jordi Alba
-1132,Copa del Rey,Spain,2016/2017,Jordi Alba
-1134,Trofeo Joan Gamper,World,2016,Jordi Alba
-1136,UEFA Super Cup,Europe,2015/2016,Jordi Alba
-1137,Copa del Rey,Spain,2015/2016,Jordi Alba
-1139,La Liga,Spain,2015/2016,Jordi Alba
-1140,FIFA Club World Cup,World,2015 Japan,Jordi Alba
-1141,La Liga,Spain,2014/2015,Jordi Alba
-1142,UEFA Champions League,Europe,2014/2015,Jordi Alba
-1143,Copa del Rey,Spain,2014/2015,Jordi Alba
-1145,Copa Catalunya,Spain,2013/2014,Jordi Alba
-1146,Super Cup,Spain,2013/2014,Jordi Alba
-1149,La Liga,Spain,2012/2013,Jordi Alba
-1151,European Championship,Europe,2012 Poland/Ukraine,Jordi Alba
-1153,Trofeo Joan Gamper,World,2020,C. Lenglet
-1156,Trofeo Joan Gamper,World,2019,C. Lenglet
-1157,La Liga,Spain,2018/2019,C. Lenglet
-1159,Super Cup,Spain,2018/2019,C. Lenglet
-1160,Trofeo Joan Gamper,World,2018,C. Lenglet
-1163,Ligue 2,France,2015/2016,C. Lenglet
-1165,Trofeo Joan Gamper,World,2020,Piqué
-1168,Trofeo Joan Gamper,World,2019,Piqué
-1169,La Liga,Spain,2018/2019,Piqué
-1170,Super Cup,Spain,2018/2019,Piqué
-1172,Supercopa de Catalunya,Spain,2018,Piqué
-1173,Trofeo Joan Gamper,World,2018,Piqué
-1174,Copa del Rey,Spain,2017/2018,Piqué
-1176,La Liga,Spain,2017/2018,Piqué
-1177,Trofeo Joan Gamper,World,2017,Piqué
-1179,Super Cup,Spain,2016/2017,Piqué
-1180,Copa del Rey,Spain,2016/2017,Piqué
-1181,Trofeo Joan Gamper,World,2016,Piqué
-1184,Copa del Rey,Spain,2015/2016,Piqué
-1185,La Liga,Spain,2015/2016,Piqué
-1186,UEFA Super Cup,Europe,2015/2016,Piqué
-1187,FIFA Club World Cup,World,2015 Japan,Piqué
-1188,La Liga,Spain,2014/2015,Piqué
-1189,Copa del Rey,Spain,2014/2015,Piqué
-1190,UEFA Champions League,Europe,2014/2015,Piqué
-1192,Copa Catalunya,Spain,2013/2014,Piqué
-1193,Super Cup,Spain,2013/2014,Piqué
-1196,La Liga,Spain,2012/2013,Piqué
-1198,European Championship,Europe,2012 Poland/Ukraine,Piqué
-1199,Super Cup,Spain,2011/2012,Piqué
-1200,UEFA Super Cup,Europe,2011/2012,Piqué
-1201,Copa del Rey,Spain,2011/2012,Piqué
-1203,FIFA Club World Cup,World,2011 Japan,Piqué
-1204,Audi Cup,World,2011,Piqué
-1205,Super Cup,Spain,2010/2011,Piqué
-1206,La Liga,Spain,2010/2011,Piqué
-1207,UEFA Champions League,Europe,2010/2011,Piqué
-1209,World Cup,World,2010 South Africa,Piqué
-1210,La Liga,Spain,2009/2010,Piqué
-1211,UEFA Super Cup,Europe,2009/2010,Piqué
-1212,Super Cup,Spain,2009/2010,Piqué
-1213,FIFA Club World Cup,World,2009 UAE,Piqué
-1214,La Liga,Spain,2008/2009,Piqué
-1215,Copa del Rey,Spain,2008/2009,Piqué
-1216,UEFA Champions League,Europe,2008/2009,Piqué
-1217,Premier League,England,2007/2008,Piqué
-1218,UEFA Champions League,Europe,2007/2008,Piqué
-1219,Community Shield,England,2007/2008,Piqué
-1221,League Cup,England,2005/2006,Piqué
-1224,Trofeo Joan Gamper,World,2020,Sergi Roberto
-1226,Trofeo Joan Gamper,World,2019,Sergi Roberto
-1228,La Liga,Spain,2018/2019,Sergi Roberto
-1229,Super Cup,Spain,2018/2019,Sergi Roberto
-1231,Trofeo Joan Gamper,World,2018,Sergi Roberto
-1232,Supercopa de Catalunya,Spain,2018,Sergi Roberto
-1233,La Liga,Spain,2017/2018,Sergi Roberto
-1234,Copa del Rey,Spain,2017/2018,Sergi Roberto
-1236,Trofeo Joan Gamper,World,2017,Sergi Roberto
-1237,Super Cup,Spain,2016/2017,Sergi Roberto
-1238,Copa del Rey,Spain,2016/2017,Sergi Roberto
-1240,Trofeo Joan Gamper,World,2016,Sergi Roberto
-1242,UEFA Super Cup,Europe,2015/2016,Sergi Roberto
-1243,La Liga,Spain,2015/2016,Sergi Roberto
-1244,Copa del Rey,Spain,2015/2016,Sergi Roberto
-1246,FIFA Club World Cup,World,2015 Japan,Sergi Roberto
-1247,UEFA Champions League,Europe,2014/2015,Sergi Roberto
-1248,Copa del Rey,Spain,2014/2015,Sergi Roberto
-1249,La Liga,Spain,2014/2015,Sergi Roberto
-1250,Copa Catalunya,Spain,2013/2014,Sergi Roberto
-1252,Super Cup,Spain,2013/2014,Sergi Roberto
-1254,UEFA U21 Championship,Europe,2013 Israel,Sergi Roberto
-1256,La Liga,Spain,2012/2013,Sergi Roberto
-1258,Copa del Rey,Spain,2011/2012,Sergi Roberto
-1259,Super Cup,Spain,2011/2012,Sergi Roberto
-1260,UEFA Super Cup,Europe,2011/2012,Sergi Roberto
-1261,UEFA U19 Championship,Europe,2011 Romania,Sergi Roberto
-1262,FIFA Club World Cup,World,2011 Japan,Sergi Roberto
-1263,Audi Cup,World,2011,Sergi Roberto
-1264,UEFA Champions League,Europe,2010/2011,Sergi Roberto
-1265,Super Cup,Spain,2010/2011,Sergi Roberto
-1267,La Liga,Spain,2010/2011,Sergi Roberto
-1269,Trofeo Joan Gamper,World,2020,S. Umtiti
-1272,Trofeo Joan Gamper,World,2019,S. Umtiti
-1273,La Liga,Spain,2018/2019,S. Umtiti
-1275,Super Cup,Spain,2018/2019,S. Umtiti
-1276,World Cup,World,2018 Russia,S. Umtiti
-1277,Supercopa de Catalunya,Spain,2018,S. Umtiti
-1278,Trofeo Joan Gamper,World,2018,S. Umtiti
-1279,La Liga,Spain,2017/2018,S. Umtiti
-1280,Copa del Rey,Spain,2017/2018,S. Umtiti
-1282,Trofeo Joan Gamper,World,2017,S. Umtiti
-1283,Copa del Rey,Spain,2016/2017,S. Umtiti
-1284,Super Cup,Spain,2016/2017,S. Umtiti
-1288,Trofeo Joan Gamper,World,2016,S. Umtiti
-1293,U20 World Cup,World,2013 Turkey,S. Umtiti
-1294,Trophée des Champions,France,2012/2013,S. Umtiti
-1296,Coupe de France,France,2011/2012,S. Umtiti
-1298,Trofeo Joan Gamper,World,2020,Sergio Busquets
-1301,Trofeo Joan Gamper,World,2019,Sergio Busquets
-1302,La Liga,Spain,2018/2019,Sergio Busquets
-1303,Super Cup,Spain,2018/2019,Sergio Busquets
-1305,Supercopa de Catalunya,Spain,2018,Sergio Busquets
-1306,Trofeo Joan Gamper,World,2018,Sergio Busquets
-1308,La Liga,Spain,2017/2018,Sergio Busquets
-1309,Copa del Rey,Spain,2017/2018,Sergio Busquets
-1310,Trofeo Joan Gamper,World,2017,Sergio Busquets
-1312,Super Cup,Spain,2016/2017,Sergio Busquets
-1313,Copa del Rey,Spain,2016/2017,Sergio Busquets
-1315,Trofeo Joan Gamper,World,2016,Sergio Busquets
-1316,Copa del Rey,Spain,2015/2016,Sergio Busquets
-1317,UEFA Super Cup,Europe,2015/2016,Sergio Busquets
-1318,La Liga,Spain,2015/2016,Sergio Busquets
-1320,FIFA Club World Cup,World,2015 Japan,Sergio Busquets
-1321,Copa del Rey,Spain,2014/2015,Sergio Busquets
-1322,UEFA Champions League,Europe,2014/2015,Sergio Busquets
-1323,La Liga,Spain,2014/2015,Sergio Busquets
-1325,Super Cup,Spain,2013/2014,Sergio Busquets
-1327,Copa Catalunya,Spain,2013/2014,Sergio Busquets
-1329,La Liga,Spain,2012/2013,Sergio Busquets
-1331,European Championship,Europe,2012 Poland/Ukraine,Sergio Busquets
-1332,Super Cup,Spain,2011/2012,Sergio Busquets
-1333,UEFA Super Cup,Europe,2011/2012,Sergio Busquets
-1334,Copa del Rey,Spain,2011/2012,Sergio Busquets
-1336,FIFA Club World Cup,World,2011 Japan,Sergio Busquets
-1337,Audi Cup,World,2011,Sergio Busquets
-1338,UEFA Champions League,Europe,2010/2011,Sergio Busquets
-1339,La Liga,Spain,2010/2011,Sergio Busquets
-1341,Super Cup,Spain,2010/2011,Sergio Busquets
-1342,World Cup,World,2010 South Africa,Sergio Busquets
-1343,La Liga,Spain,2009/2010,Sergio Busquets
-1344,Super Cup,Spain,2009/2010,Sergio Busquets
-1345,UEFA Super Cup,Europe,2009/2010,Sergio Busquets
-1346,FIFA Club World Cup,World,2009 UAE,Sergio Busquets
-1347,UEFA Champions League,Europe,2008/2009,Sergio Busquets
-1348,La Liga,Spain,2008/2009,Sergio Busquets
-1349,Copa del Rey,Spain,2008/2009,Sergio Busquets
-1351,Trofeo Joan Gamper,World,2020,Álex Collado
-1354,Trofeo Joan Gamper,World,2019,Álex Collado
-1355,La Liga,Spain,2018/2019,Álex Collado
-1357,Super Cup,Spain,2018/2019,Álex Collado
-1358,Trofeo Joan Gamper,World,2018,Álex Collado
-1359,UEFA Youth League,Europe,2017/2018,Álex Collado
-1361,Trofeo Joan Gamper,World,2020,Philippe Coutinho
-1362,UEFA Champions League,Europe,2019/2020,Philippe Coutinho
-1363,Bundesliga,Germany,2019/2020,Philippe Coutinho
-1364,DFB Pokal,Germany,2019/2020,Philippe Coutinho
-1365,Copa America,South-America,2019 Brazil,Philippe Coutinho
-1366,Trofeo Joan Gamper,World,2019,Philippe Coutinho
-1368,La Liga,Spain,2018/2019,Philippe Coutinho
-1370,Super Cup,Spain,2018/2019,Philippe Coutinho
-1371,Trofeo Joan Gamper,World,2018,Philippe Coutinho
-1372,Supercopa de Catalunya,Spain,2018,Philippe Coutinho
-1373,La Liga,Spain,2017/2018,Philippe Coutinho
-1374,Copa del Rey,Spain,2017/2018,Philippe Coutinho
-1376,Premier League Asia Trophy,World,2017,Philippe Coutinho
-1382,U20 World Cup,World,2011 Colombia,Philippe Coutinho
-1383,Super Cup,Italy,2010/2011,Philippe Coutinho
-1384,Coppa Italia,Italy,2010/2011,Philippe Coutinho
-1387,FIFA Club World Cup,World,2010 UAE,Philippe Coutinho
-1388,Serie B,Brazil,2009,Philippe Coutinho
-1390,Trofeo Joan Gamper,World,2020,Riqui Puig
-1393,Trofeo Joan Gamper,World,2019,Riqui Puig
-1394,La Liga,Spain,2018/2019,Riqui Puig
-1396,Super Cup,Spain,2018/2019,Riqui Puig
-1397,Trofeo Joan Gamper,World,2018,Riqui Puig
-1398,UEFA Youth League,Europe,2017/2018,Riqui Puig
-1400,Trofeo Joan Gamper,World,2020,F. de Jong
-1402,Trofeo Joan Gamper,World,2019,F. de Jong
-1404,Eredivisie,Holland,2018/2019,F. de Jong
-1405,KNVB Beker,Holland,2018/2019,F. de Jong
-1412,Trofeo Joan Gamper,World,2020,M. Pjanić
-1413,Serie A,Italy,2019/2020,M. Pjanić
-1416,Serie A,Italy,2018/2019,M. Pjanić
-1417,Super Cup,Italy,2018/2019,M. Pjanić
-1418,Coppa Italia,Italy,2017/2018,M. Pjanić
-1420,Serie A,Italy,2017/2018,M. Pjanić
-1421,Coppa Italia,Italy,2016/2017,M. Pjanić
-1423,Serie A,Italy,2016/2017,M. Pjanić
-1431,Ligue 2,France,2006/2007,M. Pjanić
-1433,Trofeo Joan Gamper,World,2020,Junior Firpo
-1435,UEFA U21 Championship,Europe,2019 Italy,Junior Firpo
-1436,Trofeo Joan Gamper,World,2019,Junior Firpo
-1438,Trofeo Joan Gamper,World,2020,Matheus Fernandes
-1439,Florida Cup,World,2020,Matheus Fernandes
-1440,Carioca 1,Brazil,2018,Matheus Fernandes
-1442,Super Cup,Holland,2019/2020,S. Dest
-1443,Eredivisie U19,Holland,2018/2019,S. Dest
-1444,Youth Cup U19,Holland,2018/2019,S. Dest
-1445,Concacaf U20,Nc-America,2018 USA,S. Dest
-1449,Trofeo Joan Gamper,World,2020,R. Araújo
-1451,Trofeo Joan Gamper,World,2019,R. Araújo
-1454,Trofeo Joan Gamper,World,2020,Ilaix Kourouma
-1456,Trofeo Joan Gamper,World,2020,Arnau Tenas
-1458,UEFA U19 Championship,Europe,2019 Armenia,Arnau Tenas
-1460,Trofeo Joan Gamper,World,2020,Óscar Mingueza
-1462,UEFA Youth League,Europe,2017/2018,Óscar Mingueza
-1464,Trofeo Joan Gamper,World,2020,A. Griezmann
-1466,Trofeo Joan Gamper,World,2019,A. Griezmann
-1468,UEFA Super Cup,Europe,2018/2019,A. Griezmann
-1469,World Cup,World,2018 Russia,A. Griezmann
-1471,UEFA Europa League,Europe,2017/2018,A. Griezmann
-1472,Audi Cup,World,2017,A. Griezmann
-1475,Super Cup,Spain,2014/2015,A. Griezmann
-1476,UEFA U19 Championship,Europe,2010 France,A. Griezmann
-1477,Segunda División,Spain,2009/2010,A. Griezmann
-1478,UEFA U19 Championship,Europe,2019 Armenia,Víctor Mollejo
-1481,UEFA Super Cup,Europe,2018/2019,Víctor Mollejo
-1483,UEFA Europa League,Europe,2017/2018,Víctor Mollejo
-1484,Audi Cup,World,2017,Víctor Mollejo
-1486,Trofeo Joan Gamper,World,2020,O. Dembélé
-1489,Trofeo Joan Gamper,World,2019,O. Dembélé
-1490,La Liga,Spain,2018/2019,O. Dembélé
-1492,Super Cup,Spain,2018/2019,O. Dembélé
-1493,World Cup,World,2018 Russia,O. Dembélé
-1494,Supercopa de Catalunya,Spain,2018,O. Dembélé
-1495,Trofeo Joan Gamper,World,2018,O. Dembélé
-1496,La Liga,Spain,2017/2018,O. Dembélé
-1497,Copa del Rey,Spain,2017/2018,O. Dembélé
-1499,DFB Pokal,Germany,2016/2017,O. Dembélé
-1502,Trofeo Joan Gamper,World,2020,L. Messi
-1505,Trofeo Joan Gamper,World,2019,L. Messi
-1506,Super Cup,Spain,2018/2019,L. Messi
-1507,La Liga,Spain,2018/2019,L. Messi
-1509,Trofeo Joan Gamper,World,2018,L. Messi
-1510,Supercopa de Catalunya,Spain,2018,L. Messi
-1511,Copa del Rey,Spain,2017/2018,L. Messi
-1512,La Liga,Spain,2017/2018,L. Messi
-1514,Trofeo Joan Gamper,World,2017,L. Messi
-1515,Copa del Rey,Spain,2016/2017,L. Messi
-1517,Super Cup,Spain,2016/2017,L. Messi
-1520,Trofeo Joan Gamper,World,2016,L. Messi
-1521,Copa del Rey,Spain,2015/2016,L. Messi
-1523,La Liga,Spain,2015/2016,L. Messi
-1524,UEFA Super Cup,Europe,2015/2016,L. Messi
-1525,FIFA Club World Cup,World,2015 Japan,L. Messi
-1527,UEFA Champions League,Europe,2014/2015,L. Messi
-1528,La Liga,Spain,2014/2015,L. Messi
-1529,Copa del Rey,Spain,2014/2015,L. Messi
-1531,Copa Catalunya,Spain,2013/2014,L. Messi
-1532,Super Cup,Spain,2013/2014,L. Messi
-1535,La Liga,Spain,2012/2013,L. Messi
-1537,Super Cup,Spain,2011/2012,L. Messi
-1538,UEFA Super Cup,Europe,2011/2012,L. Messi
-1539,Copa del Rey,Spain,2011/2012,L. Messi
-1541,FIFA Club World Cup,World,2011 Japan,L. Messi
-1542,Audi Cup,World,2011,L. Messi
-1543,Super Cup,Spain,2010/2011,L. Messi
-1544,UEFA Champions League,Europe,2010/2011,L. Messi
-1545,La Liga,Spain,2010/2011,L. Messi
-1547,Super Cup,Spain,2009/2010,L. Messi
-1548,La Liga,Spain,2009/2010,L. Messi
-1549,UEFA Super Cup,Europe,2009/2010,L. Messi
-1550,FIFA Club World Cup,World,2009 UAE,L. Messi
-1551,La Liga,Spain,2008/2009,L. Messi
-1552,Copa del Rey,Spain,2008/2009,L. Messi
-1553,UEFA Champions League,Europe,2008/2009,L. Messi
-1554,Olympics,World,2008 Beijing,L. Messi
-1557,Super Cup,Spain,2006/2007,L. Messi
-1560,Super Cup,Spain,2005/2006,L. Messi
-1561,UEFA Champions League,Europe,2005/2006,L. Messi
-1562,La Liga,Spain,2005/2006,L. Messi
-1563,La Liga,Spain,2004/2005,L. Messi
-1564,Copa del Rey,Spain,2018/2019,Álex Centelles
-1566,UEFA Europa League,Europe,2019/2020,J. Koundé
-1568,UEFA Europa League,Europe,2019/2020,Javi Díaz
-1570,UEFA Europa League,Europe,2019/2020,T. Vaclík
-1573,Super League,Switzerland,2016/2017,T. Vaclík
-1574,Schweizer Pokal,Switzerland,2016/2017,T. Vaclík
-1575,Super League,Switzerland,2015/2016,T. Vaclík
-1576,Super League,Switzerland,2014/2015,T. Vaclík
-1578,Czech Liga,Czech-Republic,2013/2014,T. Vaclík
-1579,Cup,Czech-Republic,2013/2014,T. Vaclík
-1584,UEFA Europa League,Europe,2019/2020,J. Gnagnon
-1588,UEFA Europa League,Europe,2019/2020,Sergi Gómez
-1592,Super Cup,Spain,2013/2014,Sergi Gómez
-1593,Copa Catalunya,Spain,2013/2014,Sergi Gómez
-1594,La Liga,Spain,2012/2013,Sergi Gómez
-1597,Copa del Rey,Spain,2011/2012,Sergi Gómez
-1598,Super Cup,Spain,2011/2012,Sergi Gómez
-1599,UEFA Super Cup,Europe,2011/2012,Sergi Gómez
-1600,UEFA U19 Championship,Europe,2011 Romania,Sergi Gómez
-1601,FIFA Club World Cup,World,2011 Japan,Sergi Gómez
-1602,Audi Cup,World,2011,Sergi Gómez
-1603,UEFA Champions League,Europe,2010/2011,Sergi Gómez
-1604,Super Cup,Spain,2010/2011,Sergi Gómez
-1606,La Liga,Spain,2010/2011,Sergi Gómez
-1608,UEFA Europa League,Europe,2019/2020,Y. Bounou
-1609,Supercopa de Catalunya,Spain,2019,Y. Bounou
-1612,Super Cup,Spain,2014/2015,Y. Bounou
-1613,La Liga,Spain,2013/2014,Y. Bounou
-1618,Trofeo Joan Gamper,World,2020,M. Braithwaite
-1620,DBU Pokalen,Denmark,2012/2013,M. Braithwaite
-1621,1st Division,Denmark,2011/2012,M. Braithwaite
-1623,Eredivisie,Holland,2014/2015,K. Rekik
-1626,UEFA U17 Championship,Europe,2011 Serbia,K. Rekik
-1628,Trofeo Joan Gamper,World,2020,Trincão
-1629,Taça da Liga,Portugal,2019/2020,Trincão
-1630,UEFA U19 Championship,Europe,2018 Finland,Trincão
-1632,Copa del Rey,Spain,2016/2017,Cardona
-1634,Trofeo Joan Gamper,World,2020,Pedri
-1636,Trofeo Joan Gamper,World,2020,Ansu Fati
-1639,Trofeo Joan Gamper,World,2020,K. De La Fuente
-1641,UEFA Europa League,Europe,2019/2020,Alfonso Pastor
-1645,Trofeo Joan Gamper,World,2019,I. Rakitić
-1647,La Liga,Spain,2018/2019,I. Rakitić
-1649,Super Cup,Spain,2018/2019,I. Rakitić
-1651,Trofeo Joan Gamper,World,2018,I. Rakitić
-1652,Supercopa de Catalunya,Spain,2018,I. Rakitić
-1653,La Liga,Spain,2017/2018,I. Rakitić
-1654,Copa del Rey,Spain,2017/2018,I. Rakitić
-1656,Trofeo Joan Gamper,World,2017,I. Rakitić
-1657,Super Cup,Spain,2016/2017,I. Rakitić
-1658,Copa del Rey,Spain,2016/2017,I. Rakitić
-1661,Trofeo Joan Gamper,World,2016,I. Rakitić
-1662,Copa del Rey,Spain,2015/2016,I. Rakitić
-1664,La Liga,Spain,2015/2016,I. Rakitić
-1665,UEFA Super Cup,Europe,2015/2016,I. Rakitić
-1666,FIFA Club World Cup,World,2015 Japan,I. Rakitić
-1667,Copa del Rey,Spain,2014/2015,I. Rakitić
-1668,UEFA Champions League,Europe,2014/2015,I. Rakitić
-1669,La Liga,Spain,2014/2015,I. Rakitić
-1670,UEFA Europa League,Europe,2013/2014,I. Rakitić
-1674,Schweizer Pokal,Switzerland,2006/2007,I. Rakitić
-1676,UEFA Europa League,Europe,2019/2020,L. de Jong
-1680,Eredivisie,Holland,2017/2018,L. de Jong
-1681,Super Cup,Holland,2016/2017,L. de Jong
-1682,Eredivisie,Holland,2015/2016,L. de Jong
-1683,Super Cup,Holland,2015/2016,L. de Jong
-1684,Eredivisie,Holland,2014/2015,L. de Jong
-1685,Super Cup,Holland,2011/2012,L. de Jong
-1687,KNVB Beker,Holland,2010/2011,L. de Jong
-1688,Super Cup,Holland,2010/2011,L. de Jong
-1689,Eredivisie,Holland,2009/2010,L. de Jong
-1691,UEFA Europa League,Europe,2019/2020,Óliver Torres
-1695,Super Cup,Portugal,2018/2019,Óliver Torres
-1697,Primeira Liga,Portugal,2017/2018,Óliver Torres
-1702,Copa del Rey,Spain,2012/2013,Óliver Torres
-1703,UEFA Super Cup,Europe,2012/2013,Óliver Torres
-1704,UEFA U19 Championship,Europe,2012 Estonia,Óliver Torres
-1705,UEFA Europa League,Europe,2011/2012,Óliver Torres
-1707,UEFA Europa League,Europe,2019/2020,Fernando
-1708,Süper Lig,Turkey,2018/2019,Fernando
-1710,Cup,Turkey,2018/2019,Fernando
-1711,Süper Lig,Turkey,2017/2018,Fernando
-1712,League Cup,England,2015/2016,Fernando
-1715,Super Cup,Portugal,2013/2014,Fernando
-1718,Super Cup,Portugal,2012/2013,Fernando
-1719,Primeira Liga,Portugal,2012/2013,Fernando
-1720,Super Cup,Portugal,2011/2012,Fernando
-1721,Primeira Liga,Portugal,2011/2012,Fernando
-1723,Taça de Portugal,Portugal,2010/2011,Fernando
-1724,Super Cup,Portugal,2010/2011,Fernando
-1725,Primeira Liga,Portugal,2010/2011,Fernando
-1726,UEFA Europa League,Europe,2010/2011,Fernando
-1728,Taça de Portugal,Portugal,2009/2010,Fernando
-1729,Super Cup,Portugal,2009/2010,Fernando
-1730,Taça de Portugal,Portugal,2008/2009,Fernando
-1732,Primeira Liga,Portugal,2008/2009,Fernando
-1734,UEFA Europa League,Europe,2019/2020,N. Gudelj
-1735,Taça de Portugal,Portugal,2018/2019,N. Gudelj
-1736,Taça da Liga,Portugal,2018/2019,N. Gudelj
-1737,Super Cup,China-Pr,2018,N. Gudelj
-1742,Taça de Portugal,Portugal,2018/2019,M. Acuña
-1743,Taça da Liga,Portugal,2018/2019,M. Acuña
-1745,Taça da Liga,Portugal,2017/2018,M. Acuña
-1747,Liga Profesional Argentina,Argentina,2014,M. Acuña
-1749,UEFA Europa League,Europe,2019/2020,Suso
-1752,Super Cup,Italy,2016/2017,Suso
-1754,UEFA U19 Championship,Europe,2012 Estonia,Suso
-1756,UEFA Europa League,Europe,2019/2020,L. Ocampos
-1760,Ligue 2,France,2012/2013,L. Ocampos
-1761,Primera Nacional,Argentina,2011/2012,L. Ocampos
-1763,UEFA Europa League,Europe,2019/2020,Escudero
-1769,Supercopa Euroamericana,World,2016,Escudero
-1771,UEFA Europa League,Europe,2015/2016,Escudero
-1773,Super Cup,Germany,2011/2012,Escudero
-1774,DFB Pokal,Germany,2010/2011,Escudero
+128,1. HNL,Croatia,2019/2020,D. Kądzior
+129,Super Cup,Croatia,2019/2020,D. Kądzior
+130,1. HNL,Croatia,2018/2019,D. Kądzior
+134,UEFA Europa League,Europe,2019/2020,Javier Vázquez López
+142,Emirates Cup,World,2019,Y. Koné
+144,Algarve Football Cup,Europe,2018,Y. Koné
+148,UEFA U21 Championship,Europe,2019 Italy,Borja Mayoral
+150,Super Cup,Spain,2017/2018,Borja Mayoral
+151,UEFA Champions League,Europe,2017/2018,Borja Mayoral
+152,UEFA Super Cup,Europe,2017/2018,Borja Mayoral
+153,FIFA Club World Cup,World,2017 UAE,Borja Mayoral
+156,UEFA Champions League,Europe,2015/2016,Borja Mayoral
+157,UEFA U19 Championship,Europe,2015 Greece,Borja Mayoral
+161,Segunda División,Spain,2019/2020,Enrique Hermoso Gómez
+162,Segunda División,Spain,2017/2018,Enrique Hermoso Gómez
+163,Segunda División,Spain,2019/2020,Juan Sebastián Peñaloza Ragga
+164,Super Cup,Italy,2019/2020,B. Adekanye
+167,Segunda División,Spain,2015/2016,Asier Benito Sasiain
+169,Trofeo Joan Gamper,World,2019,Javier Enrique Delgado Saverio
+170,La Liga,Spain,2018/2019,Javier Enrique Delgado Saverio
+172,UEFA Youth League,Europe,2017/2018,Javier Enrique Delgado Saverio
+176,UEFA Super Cup,Europe,2018/2019,J. Oblak
+178,UEFA Europa League,Europe,2017/2018,J. Oblak
+179,Audi Cup,World,2017,J. Oblak
+181,Super Cup,Spain,2014/2015,J. Oblak
+182,Primeira Liga,Portugal,2013/2014,J. Oblak
+183,Taça de Portugal,Portugal,2013/2014,J. Oblak
+184,Taça da Liga,Portugal,2013/2014,J. Oblak
+187,China Cup,World,2019,J. Giménez
+190,UEFA Super Cup,Europe,2018/2019,J. Giménez
+191,China Cup,World,2018,J. Giménez
+193,UEFA Europa League,Europe,2017/2018,J. Giménez
+194,Audi Cup,World,2017,J. Giménez
+196,Super Cup,Spain,2014/2015,J. Giménez
+197,La Liga,Spain,2013/2014,J. Giménez
+204,UEFA Super Cup,Europe,2018/2019,S. Savić
+206,UEFA Europa League,Europe,2017/2018,S. Savić
+207,Audi Cup,World,2017,S. Savić
+210,Community Shield,England,2012/2013,S. Savić
+211,Premier League,England,2011/2012,S. Savić
+213,Super Liga,Serbia,2010/2011,S. Savić
+214,Cup,Serbia,2010/2011,S. Savić
+218,UEFA Super Cup,Europe,2018/2019,T. Partey
+220,UEFA Europa League,Europe,2017/2018,T. Partey
+221,Audi Cup,World,2017,T. Partey
+223,Copa del Rey,Spain,2012/2013,T. Partey
+224,Trophée des Champions,France,2020/2021,Rafinha
+225,Trofeo Joan Gamper,World,2020,Rafinha
+227,Trofeo Joan Gamper,World,2019,Rafinha
+228,La Liga,Spain,2018/2019,Rafinha
+229,Super Cup,Spain,2018/2019,Rafinha
+231,Trofeo Joan Gamper,World,2018,Rafinha
+233,Trofeo Joan Gamper,World,2017,Rafinha
+234,Copa del Rey,Spain,2016/2017,Rafinha
+236,Super Cup,Spain,2016/2017,Rafinha
+237,Olympics,World,2016 Rio de Janeiro,Rafinha
+239,Trofeo Joan Gamper,World,2016,Rafinha
+240,La Liga,Spain,2015/2016,Rafinha
+242,Copa del Rey,Spain,2015/2016,Rafinha
+243,UEFA Super Cup,Europe,2015/2016,Rafinha
+244,FIFA Club World Cup,World,2015 Japan,Rafinha
+245,UEFA Champions League,Europe,2014/2015,Rafinha
+246,Copa del Rey,Spain,2014/2015,Rafinha
+247,La Liga,Spain,2014/2015,Rafinha
+248,World Youth Festival Toulon,World,2013,Rafinha
+250,La Liga,Spain,2012/2013,Rafinha
+251,Super Cup,Spain,2011/2012,Rafinha
+252,Copa del Rey,Spain,2011/2012,Rafinha
+254,UEFA Super Cup,Europe,2011/2012,Rafinha
+255,FIFA Club World Cup,World,2011 Japan,Rafinha
+256,Audi Cup,World,2011,Rafinha
+260,International Champions Cup,World,2018,K. Trippier
+268,UEFA Europa League,Europe,2017/2018,Š. Vrsaljko
+269,Audi Cup,World,2017,Š. Vrsaljko
+270,Super Cup,Croatia,2013/2014,Š. Vrsaljko
+271,1. HNL,Croatia,2012/2013,Š. Vrsaljko
+272,1. HNL,Croatia,2011/2012,Š. Vrsaljko
+273,Cup,Croatia,2011/2012,Š. Vrsaljko
+274,1. HNL,Croatia,2010/2011,Š. Vrsaljko
+275,Cup,Croatia,2010/2011,Š. Vrsaljko
+276,1. HNL,Croatia,2009/2010,Š. Vrsaljko
+282,Super Cup,Portugal,2018/2019,Felipe
+284,Primeira Liga,Portugal,2017/2018,Felipe
+286,Serie A,Brazil,2015,Felipe
+287,CONMEBOL Recopa,South-America,2013/2014,Felipe
+288,Paulista A1,Brazil,2013,Felipe
+289,FIFA Club World Cup,World,2012 Japan,Felipe
+290,CONMEBOL Libertadores,South-America,2012,Felipe
+291,La Liga,Spain,2019/2020,J. Rodríguez
+292,Super Cup,Spain,2019/2020,J. Rodríguez
+293,Bundesliga,Germany,2018/2019,J. Rodríguez
+294,Super Cup,Germany,2018/2019,J. Rodríguez
+295,DFB Pokal,Germany,2018/2019,J. Rodríguez
+296,Bundesliga,Germany,2017/2018,J. Rodríguez
+297,Super Cup,Germany,2017/2018,J. Rodríguez
+299,La Liga,Spain,2016/2017,J. Rodríguez
+300,UEFA Super Cup,Europe,2016/2017,J. Rodríguez
+301,UEFA Champions League,Europe,2016/2017,J. Rodríguez
+302,FIFA Club World Cup,World,2016 Japan,J. Rodríguez
+304,UEFA Champions League,Europe,2015/2016,J. Rodríguez
+307,UEFA Super Cup,Europe,2014/2015,J. Rodríguez
+309,FIFA Club World Cup,World,2014 Morocco,J. Rodríguez
+311,Super Cup,Portugal,2012/2013,J. Rodríguez
+313,Primeira Liga,Portugal,2012/2013,J. Rodríguez
+314,Super Cup,Portugal,2011/2012,J. Rodríguez
+315,Primeira Liga,Portugal,2011/2012,J. Rodríguez
+317,Super Cup,Portugal,2010/2011,J. Rodríguez
+318,Taça de Portugal,Portugal,2010/2011,J. Rodríguez
+319,Primeira Liga,Portugal,2010/2011,J. Rodríguez
+320,UEFA Europa League,Europe,2010/2011,J. Rodríguez
+321,Liga Profesional Argentina,Argentina,2009/2010 Apertura,J. Rodríguez
+323,Taça de Portugal,Portugal,2018/2019,A. Diaby
+324,Taça da Liga,Portugal,2018/2019,A. Diaby
+325,First Division A,Belgium,2017/2018,A. Diaby
+327,Super Cup,Belgium,2016/2017,A. Diaby
+328,First Division A,Belgium,2015/2016,A. Diaby
+337,Paranaense 1,Brazil,2019,Renan Lodi
+338,CONMEBOL Sudamericana,South-America,2018,Renan Lodi
+339,Paranaense 1,Brazil,2018,Renan Lodi
+347,UEFA Super Cup,Europe,2016/2017,M. Ødegaard
+348,FIFA Club World Cup,World,2016 Japan,M. Ødegaard
+350,UEFA Champions League,Europe,2015/2016,M. Ødegaard
+355,UEFA Super Cup,Europe,2014/2015,Llorente
+356,FIFA Club World Cup,World,2014 Morocco,Llorente
+357,Copa del Rey,Spain,2013/2014,Llorente
+358,UEFA Champions League,Europe,2013/2014,Llorente
+359,International Champions Cup,World,2013,Llorente
+362,Sudamericano U20,South-America,Peru 2011,Willian José
+363,UEFA Champions League,Europe,2013/2014,Willian José
+364,Copa del Rey,Spain,2013/2014,Willian José
+365,CONMEBOL Sudamericana,South-America,2012,Willian José
+366,U20 World Cup,World,2011 Colombia,Willian José
+367,1. Lig,Turkey,2014/2015,O. Yokuşlu
+369,UEFA Europa League,Europe,2017/2018,Miguel San Román
+370,UEFA U19 Championship,Europe,2019 Armenia,Ricard Sánchez
+375,UEFA Super Cup,Europe,2018/2019,T. Lemar
+376,World Cup,World,2018 Russia,T. Lemar
+380,Ligue 1,France,2016/2017,T. Lemar
+382,World Youth Festival Toulon,World,2015,T. Lemar
+386,UEFA Super Cup,Europe,2018/2019,Vitolo
+388,UEFA Europa League,Europe,2017/2018,Vitolo
+391,Supercopa Euroamericana,World,2016,Vitolo
+393,UEFA Europa League,Europe,2015/2016,Vitolo
+396,UEFA Europa League,Europe,2014/2015,Vitolo
+398,UEFA Europa League,Europe,2013/2014,Vitolo
+402,UEFA Super Cup,Europe,2018/2019,Toni Moya
+403,Copa del Rey Juvenil,Spain,2018,Toni Moya
+405,División de Honor Juvenil,Spain,2017/2018,Toni Moya
+406,UEFA Europa League,Europe,2017/2018,Toni Moya
+408,Audi Cup,World,2017,Toni Moya
+412,UEFA Super Cup,Europe,2018/2019,Saúl
+414,UEFA Europa League,Europe,2017/2018,Saúl
+416,Audi Cup,World,2017,Saúl
+418,Super Cup,Spain,2014/2015,Saúl
+419,Copa del Rey,Spain,2012/2013,Saúl
+420,UEFA Super Cup,Europe,2012/2013,Saúl
+421,UEFA Europa League,Europe,2011/2012,Saúl
+425,UEFA Super Cup,Europe,2018/2019,Koke
+426,UEFA Europa League,Europe,2017/2018,Koke
+428,Audi Cup,World,2017,Koke
+430,Super Cup,Spain,2014/2015,Koke
+433,La Liga,Spain,2013/2014,Koke
+434,UEFA U21 Championship,Europe,2013 Israel,Koke
+435,Copa del Rey,Spain,2012/2013,Koke
+436,UEFA Super Cup,Europe,2012/2013,Koke
+437,UEFA Europa League,Europe,2011/2012,Koke
+438,UEFA U19 Championship,Europe,2011 Romania,Koke
+439,UEFA Super Cup,Europe,2010/2011,Koke
+442,UEFA Europa League,Europe,2009/2010,Koke
+450,UEFA Super Cup,Europe,2018/2019,Á. Correa
+452,UEFA Europa League,Europe,2017/2018,Á. Correa
+453,Audi Cup,World,2017,Á. Correa
+455,Sudamericano U20,South-America,2015 Uruguay,Á. Correa
+457,CONMEBOL Libertadores,South-America,2014,Á. Correa
+458,Liga Profesional Argentina,Argentina,2013/2014 Torneo Ini,Á. Correa
+463,Trofeo Joan Gamper,World,2019,L. Suárez
+464,La Liga,Spain,2018/2019,L. Suárez
+466,Super Cup,Spain,2018/2019,L. Suárez
+467,Supercopa de Catalunya,Spain,2018,L. Suárez
+468,China Cup,World,2018,L. Suárez
+469,Trofeo Joan Gamper,World,2018,L. Suárez
+471,Copa del Rey,Spain,2017/2018,L. Suárez
+472,La Liga,Spain,2017/2018,L. Suárez
+473,Trofeo Joan Gamper,World,2017,L. Suárez
+474,Copa del Rey,Spain,2016/2017,L. Suárez
+476,Super Cup,Spain,2016/2017,L. Suárez
+477,Trofeo Joan Gamper,World,2016,L. Suárez
+480,Copa del Rey,Spain,2015/2016,L. Suárez
+481,La Liga,Spain,2015/2016,L. Suárez
+482,UEFA Super Cup,Europe,2015/2016,L. Suárez
+483,FIFA Club World Cup,World,2015 Japan,L. Suárez
+484,Copa del Rey,Spain,2014/2015,L. Suárez
+485,La Liga,Spain,2014/2015,L. Suárez
+486,UEFA Champions League,Europe,2014/2015,L. Suárez
+488,League Cup,England,2011/2012,L. Suárez
+490,Copa America,South-America,2011 Argentina,L. Suárez
+493,KNVB Beker,Holland,2009/2010,L. Suárez
+494,Super Cup,Holland,2007/2008,L. Suárez
+499,Super Cup,Portugal,2018/2019,H. Herrera
+503,Primeira Liga,Portugal,2017/2018,H. Herrera
+506,Concacaf Gold Cup,Nc-America,2015,H. Herrera
+509,Super Cup,Portugal,2013/2014,H. Herrera
+511,Olympics,World,2012 London,H. Herrera
+512,Olympic Qualifying Concacaf,Nc-America,2012,H. Herrera
+513,World Youth Festival Toulon,World,2012,H. Herrera
+514,Concacaf Champions League,Nc-America,2009/2010,H. Herrera
+517,Primeira Liga,Portugal,2018/2019,João Félix
+518,UEFA Nations League,Europe,2018/2019,João Félix
+519,Júniores U19,Portugal,2017/2018,João Félix
+522,Emirates Cup,World,2019,M. Dembélé
+523,Premiership,Scotland,2017/2018,M. Dembélé
+524,FA Cup,Scotland,2017/2018,M. Dembélé
+525,League Cup,Scotland,2017/2018,M. Dembélé
+526,Premiership,Scotland,2016/2017,M. Dembélé
+527,FA Cup,Scotland,2016/2017,M. Dembélé
+528,League Cup,Scotland,2016/2017,M. Dembélé
+532,FIFA Club World Cup,World,2018 UAE,Llorente
+533,Super Cup,Spain,2017/2018,Llorente
+534,UEFA Champions League,Europe,2017/2018,Llorente
+535,UEFA Super Cup,Europe,2017/2018,Llorente
+536,FIFA Club World Cup,World,2017 UAE,Llorente
+538,UEFA Super Cup,Europe,2016/2017,Llorente
+541,UEFA Champions League,Europe,2015/2016,Llorente
+543,UEFA Super Cup,Europe,2014/2015,Llorente
+546,FIFA Club World Cup,World,2014 Morocco,Llorente
+547,Copa del Rey,Spain,2018/2019,G. Kondogbia
+549,U20 World Cup,World,2013 Turkey,G. Kondogbia
+550,Community Shield,England,2020/2021,L. Torreira
+551,FA Cup,England,2019/2020,L. Torreira
+552,China Cup,World,2019,L. Torreira
+556,China Cup,World,2018,L. Torreira
+558,Audi Cup,World,2017,Y. Carrasco
+561,Ligue 2,France,2012/2013,Y. Carrasco
+562,UEFA Youth League,Europe,2017/2018,Josep Calavera
+564,Copa del Rey Juvenil,Spain,2018,Óscar Castro
+565,División de Honor Juvenil,Spain,2017/2018,Óscar Castro
+567,UEFA U17 Championship,Europe,2017 Croatia,Álvaro García
+568,La Liga,Spain,2019/2020,Éder Militão
+569,Super Cup,Spain,2019/2020,Éder Militão
+570,Copa America,South-America,2019 Brazil,Éder Militão
+574,Florida Cup,World,2017,Éder Militão
+575,La Liga,Spain,2019/2020,F. Mendy
+576,Super Cup,Spain,2019/2020,F. Mendy
+577,La Liga,Spain,2019/2020,T. Courtois
+578,Super Cup,Spain,2019/2020,T. Courtois
+580,FIFA Club World Cup,World,2018 UAE,T. Courtois
+581,FA Cup,England,2017/2018,T. Courtois
+583,Premier League,England,2016/2017,T. Courtois
+586,Premier League,England,2014/2015,T. Courtois
+587,League Cup,England,2014/2015,T. Courtois
+588,La Liga,Spain,2013/2014,T. Courtois
+591,Copa del Rey,Spain,2012/2013,T. Courtois
+592,UEFA Super Cup,Europe,2012/2013,T. Courtois
+593,UEFA Europa League,Europe,2011/2012,T. Courtois
+594,First Division A,Belgium,2010/2011,T. Courtois
+596,Cup,Belgium,2008/2009,T. Courtois
+597,Super Cup,Spain,2019/2020,Carvajal
+598,La Liga,Spain,2019/2020,Carvajal
+600,FIFA Club World Cup,World,2018 UAE,Carvajal
+601,UEFA Super Cup,Europe,2017/2018,Carvajal
+602,Super Cup,Spain,2017/2018,Carvajal
+603,UEFA Champions League,Europe,2017/2018,Carvajal
+604,FIFA Club World Cup,World,2017 UAE,Carvajal
+605,La Liga,Spain,2016/2017,Carvajal
+606,UEFA Super Cup,Europe,2016/2017,Carvajal
+607,UEFA Champions League,Europe,2016/2017,Carvajal
+608,FIFA Club World Cup,World,2016 Japan,Carvajal
+609,UEFA Champions League,Europe,2015/2016,Carvajal
+613,UEFA Super Cup,Europe,2014/2015,Carvajal
+615,FIFA Club World Cup,World,2014 Morocco,Carvajal
+616,UEFA Champions League,Europe,2013/2014,Carvajal
+617,Copa del Rey,Spain,2013/2014,Carvajal
+618,UEFA U21 Championship,Europe,2013 Israel,Carvajal
+619,International Champions Cup,World,2013,Carvajal
+620,Segunda B,Spain,2011/2012,Carvajal
+621,UEFA U19 Championship,Europe,2011 Romania,Carvajal
+622,La Liga,Spain,2019/2020,Nacho
+623,Super Cup,Spain,2019/2020,Nacho
+625,FIFA Club World Cup,World,2018 UAE,Nacho
+626,UEFA Super Cup,Europe,2017/2018,Nacho
+627,UEFA Champions League,Europe,2017/2018,Nacho
+628,Super Cup,Spain,2017/2018,Nacho
+629,FIFA Club World Cup,World,2017 UAE,Nacho
+630,La Liga,Spain,2016/2017,Nacho
+631,UEFA Super Cup,Europe,2016/2017,Nacho
+632,UEFA Champions League,Europe,2016/2017,Nacho
+633,FIFA Club World Cup,World,2016 Japan,Nacho
+634,UEFA Champions League,Europe,2015/2016,Nacho
+638,UEFA Super Cup,Europe,2014/2015,Nacho
+640,FIFA Club World Cup,World,2014 Morocco,Nacho
+641,Copa del Rey,Spain,2013/2014,Nacho
+642,UEFA Champions League,Europe,2013/2014,Nacho
+643,UEFA U21 Championship,Europe,2013 Israel,Nacho
+644,International Champions Cup,World,2013,Nacho
+647,Super Cup,Spain,2012/2013,Nacho
+648,La Liga,Spain,2011/2012,Nacho
+649,Segunda B,Spain,2011/2012,Nacho
+652,Bundesliga,Germany,2019/2020,Odriozola
+653,DFB Pokal,Germany,2019/2020,Odriozola
+654,Super Cup,Spain,2019/2020,Odriozola
+655,UEFA Champions League,Europe,2019/2020,Odriozola
+657,FIFA Club World Cup,World,2018 UAE,Odriozola
+659,Super Cup,Spain,2019/2020,Sergio Ramos
+660,La Liga,Spain,2019/2020,Sergio Ramos
+662,FIFA Club World Cup,World,2018 UAE,Sergio Ramos
+663,Super Cup,Spain,2017/2018,Sergio Ramos
+664,UEFA Champions League,Europe,2017/2018,Sergio Ramos
+665,UEFA Super Cup,Europe,2017/2018,Sergio Ramos
+666,FIFA Club World Cup,World,2017 UAE,Sergio Ramos
+667,La Liga,Spain,2016/2017,Sergio Ramos
+668,UEFA Champions League,Europe,2016/2017,Sergio Ramos
+669,UEFA Super Cup,Europe,2016/2017,Sergio Ramos
+670,FIFA Club World Cup,World,2016 Japan,Sergio Ramos
+672,UEFA Champions League,Europe,2015/2016,Sergio Ramos
+675,UEFA Super Cup,Europe,2014/2015,Sergio Ramos
+677,FIFA Club World Cup,World,2014 Morocco,Sergio Ramos
+678,UEFA Champions League,Europe,2013/2014,Sergio Ramos
+679,Copa del Rey,Spain,2013/2014,Sergio Ramos
+681,International Champions Cup,World,2013,Sergio Ramos
+682,Super Cup,Spain,2012/2013,Sergio Ramos
+685,European Championship,Europe,2012 Poland/Ukraine,Sergio Ramos
+687,La Liga,Spain,2011/2012,Sergio Ramos
+689,Copa del Rey,Spain,2010/2011,Sergio Ramos
+690,World Cup,World,2010 South Africa,Sergio Ramos
+693,Super Cup,Spain,2008/2009,Sergio Ramos
+694,EC Qualification,Europe,2008 Austria/Switzer,Sergio Ramos
+695,European Championship,Europe,2008 Austria/Switzer,Sergio Ramos
+697,La Liga,Spain,2007/2008,Sergio Ramos
+699,La Liga,Spain,2006/2007,Sergio Ramos
+701,La Liga,Spain,2019/2020,R. Varane
+702,Super Cup,Spain,2019/2020,R. Varane
+704,FIFA Club World Cup,World,2018 UAE,R. Varane
+705,World Cup,World,2018 Russia,R. Varane
+706,UEFA Champions League,Europe,2017/2018,R. Varane
+707,UEFA Super Cup,Europe,2017/2018,R. Varane
+708,Super Cup,Spain,2017/2018,R. Varane
+709,FIFA Club World Cup,World,2017 UAE,R. Varane
+710,UEFA Champions League,Europe,2016/2017,R. Varane
+711,La Liga,Spain,2016/2017,R. Varane
+712,UEFA Super Cup,Europe,2016/2017,R. Varane
+713,FIFA Club World Cup,World,2016 Japan,R. Varane
+714,UEFA Champions League,Europe,2015/2016,R. Varane
+719,UEFA Super Cup,Europe,2014/2015,R. Varane
+720,FIFA Club World Cup,World,2014 Morocco,R. Varane
+721,Copa del Rey,Spain,2013/2014,R. Varane
+722,UEFA Champions League,Europe,2013/2014,R. Varane
+723,International Champions Cup,World,2013,R. Varane
+724,Super Cup,Spain,2012/2013,R. Varane
+727,La Liga,Spain,2011/2012,R. Varane
+729,La Liga,Spain,2019/2020,Marcelo
+730,Super Cup,Spain,2019/2020,Marcelo
+732,FIFA Club World Cup,World,2018 UAE,Marcelo
+733,UEFA Champions League,Europe,2017/2018,Marcelo
+734,UEFA Super Cup,Europe,2017/2018,Marcelo
+735,Super Cup,Spain,2017/2018,Marcelo
+736,FIFA Club World Cup,World,2017 UAE,Marcelo
+737,La Liga,Spain,2016/2017,Marcelo
+738,UEFA Champions League,Europe,2016/2017,Marcelo
+739,UEFA Super Cup,Europe,2016/2017,Marcelo
+740,FIFA Club World Cup,World,2016 Japan,Marcelo
+742,UEFA Champions League,Europe,2015/2016,Marcelo
+744,UEFA Super Cup,Europe,2014/2015,Marcelo
+747,FIFA Club World Cup,World,2014 Morocco,Marcelo
+748,Copa del Rey,Spain,2013/2014,Marcelo
+749,UEFA Champions League,Europe,2013/2014,Marcelo
+750,Confederations Cup,World,2013 Brazil,Marcelo
+751,International Champions Cup,World,2013,Marcelo
+752,Super Cup,Spain,2012/2013,Marcelo
+757,La Liga,Spain,2011/2012,Marcelo
+758,Copa del Rey,Spain,2010/2011,Marcelo
+761,Super Cup,Spain,2008/2009,Marcelo
+765,La Liga,Spain,2007/2008,Marcelo
+766,La Liga,Spain,2006/2007,Marcelo
+767,Sudamericano U20,South-America,Peru 2011,Casemiro
+768,La Liga,Spain,2019/2020,Casemiro
+769,Super Cup,Spain,2019/2020,Casemiro
+770,Copa America,South-America,2019 Brazil,Casemiro
+772,FIFA Club World Cup,World,2018 UAE,Casemiro
+773,UEFA Super Cup,Europe,2017/2018,Casemiro
+774,Super Cup,Spain,2017/2018,Casemiro
+775,UEFA Champions League,Europe,2017/2018,Casemiro
+776,FIFA Club World Cup,World,2017 UAE,Casemiro
+777,La Liga,Spain,2016/2017,Casemiro
+778,UEFA Super Cup,Europe,2016/2017,Casemiro
+779,UEFA Champions League,Europe,2016/2017,Casemiro
+780,FIFA Club World Cup,World,2016 Japan,Casemiro
+781,UEFA Champions League,Europe,2015/2016,Casemiro
+785,UEFA Champions League,Europe,2013/2014,Casemiro
+786,Copa del Rey,Spain,2013/2014,Casemiro
+787,International Champions Cup,World,2013,Casemiro
+790,CONMEBOL Sudamericana,South-America,2012,Casemiro
+791,U20 World Cup,World,2011 Colombia,Casemiro
+792,La Liga,Spain,2019/2020,T. Kroos
+793,Super Cup,Spain,2019/2020,T. Kroos
+795,FIFA Club World Cup,World,2018 UAE,T. Kroos
+796,UEFA Super Cup,Europe,2017/2018,T. Kroos
+797,UEFA Champions League,Europe,2017/2018,T. Kroos
+798,Super Cup,Spain,2017/2018,T. Kroos
+799,FIFA Club World Cup,World,2017 UAE,T. Kroos
+800,La Liga,Spain,2016/2017,T. Kroos
+801,UEFA Super Cup,Europe,2016/2017,T. Kroos
+802,UEFA Champions League,Europe,2016/2017,T. Kroos
+803,FIFA Club World Cup,World,2016 Japan,T. Kroos
+805,UEFA Champions League,Europe,2015/2016,T. Kroos
+809,UEFA Super Cup,Europe,2014/2015,T. Kroos
+810,FIFA Club World Cup,World,2014 Morocco,T. Kroos
+811,World Cup,World,2014 Brazil,T. Kroos
+812,Bundesliga,Germany,2013/2014,T. Kroos
+814,DFB Pokal,Germany,2013/2014,T. Kroos
+815,UEFA Super Cup,Europe,2013/2014,T. Kroos
+816,FIFA Club World Cup,World,2013 Morocco,T. Kroos
+817,Audi Cup,World,2013,T. Kroos
+818,Bundesliga,Germany,2012/2013,T. Kroos
+819,UEFA Champions League,Europe,2012/2013,T. Kroos
+820,Super Cup,Germany,2012/2013,T. Kroos
+821,DFB Pokal,Germany,2012/2013,T. Kroos
+826,Super Cup,Germany,2010/2011,T. Kroos
+828,DFB Pokal,Germany,2007/2008,T. Kroos
+829,Bundesliga,Germany,2007/2008,T. Kroos
+830,Liga Pokal,Germany,2007,T. Kroos
+831,La Liga,Spain,2019/2020,L. Modrić
+832,Super Cup,Spain,2019/2020,L. Modrić
+834,FIFA Club World Cup,World,2018 UAE,L. Modrić
+836,UEFA Super Cup,Europe,2017/2018,L. Modrić
+837,UEFA Champions League,Europe,2017/2018,L. Modrić
+838,Super Cup,Spain,2017/2018,L. Modrić
+839,FIFA Club World Cup,World,2017 UAE,L. Modrić
+840,La Liga,Spain,2016/2017,L. Modrić
+841,UEFA Super Cup,Europe,2016/2017,L. Modrić
+842,UEFA Champions League,Europe,2016/2017,L. Modrić
+843,FIFA Club World Cup,World,2016 Japan,L. Modrić
+845,UEFA Champions League,Europe,2015/2016,L. Modrić
+847,UEFA Super Cup,Europe,2014/2015,L. Modrić
+850,FIFA Club World Cup,World,2014 Morocco,L. Modrić
+851,Copa del Rey,Spain,2013/2014,L. Modrić
+852,UEFA Champions League,Europe,2013/2014,L. Modrić
+853,International Champions Cup,World,2013,L. Modrić
+854,Super Cup,Spain,2012/2013,L. Modrić
+858,Cup,Croatia,2007/2008,L. Modrić
+859,1. HNL,Croatia,2007/2008,L. Modrić
+860,Cup,Croatia,2006/2007,L. Modrić
+861,1. HNL,Croatia,2006/2007,L. Modrić
+862,1. HNL,Croatia,2005/2006,L. Modrić
+863,La Liga,Spain,2019/2020,F. Valverde
+864,Super Cup,Spain,2019/2020,F. Valverde
+865,China Cup,World,2019,F. Valverde
+867,FIFA Club World Cup,World,2018 UAE,F. Valverde
+868,Copa del Rey Juvenil,Spain,2017,F. Valverde
+869,División de Honor Juvenil,Spain,2016/2017,F. Valverde
+870,Primera División,Uruguay,2015/2016,F. Valverde
+871,U20 World Cup,World,2019 Poland,A. Lunin
+873,La Liga,Spain,2019/2020,Diego Altube
+874,Super Cup,Spain,2019/2020,Diego Altube
+876,Alkass International Cup,World,2017,Diego Altube
+878,La Liga,Spain,2019/2020,Miguel Gutiérrez
+879,Super Cup,Spain,2019/2020,Miguel Gutiérrez
+880,UEFA Youth League,Europe,2019/2020,Miguel Gutiérrez
+881,UEFA U19 Championship,Europe,2019 Armenia,Miguel Gutiérrez
+883,UEFA Youth League,Europe,2019/2020,Víctor Chust
+884,UEFA U19 Championship,Europe,2019 Armenia,Víctor Chust
+887,UEFA U17 Championship,Europe,2017 Croatia,Víctor Chust
+888,Copa del Rey Juvenil,Spain,2017,Víctor Chust
+889,División de Honor Juvenil,Spain,2016/2017,Víctor Chust
+890,La Liga,Spain,2019/2020,Luis López
+891,UEFA Youth League,Europe,2019/2020,Luis López
+892,UEFA Youth League,Europe,2019/2020,Sergio Santos
+894,Trofeo Joan Gamper,World,2020,Iñaki Peña
+897,Trofeo Joan Gamper,World,2019,Iñaki Peña
+898,La Liga,Spain,2018/2019,Iñaki Peña
+900,UEFA Youth League,Europe,2017/2018,Iñaki Peña
+903,Trofeo Joan Gamper,World,2020,M. ter Stegen
+905,Trofeo Joan Gamper,World,2019,M. ter Stegen
+907,La Liga,Spain,2018/2019,M. ter Stegen
+909,Super Cup,Spain,2018/2019,M. ter Stegen
+910,Trofeo Joan Gamper,World,2018,M. ter Stegen
+911,Supercopa de Catalunya,Spain,2018,M. ter Stegen
+912,La Liga,Spain,2017/2018,M. ter Stegen
+914,Copa del Rey,Spain,2017/2018,M. ter Stegen
+915,Confederations Cup,World,2017 Russia,M. ter Stegen
+916,Trofeo Joan Gamper,World,2017,M. ter Stegen
+917,Super Cup,Spain,2016/2017,M. ter Stegen
+918,Copa del Rey,Spain,2016/2017,M. ter Stegen
+921,Trofeo Joan Gamper,World,2016,M. ter Stegen
+922,Copa del Rey,Spain,2015/2016,M. ter Stegen
+924,UEFA Super Cup,Europe,2015/2016,M. ter Stegen
+925,La Liga,Spain,2015/2016,M. ter Stegen
+926,FIFA Club World Cup,World,2015 Japan,M. ter Stegen
+927,La Liga,Spain,2014/2015,M. ter Stegen
+928,UEFA Champions League,Europe,2014/2015,M. ter Stegen
+929,Copa del Rey,Spain,2014/2015,M. ter Stegen
+930,Play-offs 1/2,Germany,2010/2011,M. ter Stegen
+932,Trofeo Joan Gamper,World,2020,Piqué
+935,Trofeo Joan Gamper,World,2019,Piqué
+936,La Liga,Spain,2018/2019,Piqué
+937,Super Cup,Spain,2018/2019,Piqué
+939,Supercopa de Catalunya,Spain,2018,Piqué
+940,Trofeo Joan Gamper,World,2018,Piqué
+941,Copa del Rey,Spain,2017/2018,Piqué
+943,La Liga,Spain,2017/2018,Piqué
+944,Trofeo Joan Gamper,World,2017,Piqué
+946,Super Cup,Spain,2016/2017,Piqué
+947,Copa del Rey,Spain,2016/2017,Piqué
+948,Trofeo Joan Gamper,World,2016,Piqué
+951,Copa del Rey,Spain,2015/2016,Piqué
+952,La Liga,Spain,2015/2016,Piqué
+953,UEFA Super Cup,Europe,2015/2016,Piqué
+954,FIFA Club World Cup,World,2015 Japan,Piqué
+955,La Liga,Spain,2014/2015,Piqué
+956,Copa del Rey,Spain,2014/2015,Piqué
+957,UEFA Champions League,Europe,2014/2015,Piqué
+959,Copa Catalunya,Spain,2013/2014,Piqué
+960,Super Cup,Spain,2013/2014,Piqué
+963,La Liga,Spain,2012/2013,Piqué
+965,European Championship,Europe,2012 Poland/Ukraine,Piqué
+966,Super Cup,Spain,2011/2012,Piqué
+967,UEFA Super Cup,Europe,2011/2012,Piqué
+968,Copa del Rey,Spain,2011/2012,Piqué
+970,FIFA Club World Cup,World,2011 Japan,Piqué
+971,Audi Cup,World,2011,Piqué
+972,Super Cup,Spain,2010/2011,Piqué
+973,La Liga,Spain,2010/2011,Piqué
+974,UEFA Champions League,Europe,2010/2011,Piqué
+976,World Cup,World,2010 South Africa,Piqué
+977,La Liga,Spain,2009/2010,Piqué
+978,UEFA Super Cup,Europe,2009/2010,Piqué
+979,Super Cup,Spain,2009/2010,Piqué
+980,FIFA Club World Cup,World,2009 UAE,Piqué
+981,La Liga,Spain,2008/2009,Piqué
+982,Copa del Rey,Spain,2008/2009,Piqué
+983,UEFA Champions League,Europe,2008/2009,Piqué
+984,Premier League,England,2007/2008,Piqué
+985,UEFA Champions League,Europe,2007/2008,Piqué
+986,Community Shield,England,2007/2008,Piqué
+988,League Cup,England,2005/2006,Piqué
+990,La Liga,Spain,2019/2020,Isco
+991,Super Cup,Spain,2019/2020,Isco
+993,FIFA Club World Cup,World,2018 UAE,Isco
+994,Super Cup,Spain,2017/2018,Isco
+995,UEFA Champions League,Europe,2017/2018,Isco
+996,UEFA Super Cup,Europe,2017/2018,Isco
+997,FIFA Club World Cup,World,2017 UAE,Isco
+998,La Liga,Spain,2016/2017,Isco
+999,UEFA Super Cup,Europe,2016/2017,Isco
+1000,UEFA Champions League,Europe,2016/2017,Isco
+1001,FIFA Club World Cup,World,2016 Japan,Isco
+1002,UEFA Champions League,Europe,2015/2016,Isco
+1006,UEFA Super Cup,Europe,2014/2015,Isco
+1008,FIFA Club World Cup,World,2014 Morocco,Isco
+1009,UEFA Champions League,Europe,2013/2014,Isco
+1010,Copa del Rey,Spain,2013/2014,Isco
+1011,UEFA U21 Championship,Europe,2013 Israel,Isco
+1012,International Champions Cup,World,2013,Isco
+1013,UEFA U19 Championship,Europe,2011 Romania,Isco
+1015,La Liga,Spain,2019/2020,Asensio
+1016,Super Cup,Spain,2019/2020,Asensio
+1018,FIFA Club World Cup,World,2018 UAE,Asensio
+1019,Super Cup,Spain,2017/2018,Asensio
+1020,UEFA Champions League,Europe,2017/2018,Asensio
+1021,UEFA Super Cup,Europe,2017/2018,Asensio
+1022,FIFA Club World Cup,World,2017 UAE,Asensio
+1024,La Liga,Spain,2016/2017,Asensio
+1025,UEFA Champions League,Europe,2016/2017,Asensio
+1026,UEFA Super Cup,Europe,2016/2017,Asensio
+1027,FIFA Club World Cup,World,2016 Japan,Asensio
+1028,UEFA U19 Championship,Europe,2015 Greece,Asensio
+1030,Super Cup,Spain,2019/2020,Lucas Vázquez
+1031,La Liga,Spain,2019/2020,Lucas Vázquez
+1033,FIFA Club World Cup,World,2018 UAE,Lucas Vázquez
+1034,Super Cup,Spain,2017/2018,Lucas Vázquez
+1035,UEFA Champions League,Europe,2017/2018,Lucas Vázquez
+1036,UEFA Super Cup,Europe,2017/2018,Lucas Vázquez
+1037,FIFA Club World Cup,World,2017 UAE,Lucas Vázquez
+1038,La Liga,Spain,2016/2017,Lucas Vázquez
+1039,UEFA Champions League,Europe,2016/2017,Lucas Vázquez
+1040,UEFA Super Cup,Europe,2016/2017,Lucas Vázquez
+1041,FIFA Club World Cup,World,2016 Japan,Lucas Vázquez
+1042,UEFA Champions League,Europe,2015/2016,Lucas Vázquez
+1045,UEFA Super Cup,Europe,2014/2015,Lucas Vázquez
+1046,UEFA Champions League,Europe,2013/2014,Lucas Vázquez
+1047,Copa del Rey,Spain,2013/2014,Lucas Vázquez
+1048,Segunda B,Spain,2011/2012,Lucas Vázquez
+1049,Super Cup,Spain,2019/2020,K. Benzema
+1050,La Liga,Spain,2019/2020,K. Benzema
+1052,FIFA Club World Cup,World,2018 UAE,K. Benzema
+1053,Super Cup,Spain,2017/2018,K. Benzema
+1054,UEFA Champions League,Europe,2017/2018,K. Benzema
+1055,UEFA Super Cup,Europe,2017/2018,K. Benzema
+1056,FIFA Club World Cup,World,2017 UAE,K. Benzema
+1057,La Liga,Spain,2016/2017,K. Benzema
+1058,UEFA Champions League,Europe,2016/2017,K. Benzema
+1059,UEFA Super Cup,Europe,2016/2017,K. Benzema
+1060,FIFA Club World Cup,World,2016 Japan,K. Benzema
+1061,UEFA Champions League,Europe,2015/2016,K. Benzema
+1064,UEFA Super Cup,Europe,2014/2015,K. Benzema
+1067,FIFA Club World Cup,World,2014 Morocco,K. Benzema
+1068,Copa del Rey,Spain,2013/2014,K. Benzema
+1069,UEFA Champions League,Europe,2013/2014,K. Benzema
+1070,International Champions Cup,World,2013,K. Benzema
+1071,Super Cup,Spain,2012/2013,K. Benzema
+1075,La Liga,Spain,2011/2012,K. Benzema
+1076,Copa del Rey,Spain,2010/2011,K. Benzema
+1080,Coupe de France,France,2007/2008,K. Benzema
+1081,Ligue 1,France,2007/2008,K. Benzema
+1082,Trophée des Champions,France,2007/2008,K. Benzema
+1083,Ligue 1,France,2006/2007,K. Benzema
+1084,Trophée des Champions,France,2006/2007,K. Benzema
+1086,Ligue 1,France,2005/2006,K. Benzema
+1087,Trophée des Champions,France,2005/2006,K. Benzema
+1088,Ligue 1,France,2004/2005,K. Benzema
+1089,Trophée des Champions,France,2004/2005,K. Benzema
+1090,La Liga,Spain,2019/2020,M. Díaz
+1091,Super Cup,Spain,2019/2020,M. Díaz
+1092,FIFA Club World Cup,World,2018 UAE,M. Díaz
+1093,La Liga,Spain,2016/2017,M. Díaz
+1094,UEFA Champions League,Europe,2016/2017,M. Díaz
+1095,UEFA Super Cup,Europe,2016/2017,M. Díaz
+1096,FIFA Club World Cup,World,2016 Japan,M. Díaz
+1098,UEFA Champions League,Europe,2015/2016,M. Díaz
+1099,La Liga,Spain,2019/2020,Vinícius Júnior
+1100,Super Cup,Spain,2019/2020,Vinícius Júnior
+1102,FIFA Club World Cup,World,2018 UAE,Vinícius Júnior
+1103,Sudamericano U17,South-America,2017 Chile,Vinícius Júnior
+1105,Carioca 1,Brazil,2017,Vinícius Júnior
+1108,Trofeo Joan Gamper,World,2020,Neto
+1110,Trofeo Joan Gamper,World,2019,Neto
+1111,Copa del Rey,Spain,2018/2019,Neto
+1112,Serie A,Italy,2016/2017,Neto
+1113,Coppa Italia,Italy,2016/2017,Neto
+1116,Serie A,Italy,2015/2016,Neto
+1117,Coppa Italia,Italy,2015/2016,Neto
+1118,Super Cup,Italy,2015/2016,Neto
+1122,Paranaense 1,Brazil,2009,Neto
+1123,La Liga,Spain,2019/2020,E. Hazard
+1124,Super Cup,Spain,2019/2020,E. Hazard
+1125,UEFA Europa League,Europe,2018/2019,E. Hazard
+1128,FA Cup,England,2017/2018,E. Hazard
+1130,Premier League,England,2016/2017,E. Hazard
+1133,League Cup,England,2014/2015,E. Hazard
+1134,Premier League,England,2014/2015,E. Hazard
+1138,UEFA Europa League,Europe,2012/2013,E. Hazard
+1142,Coupe de France,France,2010/2011,E. Hazard
+1143,Ligue 1,France,2010/2011,E. Hazard
+1144,La Liga,Spain,2019/2020,Rodrygo
+1145,Super Cup,Spain,2019/2020,Rodrygo
+1147,Super Cup,Holland,2019/2020,S. Dest
+1148,Eredivisie U19,Holland,2018/2019,S. Dest
+1149,Youth Cup U19,Holland,2018/2019,S. Dest
+1150,Concacaf U20,Nc-America,2018 USA,S. Dest
+1154,Trofeo Joan Gamper,World,2020,R. Araújo
+1156,Trofeo Joan Gamper,World,2019,R. Araújo
+1157,UEFA Youth League,Europe,2019/2020,Marvin
+1158,Alkass International Cup,World,2017,Marvin
+1160,UEFA Youth League,Europe,2019/2020,Sergio Arribas
+1162,Trofeo Joan Gamper,World,2020,Arnau Tenas
+1164,UEFA U19 Championship,Europe,2019 Armenia,Arnau Tenas
+1165,UEFA Youth League,Europe,2019/2020,Antonio Blanco
+1166,UEFA U19 Championship,Europe,2019 Armenia,Antonio Blanco
+1169,UEFA U17 Championship,Europe,2017 Croatia,Antonio Blanco
+1170,Copa del Rey Juvenil,Spain,2017,Antonio Blanco
+1171,División de Honor Juvenil,Spain,2016/2017,Antonio Blanco
+1172,UEFA Youth League,Europe,2019/2020,Óscar Subiela
+1174,Trofeo Joan Gamper,World,2020,A. Griezmann
+1176,Trofeo Joan Gamper,World,2019,A. Griezmann
+1178,UEFA Super Cup,Europe,2018/2019,A. Griezmann
+1179,World Cup,World,2018 Russia,A. Griezmann
+1181,UEFA Europa League,Europe,2017/2018,A. Griezmann
+1182,Audi Cup,World,2017,A. Griezmann
+1185,Super Cup,Spain,2014/2015,A. Griezmann
+1186,UEFA U19 Championship,Europe,2010 France,A. Griezmann
+1187,Segunda División,Spain,2009/2010,A. Griezmann
+1189,Trofeo Joan Gamper,World,2020,Jordi Alba
+1191,Trofeo Joan Gamper,World,2019,Jordi Alba
+1193,La Liga,Spain,2018/2019,Jordi Alba
+1194,Super Cup,Spain,2018/2019,Jordi Alba
+1196,Trofeo Joan Gamper,World,2018,Jordi Alba
+1197,Supercopa de Catalunya,Spain,2018,Jordi Alba
+1198,La Liga,Spain,2017/2018,Jordi Alba
+1200,Copa del Rey,Spain,2017/2018,Jordi Alba
+1201,Trofeo Joan Gamper,World,2017,Jordi Alba
+1202,Super Cup,Spain,2016/2017,Jordi Alba
+1203,Copa del Rey,Spain,2016/2017,Jordi Alba
+1205,Trofeo Joan Gamper,World,2016,Jordi Alba
+1207,UEFA Super Cup,Europe,2015/2016,Jordi Alba
+1208,Copa del Rey,Spain,2015/2016,Jordi Alba
+1210,La Liga,Spain,2015/2016,Jordi Alba
+1211,FIFA Club World Cup,World,2015 Japan,Jordi Alba
+1212,La Liga,Spain,2014/2015,Jordi Alba
+1213,UEFA Champions League,Europe,2014/2015,Jordi Alba
+1214,Copa del Rey,Spain,2014/2015,Jordi Alba
+1216,Copa Catalunya,Spain,2013/2014,Jordi Alba
+1217,Super Cup,Spain,2013/2014,Jordi Alba
+1220,La Liga,Spain,2012/2013,Jordi Alba
+1222,European Championship,Europe,2012 Poland/Ukraine,Jordi Alba
+1224,Trofeo Joan Gamper,World,2020,C. Lenglet
+1227,Trofeo Joan Gamper,World,2019,C. Lenglet
+1228,La Liga,Spain,2018/2019,C. Lenglet
+1230,Super Cup,Spain,2018/2019,C. Lenglet
+1231,Trofeo Joan Gamper,World,2018,C. Lenglet
+1234,Ligue 2,France,2015/2016,C. Lenglet
+1236,Trofeo Joan Gamper,World,2020,Sergi Roberto
+1238,Trofeo Joan Gamper,World,2019,Sergi Roberto
+1240,La Liga,Spain,2018/2019,Sergi Roberto
+1241,Super Cup,Spain,2018/2019,Sergi Roberto
+1243,Trofeo Joan Gamper,World,2018,Sergi Roberto
+1244,Supercopa de Catalunya,Spain,2018,Sergi Roberto
+1245,La Liga,Spain,2017/2018,Sergi Roberto
+1246,Copa del Rey,Spain,2017/2018,Sergi Roberto
+1248,Trofeo Joan Gamper,World,2017,Sergi Roberto
+1249,Super Cup,Spain,2016/2017,Sergi Roberto
+1250,Copa del Rey,Spain,2016/2017,Sergi Roberto
+1252,Trofeo Joan Gamper,World,2016,Sergi Roberto
+1254,UEFA Super Cup,Europe,2015/2016,Sergi Roberto
+1255,La Liga,Spain,2015/2016,Sergi Roberto
+1256,Copa del Rey,Spain,2015/2016,Sergi Roberto
+1258,FIFA Club World Cup,World,2015 Japan,Sergi Roberto
+1259,UEFA Champions League,Europe,2014/2015,Sergi Roberto
+1260,Copa del Rey,Spain,2014/2015,Sergi Roberto
+1261,La Liga,Spain,2014/2015,Sergi Roberto
+1262,Copa Catalunya,Spain,2013/2014,Sergi Roberto
+1264,Super Cup,Spain,2013/2014,Sergi Roberto
+1266,UEFA U21 Championship,Europe,2013 Israel,Sergi Roberto
+1268,La Liga,Spain,2012/2013,Sergi Roberto
+1270,Copa del Rey,Spain,2011/2012,Sergi Roberto
+1271,Super Cup,Spain,2011/2012,Sergi Roberto
+1272,UEFA Super Cup,Europe,2011/2012,Sergi Roberto
+1273,UEFA U19 Championship,Europe,2011 Romania,Sergi Roberto
+1274,FIFA Club World Cup,World,2011 Japan,Sergi Roberto
+1275,Audi Cup,World,2011,Sergi Roberto
+1276,UEFA Champions League,Europe,2010/2011,Sergi Roberto
+1277,Super Cup,Spain,2010/2011,Sergi Roberto
+1279,La Liga,Spain,2010/2011,Sergi Roberto
+1281,Trofeo Joan Gamper,World,2020,S. Umtiti
+1284,Trofeo Joan Gamper,World,2019,S. Umtiti
+1285,La Liga,Spain,2018/2019,S. Umtiti
+1287,Super Cup,Spain,2018/2019,S. Umtiti
+1288,World Cup,World,2018 Russia,S. Umtiti
+1289,Supercopa de Catalunya,Spain,2018,S. Umtiti
+1290,Trofeo Joan Gamper,World,2018,S. Umtiti
+1291,La Liga,Spain,2017/2018,S. Umtiti
+1292,Copa del Rey,Spain,2017/2018,S. Umtiti
+1294,Trofeo Joan Gamper,World,2017,S. Umtiti
+1295,Copa del Rey,Spain,2016/2017,S. Umtiti
+1296,Super Cup,Spain,2016/2017,S. Umtiti
+1300,Trofeo Joan Gamper,World,2016,S. Umtiti
+1305,U20 World Cup,World,2013 Turkey,S. Umtiti
+1306,Trophée des Champions,France,2012/2013,S. Umtiti
+1308,Coupe de France,France,2011/2012,S. Umtiti
+1310,Trofeo Joan Gamper,World,2020,Sergio Busquets
+1313,Trofeo Joan Gamper,World,2019,Sergio Busquets
+1314,La Liga,Spain,2018/2019,Sergio Busquets
+1315,Super Cup,Spain,2018/2019,Sergio Busquets
+1317,Supercopa de Catalunya,Spain,2018,Sergio Busquets
+1318,Trofeo Joan Gamper,World,2018,Sergio Busquets
+1320,La Liga,Spain,2017/2018,Sergio Busquets
+1321,Copa del Rey,Spain,2017/2018,Sergio Busquets
+1322,Trofeo Joan Gamper,World,2017,Sergio Busquets
+1324,Super Cup,Spain,2016/2017,Sergio Busquets
+1325,Copa del Rey,Spain,2016/2017,Sergio Busquets
+1327,Trofeo Joan Gamper,World,2016,Sergio Busquets
+1328,Copa del Rey,Spain,2015/2016,Sergio Busquets
+1329,UEFA Super Cup,Europe,2015/2016,Sergio Busquets
+1330,La Liga,Spain,2015/2016,Sergio Busquets
+1332,FIFA Club World Cup,World,2015 Japan,Sergio Busquets
+1333,Copa del Rey,Spain,2014/2015,Sergio Busquets
+1334,UEFA Champions League,Europe,2014/2015,Sergio Busquets
+1335,La Liga,Spain,2014/2015,Sergio Busquets
+1337,Super Cup,Spain,2013/2014,Sergio Busquets
+1339,Copa Catalunya,Spain,2013/2014,Sergio Busquets
+1341,La Liga,Spain,2012/2013,Sergio Busquets
+1343,European Championship,Europe,2012 Poland/Ukraine,Sergio Busquets
+1344,Super Cup,Spain,2011/2012,Sergio Busquets
+1345,UEFA Super Cup,Europe,2011/2012,Sergio Busquets
+1346,Copa del Rey,Spain,2011/2012,Sergio Busquets
+1348,FIFA Club World Cup,World,2011 Japan,Sergio Busquets
+1349,Audi Cup,World,2011,Sergio Busquets
+1350,UEFA Champions League,Europe,2010/2011,Sergio Busquets
+1351,La Liga,Spain,2010/2011,Sergio Busquets
+1353,Super Cup,Spain,2010/2011,Sergio Busquets
+1354,World Cup,World,2010 South Africa,Sergio Busquets
+1355,La Liga,Spain,2009/2010,Sergio Busquets
+1356,Super Cup,Spain,2009/2010,Sergio Busquets
+1357,UEFA Super Cup,Europe,2009/2010,Sergio Busquets
+1358,FIFA Club World Cup,World,2009 UAE,Sergio Busquets
+1359,UEFA Champions League,Europe,2008/2009,Sergio Busquets
+1360,La Liga,Spain,2008/2009,Sergio Busquets
+1361,Copa del Rey,Spain,2008/2009,Sergio Busquets
+1363,Trofeo Joan Gamper,World,2020,Álex Collado
+1366,Trofeo Joan Gamper,World,2019,Álex Collado
+1367,La Liga,Spain,2018/2019,Álex Collado
+1369,Super Cup,Spain,2018/2019,Álex Collado
+1370,Trofeo Joan Gamper,World,2018,Álex Collado
+1371,UEFA Youth League,Europe,2017/2018,Álex Collado
+1373,Trofeo Joan Gamper,World,2020,Philippe Coutinho
+1374,UEFA Champions League,Europe,2019/2020,Philippe Coutinho
+1375,Bundesliga,Germany,2019/2020,Philippe Coutinho
+1376,DFB Pokal,Germany,2019/2020,Philippe Coutinho
+1377,Copa America,South-America,2019 Brazil,Philippe Coutinho
+1378,Trofeo Joan Gamper,World,2019,Philippe Coutinho
+1380,La Liga,Spain,2018/2019,Philippe Coutinho
+1382,Super Cup,Spain,2018/2019,Philippe Coutinho
+1383,Trofeo Joan Gamper,World,2018,Philippe Coutinho
+1384,Supercopa de Catalunya,Spain,2018,Philippe Coutinho
+1385,La Liga,Spain,2017/2018,Philippe Coutinho
+1386,Copa del Rey,Spain,2017/2018,Philippe Coutinho
+1388,Premier League Asia Trophy,World,2017,Philippe Coutinho
+1394,U20 World Cup,World,2011 Colombia,Philippe Coutinho
+1395,Super Cup,Italy,2010/2011,Philippe Coutinho
+1396,Coppa Italia,Italy,2010/2011,Philippe Coutinho
+1399,FIFA Club World Cup,World,2010 UAE,Philippe Coutinho
+1400,Serie B,Brazil,2009,Philippe Coutinho
+1402,Trofeo Joan Gamper,World,2020,Riqui Puig
+1405,Trofeo Joan Gamper,World,2019,Riqui Puig
+1406,La Liga,Spain,2018/2019,Riqui Puig
+1408,Super Cup,Spain,2018/2019,Riqui Puig
+1409,Trofeo Joan Gamper,World,2018,Riqui Puig
+1410,UEFA Youth League,Europe,2017/2018,Riqui Puig
+1412,Trofeo Joan Gamper,World,2020,O. Dembélé
+1415,Trofeo Joan Gamper,World,2019,O. Dembélé
+1416,La Liga,Spain,2018/2019,O. Dembélé
+1418,Super Cup,Spain,2018/2019,O. Dembélé
+1419,World Cup,World,2018 Russia,O. Dembélé
+1420,Supercopa de Catalunya,Spain,2018,O. Dembélé
+1421,Trofeo Joan Gamper,World,2018,O. Dembélé
+1422,La Liga,Spain,2017/2018,O. Dembélé
+1423,Copa del Rey,Spain,2017/2018,O. Dembélé
+1425,DFB Pokal,Germany,2016/2017,O. Dembélé
+1428,Trofeo Joan Gamper,World,2020,L. Messi
+1431,Trofeo Joan Gamper,World,2019,L. Messi
+1432,Super Cup,Spain,2018/2019,L. Messi
+1433,La Liga,Spain,2018/2019,L. Messi
+1435,Trofeo Joan Gamper,World,2018,L. Messi
+1436,Supercopa de Catalunya,Spain,2018,L. Messi
+1437,Copa del Rey,Spain,2017/2018,L. Messi
+1438,La Liga,Spain,2017/2018,L. Messi
+1440,Trofeo Joan Gamper,World,2017,L. Messi
+1441,Copa del Rey,Spain,2016/2017,L. Messi
+1443,Super Cup,Spain,2016/2017,L. Messi
+1446,Trofeo Joan Gamper,World,2016,L. Messi
+1447,Copa del Rey,Spain,2015/2016,L. Messi
+1449,La Liga,Spain,2015/2016,L. Messi
+1450,UEFA Super Cup,Europe,2015/2016,L. Messi
+1451,FIFA Club World Cup,World,2015 Japan,L. Messi
+1453,UEFA Champions League,Europe,2014/2015,L. Messi
+1454,La Liga,Spain,2014/2015,L. Messi
+1455,Copa del Rey,Spain,2014/2015,L. Messi
+1457,Copa Catalunya,Spain,2013/2014,L. Messi
+1458,Super Cup,Spain,2013/2014,L. Messi
+1461,La Liga,Spain,2012/2013,L. Messi
+1463,Super Cup,Spain,2011/2012,L. Messi
+1464,UEFA Super Cup,Europe,2011/2012,L. Messi
+1465,Copa del Rey,Spain,2011/2012,L. Messi
+1467,FIFA Club World Cup,World,2011 Japan,L. Messi
+1468,Audi Cup,World,2011,L. Messi
+1469,Super Cup,Spain,2010/2011,L. Messi
+1470,UEFA Champions League,Europe,2010/2011,L. Messi
+1471,La Liga,Spain,2010/2011,L. Messi
+1473,Super Cup,Spain,2009/2010,L. Messi
+1474,La Liga,Spain,2009/2010,L. Messi
+1475,UEFA Super Cup,Europe,2009/2010,L. Messi
+1476,FIFA Club World Cup,World,2009 UAE,L. Messi
+1477,La Liga,Spain,2008/2009,L. Messi
+1478,Copa del Rey,Spain,2008/2009,L. Messi
+1479,UEFA Champions League,Europe,2008/2009,L. Messi
+1480,Olympics,World,2008 Beijing,L. Messi
+1483,Super Cup,Spain,2006/2007,L. Messi
+1486,Super Cup,Spain,2005/2006,L. Messi
+1487,UEFA Champions League,Europe,2005/2006,L. Messi
+1488,La Liga,Spain,2005/2006,L. Messi
+1489,La Liga,Spain,2004/2005,L. Messi
+1491,Trofeo Joan Gamper,World,2020,F. de Jong
+1493,Trofeo Joan Gamper,World,2019,F. de Jong
+1495,Eredivisie,Holland,2018/2019,F. de Jong
+1496,KNVB Beker,Holland,2018/2019,F. de Jong
+1503,Trofeo Joan Gamper,World,2020,M. Pjanić
+1504,Serie A,Italy,2019/2020,M. Pjanić
+1507,Serie A,Italy,2018/2019,M. Pjanić
+1508,Super Cup,Italy,2018/2019,M. Pjanić
+1509,Coppa Italia,Italy,2017/2018,M. Pjanić
+1511,Serie A,Italy,2017/2018,M. Pjanić
+1512,Coppa Italia,Italy,2016/2017,M. Pjanić
+1514,Serie A,Italy,2016/2017,M. Pjanić
+1522,Ligue 2,France,2006/2007,M. Pjanić
+1524,Trofeo Joan Gamper,World,2020,Junior Firpo
+1526,UEFA U21 Championship,Europe,2019 Italy,Junior Firpo
+1527,Trofeo Joan Gamper,World,2019,Junior Firpo
+1529,Trofeo Joan Gamper,World,2020,M. Braithwaite
+1531,DBU Pokalen,Denmark,2012/2013,M. Braithwaite
+1532,1st Division,Denmark,2011/2012,M. Braithwaite
+1534,Trofeo Joan Gamper,World,2020,Matheus Fernandes
+1535,Florida Cup,World,2020,Matheus Fernandes
+1536,Carioca 1,Brazil,2018,Matheus Fernandes
+1539,Trofeo Joan Gamper,World,2020,Pedri
+1541,Trofeo Joan Gamper,World,2020,Ilaix Kourouma
+1543,Trofeo Joan Gamper,World,2020,Óscar Mingueza
+1545,UEFA Youth League,Europe,2017/2018,Óscar Mingueza
+1547,UEFA Europa League,Europe,2019/2020,J. Koundé
+1549,UEFA Europa League,Europe,2019/2020,N. Gudelj
+1550,Taça de Portugal,Portugal,2018/2019,N. Gudelj
+1551,Taça da Liga,Portugal,2018/2019,N. Gudelj
+1552,Super Cup,China-Pr,2018,N. Gudelj
+1556,UEFA Europa League,Europe,2019/2020,Suso
+1559,Super Cup,Italy,2016/2017,Suso
+1561,UEFA U19 Championship,Europe,2012 Estonia,Suso
+1563,UEFA Europa League,Europe,2019/2020,L. Ocampos
+1567,Ligue 2,France,2012/2013,L. Ocampos
+1568,Primera Nacional,Argentina,2011/2012,L. Ocampos
+1570,UEFA Europa League,Europe,2019/2020,Javi Díaz
+1572,UEFA Europa League,Europe,2019/2020,T. Vaclík
+1575,Super League,Switzerland,2016/2017,T. Vaclík
+1576,Schweizer Pokal,Switzerland,2016/2017,T. Vaclík
+1577,Super League,Switzerland,2015/2016,T. Vaclík
+1578,Super League,Switzerland,2014/2015,T. Vaclík
+1580,Czech Liga,Czech-Republic,2013/2014,T. Vaclík
+1581,Cup,Czech-Republic,2013/2014,T. Vaclík
+1586,UEFA Europa League,Europe,2019/2020,Escudero
+1592,Supercopa Euroamericana,World,2016,Escudero
+1594,UEFA Europa League,Europe,2015/2016,Escudero
+1596,Super Cup,Germany,2011/2012,Escudero
+1597,DFB Pokal,Germany,2010/2011,Escudero
+1600,UEFA Europa League,Europe,2019/2020,J. Gnagnon
+1604,UEFA Europa League,Europe,2019/2020,Sergi Gómez
+1608,Super Cup,Spain,2013/2014,Sergi Gómez
+1609,Copa Catalunya,Spain,2013/2014,Sergi Gómez
+1610,La Liga,Spain,2012/2013,Sergi Gómez
+1613,Copa del Rey,Spain,2011/2012,Sergi Gómez
+1614,Super Cup,Spain,2011/2012,Sergi Gómez
+1615,UEFA Super Cup,Europe,2011/2012,Sergi Gómez
+1616,UEFA U19 Championship,Europe,2011 Romania,Sergi Gómez
+1617,FIFA Club World Cup,World,2011 Japan,Sergi Gómez
+1618,Audi Cup,World,2011,Sergi Gómez
+1619,UEFA Champions League,Europe,2010/2011,Sergi Gómez
+1620,Super Cup,Spain,2010/2011,Sergi Gómez
+1622,La Liga,Spain,2010/2011,Sergi Gómez
+1624,UEFA Europa League,Europe,2019/2020,Navas
+1627,League Cup,England,2015/2016,Navas
+1630,Premier League,England,2013/2014,Navas
+1631,League Cup,England,2013/2014,Navas
+1634,European Championship,Europe,2012 Poland/Ukraine,Navas
+1636,World Cup,World,2010 South Africa,Navas
+1637,Copa del Rey,Spain,2009/2010,Navas
+1638,Super Cup,Spain,2007/2008,Navas
+1640,Copa del Rey,Spain,2006/2007,Navas
+1641,UEFA Europa League,Europe,2006/2007,Navas
+1642,UEFA Super Cup,Europe,2006/2007,Navas
+1643,UEFA Europa League,Europe,2005/2006,Navas
+1645,UEFA Europa League,Europe,2019/2020,Y. Bounou
+1646,Supercopa de Catalunya,Spain,2019,Y. Bounou
+1649,Super Cup,Spain,2014/2015,Y. Bounou
+1650,La Liga,Spain,2013/2014,Y. Bounou
+1655,UEFA Europa League,Europe,2019/2020,Diego Carlos
+1658,Eredivisie,Holland,2014/2015,K. Rekik
+1661,UEFA U17 Championship,Europe,2011 Serbia,K. Rekik
+1663,Trofeo Joan Gamper,World,2020,Trincão
+1664,Taça da Liga,Portugal,2019/2020,Trincão
+1665,UEFA U19 Championship,Europe,2018 Finland,Trincão
+1667,UEFA Europa League,Europe,2019/2020,Joan Jordán
+1669,Trofeo Joan Gamper,World,2020,Ansu Fati
+1672,Trofeo Joan Gamper,World,2020,K. De La Fuente
+1674,UEFA Europa League,Europe,2019/2020,Alfonso Pastor
+1677,UEFA Europa League,Europe,2019/2020,Pablo Pérez
+1680,Trofeo Joan Gamper,World,2019,I. Rakitić
+1682,La Liga,Spain,2018/2019,I. Rakitić
+1684,Super Cup,Spain,2018/2019,I. Rakitić
+1686,Trofeo Joan Gamper,World,2018,I. Rakitić
+1687,Supercopa de Catalunya,Spain,2018,I. Rakitić
+1688,La Liga,Spain,2017/2018,I. Rakitić
+1689,Copa del Rey,Spain,2017/2018,I. Rakitić
+1691,Trofeo Joan Gamper,World,2017,I. Rakitić
+1692,Super Cup,Spain,2016/2017,I. Rakitić
+1693,Copa del Rey,Spain,2016/2017,I. Rakitić
+1696,Trofeo Joan Gamper,World,2016,I. Rakitić
+1697,Copa del Rey,Spain,2015/2016,I. Rakitić
+1699,La Liga,Spain,2015/2016,I. Rakitić
+1700,UEFA Super Cup,Europe,2015/2016,I. Rakitić
+1701,FIFA Club World Cup,World,2015 Japan,I. Rakitić
+1702,Copa del Rey,Spain,2014/2015,I. Rakitić
+1703,UEFA Champions League,Europe,2014/2015,I. Rakitić
+1704,La Liga,Spain,2014/2015,I. Rakitić
+1705,UEFA Europa League,Europe,2013/2014,I. Rakitić
+1709,Schweizer Pokal,Switzerland,2006/2007,I. Rakitić
+1711,UEFA Europa League,Europe,2019/2020,L. de Jong
+1715,Eredivisie,Holland,2017/2018,L. de Jong
+1716,Super Cup,Holland,2016/2017,L. de Jong
+1717,Eredivisie,Holland,2015/2016,L. de Jong
+1718,Super Cup,Holland,2015/2016,L. de Jong
+1719,Eredivisie,Holland,2014/2015,L. de Jong
+1720,Super Cup,Holland,2011/2012,L. de Jong
+1722,KNVB Beker,Holland,2010/2011,L. de Jong
+1723,Super Cup,Holland,2010/2011,L. de Jong
+1724,Eredivisie,Holland,2009/2010,L. de Jong
+1726,UEFA Europa League,Europe,2019/2020,Óliver Torres
+1730,Super Cup,Portugal,2018/2019,Óliver Torres
+1732,Primeira Liga,Portugal,2017/2018,Óliver Torres
+1737,Copa del Rey,Spain,2012/2013,Óliver Torres
+1738,UEFA Super Cup,Europe,2012/2013,Óliver Torres
+1739,UEFA U19 Championship,Europe,2012 Estonia,Óliver Torres
+1740,UEFA Europa League,Europe,2011/2012,Óliver Torres
+1742,UEFA Europa League,Europe,2019/2020,Fernando
+1743,Süper Lig,Turkey,2018/2019,Fernando
+1745,Cup,Turkey,2018/2019,Fernando
+1746,Süper Lig,Turkey,2017/2018,Fernando
+1747,League Cup,England,2015/2016,Fernando
+1750,Super Cup,Portugal,2013/2014,Fernando
+1753,Super Cup,Portugal,2012/2013,Fernando
+1754,Primeira Liga,Portugal,2012/2013,Fernando
+1755,Super Cup,Portugal,2011/2012,Fernando
+1756,Primeira Liga,Portugal,2011/2012,Fernando
+1758,Taça de Portugal,Portugal,2010/2011,Fernando
+1759,Super Cup,Portugal,2010/2011,Fernando
+1760,Primeira Liga,Portugal,2010/2011,Fernando
+1761,UEFA Europa League,Europe,2010/2011,Fernando
+1763,Taça de Portugal,Portugal,2009/2010,Fernando
+1764,Super Cup,Portugal,2009/2010,Fernando
+1765,Taça de Portugal,Portugal,2008/2009,Fernando
+1767,Primeira Liga,Portugal,2008/2009,Fernando
+1770,Taça de Portugal,Portugal,2018/2019,M. Acuña
+1771,Taça da Liga,Portugal,2018/2019,M. Acuña
+1773,Taça da Liga,Portugal,2017/2018,M. Acuña
+1775,Liga Profesional Argentina,Argentina,2014,M. Acuña
 1777,UEFA Europa League,Europe,2019/2020,Aleix Vidal
 1779,Supercopa de Catalunya,Spain,2018,Aleix Vidal
 1780,La Liga,Spain,2017/2018,Aleix Vidal
@@ -1099,958 +1096,970 @@ id,league,region,season,name
 1789,La Liga,Spain,2015/2016,Aleix Vidal
 1790,Copa del Rey,Spain,2015/2016,Aleix Vidal
 1792,UEFA Europa League,Europe,2014/2015,Aleix Vidal
-1795,UEFA Europa League,Europe,2019/2020,Navas
-1798,League Cup,England,2015/2016,Navas
-1801,Premier League,England,2013/2014,Navas
-1802,League Cup,England,2013/2014,Navas
-1805,European Championship,Europe,2012 Poland/Ukraine,Navas
-1807,World Cup,World,2010 South Africa,Navas
-1808,Copa del Rey,Spain,2009/2010,Navas
-1809,Super Cup,Spain,2007/2008,Navas
-1811,Copa del Rey,Spain,2006/2007,Navas
-1812,UEFA Europa League,Europe,2006/2007,Navas
-1813,UEFA Super Cup,Europe,2006/2007,Navas
-1814,UEFA Europa League,Europe,2005/2006,Navas
-1816,UEFA Europa League,Europe,2019/2020,F. Vázquez
-1822,Supercopa Euroamericana,World,2016,F. Vázquez
-1823,Serie B,Italy,2013/2014,F. Vázquez
-1825,UEFA Europa League,Europe,2019/2020,Diego Carlos
-1829,CONMEBOL Sudamericana,South-America,2007,Papu Gómez
-1831,UEFA Europa League,Europe,2019/2020,Joan Jordán
-1834,UEFA Champions League,Europe,2017/2018,Óscar Rodríguez
-1835,UEFA Super Cup,Europe,2017/2018,Óscar Rodríguez
-1836,Super Cup,Spain,2017/2018,Óscar Rodríguez
-1837,FIFA Club World Cup,World,2017 UAE,Óscar Rodríguez
-1838,Copa del Rey Juvenil,Spain,2017,Óscar Rodríguez
-1839,División de Honor Juvenil,Spain,2016/2017,Óscar Rodríguez
-1841,UEFA Europa League,Europe,2019/2020,Juanlu
-1843,UEFA Europa League,Europe,2019/2020,Pablo Pérez
-1844,Copa del Rey,Spain,2019/2020,Nacho Monreal
-1849,Community Shield,England,2017/2018,Nacho Monreal
-1850,Emirates Cup,World,2017,Nacho Monreal
-1851,FA Cup,England,2016/2017,Nacho Monreal
-1853,Community Shield,England,2015/2016,Nacho Monreal
-1854,Premier League Asia Trophy,World,2015,Nacho Monreal
-1855,Emirates Cup,World,2015,Nacho Monreal
-1856,Community Shield,England,2014/2015,Nacho Monreal
-1857,FA Cup,England,2014/2015,Nacho Monreal
-1859,FA Cup,England,2013/2014,Nacho Monreal
-1862,UEFA Europa League,Europe,2019/2020,Munir
-1863,Super Cup,Spain,2018/2019,Munir
-1864,Trofeo Joan Gamper,World,2018,Munir
-1866,Trofeo Joan Gamper,World,2017,Munir
-1867,Super Cup,Spain,2016/2017,Munir
-1868,Trofeo Joan Gamper,World,2016,Munir
-1869,La Liga,Spain,2015/2016,Munir
-1870,Copa del Rey,Spain,2015/2016,Munir
-1872,UEFA Super Cup,Europe,2015/2016,Munir
-1873,FIFA Club World Cup,World,2015 Japan,Munir
-1874,La Liga,Spain,2014/2015,Munir
-1875,UEFA Champions League,Europe,2014/2015,Munir
-1876,Copa del Rey,Spain,2014/2015,Munir
-1877,UEFA Youth League,Europe,2013/2014,Munir
-1878,Copa del Rey,Spain,2019/2020,M. Sagnan
-1879,Segunda División,Spain,2018/2019,Brandon
-1880,Copa del Rey,Spain,2019/2020,Álex Remiro
-1882,Super Cup,Spain,2015/2016,Álex Remiro
-1884,Copa del Rey,Spain,2019/2020,Moyà
-1885,Audi Cup,World,2017,Moyà
-1887,Super Cup,Spain,2014/2015,Moyà
-1888,Copa del Rey,Spain,2019/2020,Elustondo
-1889,Copa del Rey,Spain,2019/2020,Gorosabel
-1890,Copa del Rey,Spain,2019/2020,R. Le Normand
-1891,Copa del Rey,Spain,2019/2020,Aihen Muñoz
-1892,Copa del Rey,Spain,2019/2020,Zaldúa
-1894,UEFA Europa League,Europe,2019/2020,Y. En-Nesyri
-1895,Copa del Rey,Spain,2019/2020,Aritz Aranbarri
-1896,Copa del Rey,Spain,2019/2020,Jon Pacheco
-1897,Copa del Rey,Spain,2019/2020,J. Blasco
-1898,Copa del Rey,Spain,2019/2020,Gaizka Ayesa
-1899,Copa del Rey,Spain,2019/2020,Unai Marrero
-1900,Copa del Rey,Spain,2019/2020,Unai Ruiz Zeberio
-1901,Community Shield,England,2019/2020,David Silva
-1902,League Cup,England,2019/2020,David Silva
-1903,Copa del Rey,Spain,2019/2020,David Silva
-1906,Community Shield,England,2018/2019,David Silva
-1907,Premier League,England,2018/2019,David Silva
-1908,League Cup,England,2018/2019,David Silva
-1909,FA Cup,England,2018/2019,David Silva
-1910,Premier League,England,2017/2018,David Silva
-1911,League Cup,England,2017/2018,David Silva
-1912,League Cup,England,2015/2016,David Silva
-1915,League Cup,England,2013/2014,David Silva
-1916,Premier League,England,2013/2014,David Silva
-1921,Community Shield,England,2012/2013,David Silva
-1922,European Championship,Europe,2012 Poland/Ukraine,David Silva
-1924,Premier League,England,2011/2012,David Silva
-1925,FA Cup,England,2010/2011,David Silva
-1926,World Cup,World,2010 South Africa,David Silva
-1928,European Championship,Europe,2008 Austria/Switzer,David Silva
-1929,EC Qualification,Europe,2008 Austria/Switzer,David Silva
-1930,Copa del Rey,Spain,2007/2008,David Silva
-1931,Copa del Rey,Spain,2019/2020,A. Isak
-1935,DFB Pokal,Germany,2016/2017,A. Isak
-1936,U19 Bundesliga,Germany,2016/2017,A. Isak
-1938,Copa del Rey,Spain,2019/2020,A. Januzaj
-1939,Community Shield,England,2016/2017,A. Januzaj
-1941,FA Cup,England,2015/2016,A. Januzaj
-1942,International Champions Cup,World,2014,A. Januzaj
-1943,Community Shield,England,2013/2014,A. Januzaj
-1944,Premier League,England,2012/2013,A. Januzaj
-1946,Copa del Rey,Spain,2019/2020,Carlos Fernández
-1947,UEFA Europa League,Europe,2019/2020,Carlos Fernández
-1952,Supercopa Euroamericana,World,2016,Carlos Fernández
-1954,UEFA Europa League,Europe,2015/2016,Carlos Fernández
-1956,UEFA U19 Championship,Europe,2015 Greece,Carlos Fernández
-1958,UEFA Europa League,Europe,2014/2015,Carlos Fernández
-1960,UEFA Europa League,Europe,2013/2014,Carlos Fernández
-1961,Copa del Rey,Spain,2019/2020,Guevara
-1962,Copa del Rey,Spain,2019/2020,Illarramendi
-1966,UEFA Super Cup,Europe,2014/2015,Illarramendi
-1967,FIFA Club World Cup,World,2014 Morocco,Illarramendi
-1968,Copa del Rey,Spain,2013/2014,Illarramendi
-1969,UEFA Champions League,Europe,2013/2014,Illarramendi
-1970,UEFA U21 Championship,Europe,2013 Israel,Illarramendi
-1971,International Champions Cup,World,2013,Illarramendi
-1972,Segunda División,Spain,2009/2010,Illarramendi
-1973,Copa del Rey,Spain,2019/2020,Mikel Merino
-1974,UEFA U21 Championship,Europe,2019 Italy,Mikel Merino
-1976,DFB Pokal,Germany,2016/2017,Mikel Merino
-1978,UEFA U19 Championship,Europe,2015 Greece,Mikel Merino
-1979,Copa del Rey,Spain,2019/2020,Sangalli
-1980,Copa del Rey,Spain,2019/2020,Zubeldía
-1981,UEFA U21 Championship,Europe,2019 Italy,Zubeldía
-1982,Copa del Rey,Spain,2019/2020,Martín Zubimendi
-1983,Copa del Rey,Spain,2019/2020,Barrenetxea
-1984,UEFA U19 Championship,Europe,2019 Armenia,Barrenetxea
-1985,Copa del Rey,Spain,2019/2020,Jon Bautista
-1986,Copa del Rey,Spain,2019/2020,Roberto López
-1987,Copa del Rey,Spain,2019/2020,Martín Merquelanz
-1988,Copa del Rey,Spain,2019/2020,Mikel Oyarzabal
-1989,UEFA U21 Championship,Europe,2019 Italy,Mikel Oyarzabal
-1991,Copa del Rey,Spain,2019/2020,Portu
-1992,Supercopa de Catalunya,Spain,2019,Portu
-1995,Copa del Rey,Spain,2019/2020,Robert Navarro
-1997,Copa del Rey,Spain,2019/2020,Jon Guridi
-1998,Copa Federacion,Spain,2018/2019,Jon Guridi
-1999,Copa del Rey,Spain,2019/2020,Urko González
-2000,Copa del Rey,Spain,2019/2020,Beñat Turrientes
-2001,Trofeo Joan Gamper,World,2020,Juan Miranda
-2002,UEFA U19 Championship,Europe,2019 Armenia,Juan Miranda
-2004,Trofeo Joan Gamper,World,2019,Juan Miranda
-2005,La Liga,Spain,2018/2019,Juan Miranda
-2007,Super Cup,Spain,2018/2019,Juan Miranda
-2008,Supercopa de Catalunya,Spain,2018,Juan Miranda
-2009,Trofeo Joan Gamper,World,2018,Juan Miranda
-2010,La Liga,Spain,2017/2018,Juan Miranda
-2011,Copa del Rey,Spain,2017/2018,Juan Miranda
-2012,UEFA Youth League,Europe,2017/2018,Juan Miranda
-2014,UEFA U17 Championship,Europe,2017 Croatia,Juan Miranda
-2015,Community Shield,England,2019/2020,C. Bravo
-2017,League Cup,England,2019/2020,C. Bravo
-2019,League Cup,England,2018/2019,C. Bravo
-2020,Community Shield,England,2018/2019,C. Bravo
-2021,FA Cup,England,2018/2019,C. Bravo
-2022,Premier League,England,2018/2019,C. Bravo
-2023,League Cup,England,2017/2018,C. Bravo
-2024,Premier League,England,2017/2018,C. Bravo
-2026,Super Cup,Spain,2016/2017,C. Bravo
-2027,Copa America,South-America,2016  USA,C. Bravo
-2028,Trofeo Joan Gamper,World,2016,C. Bravo
-2029,UEFA Super Cup,Europe,2015/2016,C. Bravo
-2030,Copa del Rey,Spain,2015/2016,C. Bravo
-2031,La Liga,Spain,2015/2016,C. Bravo
-2033,FIFA Club World Cup,World,2015 Japan,C. Bravo
-2034,Copa America,South-America,2015 Chile,C. Bravo
-2035,La Liga,Spain,2014/2015,C. Bravo
-2036,UEFA Champions League,Europe,2014/2015,C. Bravo
-2037,Copa del Rey,Spain,2014/2015,C. Bravo
-2038,Segunda División,Spain,2009/2010,C. Bravo
-2041,Primera División,Chile,2002 Clausura,C. Bravo
-2042,Premier League 2 Division One,England,2016/2017,Joel Robles
-2044,UEFA U21 Championship,Europe,2013 Israel,Joel Robles
-2045,FA Cup,England,2012/2013,Joel Robles
-2046,UEFA Super Cup,Europe,2012/2013,Joel Robles
-2047,UEFA Super Cup,Europe,2010/2011,Joel Robles
-2049,UEFA Europa League,Europe,2009/2010,Joel Robles
-2052,DFB Pokal,Germany,2016/2017,Marc Bartra
-2054,La Liga,Spain,2015/2016,Marc Bartra
-2055,UEFA Super Cup,Europe,2015/2016,Marc Bartra
-2056,Copa del Rey,Spain,2015/2016,Marc Bartra
-2057,FIFA Club World Cup,World,2015 Japan,Marc Bartra
-2058,Copa del Rey,Spain,2014/2015,Marc Bartra
-2059,UEFA Champions League,Europe,2014/2015,Marc Bartra
-2060,La Liga,Spain,2014/2015,Marc Bartra
-2062,Copa Catalunya,Spain,2013/2014,Marc Bartra
-2063,Super Cup,Spain,2013/2014,Marc Bartra
-2065,UEFA U21 Championship,Europe,2013 Israel,Marc Bartra
-2066,La Liga,Spain,2012/2013,Marc Bartra
-2068,UEFA Super Cup,Europe,2011/2012,Marc Bartra
-2069,Super Cup,Spain,2011/2012,Marc Bartra
-2070,Copa del Rey,Spain,2011/2012,Marc Bartra
-2072,FIFA Club World Cup,World,2011 Japan,Marc Bartra
-2073,Audi Cup,World,2011,Marc Bartra
-2074,Super Cup,Spain,2010/2011,Marc Bartra
-2075,UEFA Champions League,Europe,2010/2011,Marc Bartra
-2077,La Liga,Spain,2010/2011,Marc Bartra
-2079,La Liga,Spain,2009/2010,Marc Bartra
-2080,Super Cup,Portugal,2014/2015,Sidnei
-2086,Taça da Liga,Portugal,2010/2011,Sidnei
-2088,Primeira Liga,Portugal,2009/2010,Sidnei
-2089,Taça da Liga,Portugal,2009/2010,Sidnei
-2090,Taça da Liga,Portugal,2008/2009,Sidnei
-2091,Gaúcho 1,Brazil,2008,Sidnei
-2092,CONMEBOL Recopa,South-America,2007,Sidnei
-2093,World Youth Festival Toulon,World,2019,Emerson
-2095,Africa Cup of Nations,Africa,2019 Egypt,A. Mandi
-2098,UEFA U21 Championship,Europe,2013 Israel,Sergio Canales
-2099,UEFA U21 Championship,Europe,2011 Denmark,Sergio Canales
-2101,Copa del Rey,Spain,2010/2011,Sergio Canales
-2103,UEFA Nations League,Europe,2018/2019,William Carvalho
-2105,Taça da Liga,Portugal,2017/2018,William Carvalho
-2106,European Championship,Europe,2016 France,William Carvalho
-2108,Super Cup,Portugal,2015/2016,William Carvalho
-2110,Taça de Portugal,Portugal,2014/2015,William Carvalho
-2114,Emirates Cup,World,2014,Víctor Ruíz
-2115,UEFA U21 Championship,Europe,2011 Denmark,Víctor Ruíz
-2116,Copa del Rey,Spain,2014/2015,Martín Montoya
-2117,UEFA Champions League,Europe,2014/2015,Martín Montoya
-2118,La Liga,Spain,2014/2015,Martín Montoya
-2121,Copa Catalunya,Spain,2013/2014,Martín Montoya
-2122,Super Cup,Spain,2013/2014,Martín Montoya
-2123,UEFA U21 Championship,Europe,2013 Israel,Martín Montoya
-2124,La Liga,Spain,2012/2013,Martín Montoya
-2126,Super Cup,Spain,2011/2012,Martín Montoya
-2127,UEFA Super Cup,Europe,2011/2012,Martín Montoya
-2128,Copa del Rey,Spain,2011/2012,Martín Montoya
-2130,FIFA Club World Cup,World,2011 Japan,Martín Montoya
-2131,UEFA U21 Championship,Europe,2011 Denmark,Martín Montoya
-2132,Audi Cup,World,2011,Martín Montoya
-2134,UEFA Champions League,Europe,2010/2011,Martín Montoya
-2135,La Liga,Spain,2010/2011,Martín Montoya
-2139,UEFA U21 Championship,Europe,2019 Italy,Dani Martín
-2140,Segunda División,Spain,2017/2018,Álex Moreno
-2142,Copa del Rey,Spain,2019/2020,Julen Lobete
-2146,Super Cup,Italy,2014/2015,Albiol
-2147,Coppa Italia,Italy,2013/2014,Albiol
-2149,Super Cup,Spain,2012/2013,Albiol
-2152,European Championship,Europe,2012 Poland/Ukraine,Albiol
-2153,La Liga,Spain,2011/2012,Albiol
-2156,Copa del Rey,Spain,2010/2011,Albiol
-2157,World Cup,World,2010 South Africa,Albiol
-2160,EC Qualification,Europe,2008 Austria/Switzer,Albiol
-2161,European Championship,Europe,2008 Austria/Switzer,Albiol
-2162,Copa del Rey,Spain,2007/2008,Albiol
-2163,World Cup,World,2018 Russia,N. Fekir
-2169,Concacaf Gold Cup,Nc-America,2019 USA / Costa Ric,A. Guardado
-2171,Super Cup,Holland,2016/2017,A. Guardado
-2172,Eredivisie,Holland,2015/2016,A. Guardado
-2173,Super Cup,Holland,2015/2016,A. Guardado
-2174,Concacaf Gold Cup,Nc-America,2015,A. Guardado
-2175,Eredivisie,Holland,2014/2015,A. Guardado
-2176,Emirates Cup,World,2014,A. Guardado
-2177,Segunda División,Spain,2011/2012,A. Guardado
-2178,Concacaf Gold Cup,Nc-America,2011,A. Guardado
-2183,Concacaf U17,Nc-America,2017,D. Lainez
-2188,EC Qualification,Europe,2008 Austria/Switzer,Joaquín
-2189,Copa del Rey,Spain,2007/2008,Joaquín
-2191,Copa del Rey,Spain,2004/2005,Joaquín
-2194,Segunda División,Spain,2014/2015,Loren Morón
-2196,Trofeo Joan Gamper,World,2016,Tello
-2199,Copa Catalunya,Spain,2013/2014,Tello
-2201,Super Cup,Spain,2013/2014,Tello
-2202,UEFA U21 Championship,Europe,2013 Israel,Tello
-2203,La Liga,Spain,2012/2013,Tello
-2205,Super Cup,Spain,2011/2012,Tello
-2206,Copa del Rey,Spain,2011/2012,Tello
-2208,UEFA Super Cup,Europe,2011/2012,Tello
-2209,FIFA Club World Cup,World,2011 Japan,Tello
-2210,Audi Cup,World,2011,Tello
-2211,La Liga,Spain,2010/2011,Tello
-2212,UEFA Champions League,Europe,2010/2011,Tello
-2213,Super Cup,Spain,2010/2011,Tello
-2217,Copa del Rey,Spain,2012/2013,Asenjo
-2218,UEFA Super Cup,Europe,2012/2013,Asenjo
-2219,UEFA Europa League,Europe,2011/2012,Asenjo
-2220,UEFA U21 Championship,Europe,2011 Denmark,Asenjo
-2221,UEFA Super Cup,Europe,2010/2011,Asenjo
-2223,UEFA Europa League,Europe,2009/2010,Asenjo
-2224,Segunda División,Spain,2006/2007,Asenjo
-2228,Copa MX,Mexico,2018/2019 Clausura,G. Rodríguez
-2229,Liga MX,Mexico,2018/2019 Apertura,G. Rodríguez
-2230,Campeón de Campeones,Mexico,2018/2019,G. Rodríguez
-2233,CONMEBOL Libertadores,South-America,2015,G. Rodríguez
-2234,CONMEBOL Recopa,South-America,2015,G. Rodríguez
-2235,Supercopa Euroamericana,World,2015,G. Rodríguez
-2236,J.League Cup / Copa Sudamericana Championship,World,2015,G. Rodríguez
-2237,Super Copa,Argentina,2014/2015,G. Rodríguez
-2239,CONMEBOL Sudamericana,South-America,2014,G. Rodríguez
-2240,Liga Profesional Argentina,Argentina,2010/2011 Apertura,G. Rulli
-2244,CONMEBOL Libertadores,South-America,2009,G. Rulli
-2245,UEFA U19 Championship,Europe,2012 Estonia,Juanmi
-2246,UEFA U19 Championship,Europe,2011 Romania,Juanmi
-2247,Audi Cup,World,2019,J. Foyth
-2249,International Champions Cup,World,2018,J. Foyth
-2251,UEFA Champions League,Europe,2018/2019,Alberto Moreno
-2254,Premier League Asia Trophy,World,2017,Alberto Moreno
-2257,UEFA Europa League,Europe,2013/2014,Alberto Moreno
-2258,UEFA U21 Championship,Europe,2013 Israel,Alberto Moreno
-2259,Copa del Rey,Spain,2018/2019,F. Coquelin
-2260,Community Shield,England,2017/2018,F. Coquelin
-2261,Emirates Cup,World,2017,F. Coquelin
-2262,FA Cup,England,2016/2017,F. Coquelin
-2264,Community Shield,England,2015/2016,F. Coquelin
-2265,Emirates Cup,World,2015,F. Coquelin
-2266,Premier League Asia Trophy,World,2015,F. Coquelin
-2267,FA Cup,England,2014/2015,F. Coquelin
-2268,Community Shield,England,2014/2015,F. Coquelin
-2270,UEFA U19 Championship,Europe,2010 France,F. Coquelin
-2271,Emirates Cup,World,2009,F. Coquelin
-2272,Copa del Rey,Spain,2018/2019,Dani Parejo
-2273,Emirates Cup,World,2014,Dani Parejo
-2274,UEFA U21 Championship,Europe,2011 Denmark,Dani Parejo
-2280,CONMEBOL Libertadores,South-America,2015,Ramiro Funes Mori
-2281,CONMEBOL Recopa,South-America,2015,Ramiro Funes Mori
-2282,Supercopa Euroamericana,World,2015,Ramiro Funes Mori
-2283,J.League Cup / Copa Sudamericana Championship,World,2015,Ramiro Funes Mori
-2284,Super Copa,Argentina,2014/2015,Ramiro Funes Mori
-2286,CONMEBOL Sudamericana,South-America,2014,Ramiro Funes Mori
-2287,Liga Profesional Argentina,Argentina,2013/2014 Torneo Fin,Ramiro Funes Mori
-2288,Liga Profesional Argentina,Argentina,2013/2014,Ramiro Funes Mori
-2290,Primera Nacional,Argentina,2011/2012,Ramiro Funes Mori
-2291,U17 World Cup,World,2015 Chile,S. Chukwueze
-2295,Supercopa Euroamericana,World,2016,Iborra
-2297,UEFA Europa League,Europe,2015/2016,Iborra
-2300,UEFA Europa League,Europe,2014/2015,Iborra
-2302,UEFA Europa League,Europe,2013/2014,Iborra
-2303,UEFA U21 Championship,Europe,2019 Italy,Pedraza
-2305,UEFA U19 Championship,Europe,2015 Greece,Pedraza
-2316,Super Cup,Germany,2019/2020,Paco Alcácer
-2318,Super Cup,Spain,2018/2019,Paco Alcácer
-2319,Supercopa de Catalunya,Spain,2018,Paco Alcácer
-2320,Trofeo Joan Gamper,World,2018,Paco Alcácer
-2321,La Liga,Spain,2017/2018,Paco Alcácer
-2322,Copa del Rey,Spain,2017/2018,Paco Alcácer
-2324,Trofeo Joan Gamper,World,2017,Paco Alcácer
-2326,Copa del Rey,Spain,2016/2017,Paco Alcácer
-2328,Emirates Cup,World,2014,Paco Alcácer
-2329,UEFA U19 Championship,Europe,2012 Estonia,Paco Alcácer
-2330,UEFA U19 Championship,Europe,2011 Romania,Paco Alcácer
-2331,Super Cup,Italy,2016/2017,C. Bacca
-2334,UEFA Europa League,Europe,2014/2015,C. Bacca
-2336,UEFA Europa League,Europe,2013/2014,C. Bacca
-2338,Primera A,Colombia,2011 Clausura,C. Bacca
-2339,Primera A,Colombia,2010 Apertura,C. Bacca
-2342,Supercopa de Catalunya,Spain,2016,Gerard Moreno
-2345,Segunda División,Spain,2018/2019,Clerc
-2347,Supercopa de Catalunya,Spain,2016,Ó. Duarte
-2350,Cup,Belgium,2014/2015,Ó. Duarte
-2351,Copa Centroamericana,Nc-America,2014,Ó. Duarte
-2355,Supercopa Euroamericana,World,2016,Coke
-2357,UEFA Europa League,Europe,2015/2016,Coke
-2360,UEFA Europa League,Europe,2014/2015,Coke
-2362,UEFA Europa League,Europe,2013/2014,Coke
-2364,Segunda División,Spain,2016/2017,Toño
-2366,Emirates Cup,World,2014,Rúben Vezo
-2367,Segunda División,Spain,2016/2017,Postigo
-2368,Segunda División,Spain,2016/2017,Rober
-2370,Segunda División,Spain,2016/2017,Son
-2377,Cup,Serbia,2013/2014,N. Radoja
-2380,Super Cup,Hungary,2014/2015,E. Bardhi
-2381,Africa Cup of Nations,Africa,2015 Equatorial Guin,C. Doukouré
-2382,Segunda División,Spain,2016/2017,Campaña
-2385,UEFA U19 Championship,Europe,2012 Estonia,Campaña
-2386,UEFA U19 Championship,Europe,2011 Romania,Campaña
-2387,Segunda División,Spain,2016/2017,Morales
-2388,Segunda División,Spain,2013/2014,Morales
-2392,Taça de Portugal,Portugal,2015/2016,N. Vukčević
-2394,Cup,Montenegro,2012/2013,N. Vukčević
-2395,First League,Montenegro,2011/2012,N. Vukčević
-2397,Segunda División,Spain,2016/2017,Roger Martí
-2400,Copa del Rey Juvenil,Spain,2017,Dani Gómez
-2401,División de Honor Juvenil,Spain,2016/2017,Dani Gómez
-2405,La Liga,Spain,2018/2019,J. Murillo
-2408,Super Cup,Spain,2018/2019,Denis Suárez
-2409,Trofeo Joan Gamper,World,2018,Denis Suárez
-2410,Supercopa de Catalunya,Spain,2018,Denis Suárez
-2411,La Liga,Spain,2017/2018,Denis Suárez
-2412,Copa del Rey,Spain,2017/2018,Denis Suárez
-2415,Trofeo Joan Gamper,World,2017,Denis Suárez
-2417,Super Cup,Spain,2016/2017,Denis Suárez
-2418,Copa del Rey,Spain,2016/2017,Denis Suárez
-2420,Trofeo Joan Gamper,World,2016,Denis Suárez
-2423,UEFA Europa League,Europe,2014/2015,Denis Suárez
-2425,Community Shield,England,2012/2013,Denis Suárez
-2428,UEFA U19 Championship,Europe,2012 Estonia,Denis Suárez
-2430,Premier League,England,2011/2012,Denis Suárez
-2431,First Division A,Belgium,2018/2019,J. Aidoo
-2435,Super Cup,Holland,2018/2019,R. Tapia
-2436,KNVB Beker,Holland,2017/2018,R. Tapia
-2437,Super Cup,Holland,2017/2018,R. Tapia
-2438,Eredivisie,Holland,2016/2017,R. Tapia
-2440,KNVB Beker,Holland,2015/2016,R. Tapia
-2441,Concacaf Gold Cup,Nc-America,2019 USA / Costa Ric,N. Araújo
-2442,Liga MX,Mexico,2017/2018 Clausura,N. Araújo
-2443,Copa MX,Mexico,2014/2015 Apertura,N. Araújo
-2444,Liga MX,Mexico,2014/2015,N. Araújo
-2445,Campeón de Campeones,Mexico,2014/2015,N. Araújo
-2447,Copa MX,Mexico,2012/2013 Clausura,N. Araújo
-2448,Olympics,World,2012 London,N. Araújo
-2449,Olympic Qualifying Concacaf,Nc-America,2012,N. Araújo
-2450,World Youth Festival Toulon,World,2012,N. Araújo
-2451,Pan American Games,World,2011,N. Araújo
-2452,UEFA U21 Championship,Europe,2019 Italy,Aarón Martín
-2454,Supercopa de Catalunya,Spain,2016,Aarón Martín
-2455,UEFA U19 Championship,Europe,2015 Greece,Aarón Martín
-2456,Supercopa de Catalunya,Spain,2018,David Costas
-2457,La Liga,Spain,2017/2018,David Costas
-2458,Copa del Rey,Spain,2017/2018,David Costas
-2462,Segunda División,Spain,2017/2018,Fran Beltrán
-2463,Super Cup,Turkey,2019/2020,E. Mor
-2465,DFB Pokal,Germany,2016/2017,E. Mor
-2468,UEFA U17 Championship,Europe,2017 Croatia,Diego Pampín
-2469,UEFA U19 Championship,Europe,2019 Armenia,Álvaro Fernández
-2471,UEFA U17 Championship,Europe,2017 Croatia,Álvaro Fernández
-2472,Super Cup,Spain,2020/2021,Jokin Ezkieta
-2475,La Liga,Spain,2018/2019,Jokin Ezkieta
-2477,Super Cup,Spain,2018/2019,Jokin Ezkieta
-2478,Supercopa de Catalunya,Spain,2018,Jokin Ezkieta
-2479,Trofeo Joan Gamper,World,2018,Jokin Ezkieta
-2480,La Liga,Spain,2017/2018,Jokin Ezkieta
-2481,Copa del Rey,Spain,2017/2018,Jokin Ezkieta
-2483,Trofeo Joan Gamper,World,2017,Jokin Ezkieta
-2485,Copa del Rey,Spain,2018/2019,Santi Mina
-2490,Taça da Liga,Portugal,2011/2012,Nolito
-2491,La Liga,Spain,2010/2011,Nolito
-2493,Super Cup,Spain,2010/2011,Nolito
-2494,UEFA Champions League,Europe,2010/2011,Nolito
-2495,Super Cup,Spain,2020/2021,Íñigo Martínez
-2497,UEFA U21 Championship,Europe,2013 Israel,Íñigo Martínez
-2498,Trofeo de Campeones de la Superliga,Argentina,2019,A. Solari
-2499,Liga Profesional Argentina,Argentina,2018/2019,A. Solari
-2501,CONMEBOL Libertadores,South-America,2015,A. Solari
-2502,CONMEBOL Recopa,South-America,2015,A. Solari
-2503,Supercopa Euroamericana,World,2015,A. Solari
-2504,J.League Cup / Copa Sudamericana Championship,World,2015,A. Solari
-2505,Super Copa,Argentina,2014/2015,A. Solari
-2507,CONMEBOL Sudamericana,South-America,2014,A. Solari
-2508,Liga Profesional Argentina,Argentina,2013/2014 Torneo Fin,A. Solari
-2509,Liga Profesional Argentina,Argentina,2013/2014,A. Solari
-2511,CONMEBOL Libertadores U20,South-America,2012,A. Solari
-2512,Primera Nacional,Argentina,2011/2012,A. Solari
-2513,Super Cup,Spain,2020/2021,Iago Herrerín
-2515,Super Cup,Spain,2015/2016,Iago Herrerín
-2518,Super Cup,Spain,2020/2021,Unai Simón
-2520,UEFA U21 Championship,Europe,2019 Italy,Unai Simón
-2521,UEFA U19 Championship,Europe,2015 Greece,Unai Simón
-2522,Super Cup,Spain,2020/2021,Yeray
-2524,Super Cup,Spain,2015/2016,Yeray
-2525,Super Cup,Spain,2020/2021,Yuri
-2527,Ligue 1,France,2017/2018,Yuri
-2528,Coupe de France,France,2017/2018,Yuri
-2529,Coupe de la Ligue,France,2017/2018,Yuri
-2530,Trophée des Champions,France,2017/2018,Yuri
-2531,Segunda División,Spain,2013/2014,Yuri
-2532,Super Cup,Spain,2020/2021,Lekue
-2534,Super Cup,Spain,2015/2016,Lekue
-2535,Super Cup,Spain,2020/2021,Unai Núñez
-2537,UEFA U21 Championship,Europe,2019 Italy,Unai Núñez
-2539,Super Cup,Ukraine,2017/2018,F. Ferreyra
-2540,Premier League,Ukraine,2017/2018,F. Ferreyra
-2541,Cup,Ukraine,2017/2018,F. Ferreyra
-2542,Cup,Ukraine,2016/2017,F. Ferreyra
-2544,Premier League,Ukraine,2016/2017,F. Ferreyra
-2546,Cup,Ukraine,2015/2016,F. Ferreyra
-2547,Super Cup,Ukraine,2015/2016,F. Ferreyra
-2548,Super Cup,Ukraine,2014/2015,F. Ferreyra
-2549,Premier League,Ukraine,2013/2014,F. Ferreyra
-2551,Super Cup,Ukraine,2013/2014,F. Ferreyra
-2552,Liga Profesional Argentina,Argentina,2012/2013 Torneo Ini,F. Ferreyra
-2553,Liga Profesional Argentina,Argentina,2012/2013,F. Ferreyra
-2554,Liga Profesional Argentina,Argentina,2009/2010 Apertura,F. Ferreyra
-2556,UEFA Europa League,Europe,2014/2015,Iago Aspas
-2562,Alkass International Cup,World,2017,Miguel Baeza
-2564,Super Cup,Spain,2020/2021,Muniain
-2566,Super Cup,Spain,2015/2016,Muniain
-2568,UEFA U21 Championship,Europe,2013 Israel,Muniain
-2571,UEFA U21 Championship,Europe,2011 Denmark,Muniain
-2574,Super Cup,Spain,2020/2021,Álex Berenguer
-2576,Super Cup,Spain,2020/2021,Balenziaga
-2578,Super Cup,Spain,2015/2016,Balenziaga
-2581,Super Cup,Spain,2020/2021,Capa
-2583,Segunda División,Spain,2013/2014,Capa
-2584,Super Cup,Spain,2020/2021,De Marcos
-2586,Super Cup,Spain,2015/2016,De Marcos
-2590,UEFA U21 Championship,Europe,2011 Denmark,De Marcos
-2592,Super Cup,Spain,2020/2021,Dani García
-2594,Segunda División,Spain,2013/2014,Dani García
-2595,Super Cup,Spain,2020/2021,Raúl García
-2597,Super Cup,Spain,2014/2015,Raúl García
-2598,La Liga,Spain,2013/2014,Raúl García
-2601,Copa del Rey,Spain,2012/2013,Raúl García
-2602,UEFA Super Cup,Europe,2012/2013,Raúl García
-2603,UEFA Super Cup,Europe,2010/2011,Raúl García
-2605,UEFA Europa League,Europe,2009/2010,Raúl García
-2607,Super Cup,Spain,2020/2021,Ibai Gómez
-2610,Super Cup,Spain,2015/2016,Ibai Gómez
-2614,Super Cup,Spain,2020/2021,Unai López
-2616,Segunda División,Spain,2017/2018,Unai López
+1795,UEFA Europa League,Europe,2019/2020,F. Vázquez
+1801,Supercopa Euroamericana,World,2016,F. Vázquez
+1802,Serie B,Italy,2013/2014,F. Vázquez
+1804,UEFA Europa League,Europe,2019/2020,Munir
+1805,Super Cup,Spain,2018/2019,Munir
+1806,Trofeo Joan Gamper,World,2018,Munir
+1808,Trofeo Joan Gamper,World,2017,Munir
+1809,Super Cup,Spain,2016/2017,Munir
+1810,Trofeo Joan Gamper,World,2016,Munir
+1811,La Liga,Spain,2015/2016,Munir
+1812,Copa del Rey,Spain,2015/2016,Munir
+1814,UEFA Super Cup,Europe,2015/2016,Munir
+1815,FIFA Club World Cup,World,2015 Japan,Munir
+1816,La Liga,Spain,2014/2015,Munir
+1817,UEFA Champions League,Europe,2014/2015,Munir
+1818,Copa del Rey,Spain,2014/2015,Munir
+1819,UEFA Youth League,Europe,2013/2014,Munir
+1822,CONMEBOL Sudamericana,South-America,2007,Papu Gómez
+1823,Copa del Rey,Spain,2019/2020,Álex Remiro
+1825,Super Cup,Spain,2015/2016,Álex Remiro
+1827,Copa del Rey,Spain,2019/2020,Moyà
+1828,Audi Cup,World,2017,Moyà
+1830,Super Cup,Spain,2014/2015,Moyà
+1833,UEFA Champions League,Europe,2017/2018,Óscar Rodríguez
+1834,UEFA Super Cup,Europe,2017/2018,Óscar Rodríguez
+1835,Super Cup,Spain,2017/2018,Óscar Rodríguez
+1836,FIFA Club World Cup,World,2017 UAE,Óscar Rodríguez
+1837,Copa del Rey Juvenil,Spain,2017,Óscar Rodríguez
+1838,División de Honor Juvenil,Spain,2016/2017,Óscar Rodríguez
+1840,UEFA Europa League,Europe,2019/2020,Y. En-Nesyri
+1841,Copa del Rey,Spain,2019/2020,Gaizka Ayesa
+1843,UEFA Europa League,Europe,2019/2020,Juanlu
+1844,Copa del Rey,Spain,2019/2020,Unai Marrero
+1845,Community Shield,England,2019/2020,David Silva
+1846,League Cup,England,2019/2020,David Silva
+1847,Copa del Rey,Spain,2019/2020,David Silva
+1850,Community Shield,England,2018/2019,David Silva
+1851,Premier League,England,2018/2019,David Silva
+1852,League Cup,England,2018/2019,David Silva
+1853,FA Cup,England,2018/2019,David Silva
+1854,Premier League,England,2017/2018,David Silva
+1855,League Cup,England,2017/2018,David Silva
+1856,League Cup,England,2015/2016,David Silva
+1859,League Cup,England,2013/2014,David Silva
+1860,Premier League,England,2013/2014,David Silva
+1865,Community Shield,England,2012/2013,David Silva
+1866,European Championship,Europe,2012 Poland/Ukraine,David Silva
+1868,Premier League,England,2011/2012,David Silva
+1869,FA Cup,England,2010/2011,David Silva
+1870,World Cup,World,2010 South Africa,David Silva
+1872,European Championship,Europe,2008 Austria/Switzer,David Silva
+1873,EC Qualification,Europe,2008 Austria/Switzer,David Silva
+1874,Copa del Rey,Spain,2007/2008,David Silva
+1875,Copa del Rey,Spain,2019/2020,Nacho Monreal
+1880,Community Shield,England,2017/2018,Nacho Monreal
+1881,Emirates Cup,World,2017,Nacho Monreal
+1882,FA Cup,England,2016/2017,Nacho Monreal
+1884,Community Shield,England,2015/2016,Nacho Monreal
+1885,Premier League Asia Trophy,World,2015,Nacho Monreal
+1886,Emirates Cup,World,2015,Nacho Monreal
+1887,Community Shield,England,2014/2015,Nacho Monreal
+1888,FA Cup,England,2014/2015,Nacho Monreal
+1890,FA Cup,England,2013/2014,Nacho Monreal
+1892,Copa del Rey,Spain,2019/2020,A. Januzaj
+1893,Community Shield,England,2016/2017,A. Januzaj
+1895,FA Cup,England,2015/2016,A. Januzaj
+1896,International Champions Cup,World,2014,A. Januzaj
+1897,Community Shield,England,2013/2014,A. Januzaj
+1898,Premier League,England,2012/2013,A. Januzaj
+1899,Copa del Rey,Spain,2019/2020,M. Sagnan
+1900,Copa del Rey,Spain,2019/2020,Elustondo
+1901,Copa del Rey,Spain,2019/2020,Gorosabel
+1902,Copa del Rey,Spain,2019/2020,R. Le Normand
+1903,Copa del Rey,Spain,2019/2020,Aihen Muñoz
+1904,Copa del Rey,Spain,2019/2020,Zaldúa
+1905,Copa del Rey,Spain,2019/2020,Guevara
+1906,Copa del Rey,Spain,2019/2020,Illarramendi
+1910,UEFA Super Cup,Europe,2014/2015,Illarramendi
+1911,FIFA Club World Cup,World,2014 Morocco,Illarramendi
+1912,Copa del Rey,Spain,2013/2014,Illarramendi
+1913,UEFA Champions League,Europe,2013/2014,Illarramendi
+1914,UEFA U21 Championship,Europe,2013 Israel,Illarramendi
+1915,International Champions Cup,World,2013,Illarramendi
+1916,Segunda División,Spain,2009/2010,Illarramendi
+1917,Copa del Rey,Spain,2019/2020,Mikel Merino
+1918,UEFA U21 Championship,Europe,2019 Italy,Mikel Merino
+1920,DFB Pokal,Germany,2016/2017,Mikel Merino
+1922,UEFA U19 Championship,Europe,2015 Greece,Mikel Merino
+1923,Copa del Rey,Spain,2019/2020,Sangalli
+1924,Copa del Rey,Spain,2019/2020,Zubeldía
+1925,UEFA U21 Championship,Europe,2019 Italy,Zubeldía
+1926,Copa del Rey,Spain,2019/2020,Robert Navarro
+1928,Copa del Rey,Spain,2019/2020,Jon Guridi
+1929,Copa Federacion,Spain,2018/2019,Jon Guridi
+1930,Copa del Rey,Spain,2019/2020,Aritz Aranbarri
+1931,Copa del Rey,Spain,2019/2020,Jon Pacheco
+1932,Copa del Rey,Spain,2019/2020,J. Blasco
+1933,Copa del Rey,Spain,2019/2020,Unai Ruiz Zeberio
+1934,Community Shield,England,2019/2020,C. Bravo
+1936,League Cup,England,2019/2020,C. Bravo
+1938,League Cup,England,2018/2019,C. Bravo
+1939,Community Shield,England,2018/2019,C. Bravo
+1940,FA Cup,England,2018/2019,C. Bravo
+1941,Premier League,England,2018/2019,C. Bravo
+1942,League Cup,England,2017/2018,C. Bravo
+1943,Premier League,England,2017/2018,C. Bravo
+1945,Super Cup,Spain,2016/2017,C. Bravo
+1946,Copa America,South-America,2016  USA,C. Bravo
+1947,Trofeo Joan Gamper,World,2016,C. Bravo
+1948,UEFA Super Cup,Europe,2015/2016,C. Bravo
+1949,Copa del Rey,Spain,2015/2016,C. Bravo
+1950,La Liga,Spain,2015/2016,C. Bravo
+1952,FIFA Club World Cup,World,2015 Japan,C. Bravo
+1953,Copa America,South-America,2015 Chile,C. Bravo
+1954,La Liga,Spain,2014/2015,C. Bravo
+1955,UEFA Champions League,Europe,2014/2015,C. Bravo
+1956,Copa del Rey,Spain,2014/2015,C. Bravo
+1957,Segunda División,Spain,2009/2010,C. Bravo
+1960,Primera División,Chile,2002 Clausura,C. Bravo
+1961,Premier League 2 Division One,England,2016/2017,Joel Robles
+1963,UEFA U21 Championship,Europe,2013 Israel,Joel Robles
+1964,FA Cup,England,2012/2013,Joel Robles
+1965,UEFA Super Cup,Europe,2012/2013,Joel Robles
+1966,UEFA Super Cup,Europe,2010/2011,Joel Robles
+1968,UEFA Europa League,Europe,2009/2010,Joel Robles
+1971,DFB Pokal,Germany,2016/2017,Marc Bartra
+1973,La Liga,Spain,2015/2016,Marc Bartra
+1974,UEFA Super Cup,Europe,2015/2016,Marc Bartra
+1975,Copa del Rey,Spain,2015/2016,Marc Bartra
+1976,FIFA Club World Cup,World,2015 Japan,Marc Bartra
+1977,Copa del Rey,Spain,2014/2015,Marc Bartra
+1978,UEFA Champions League,Europe,2014/2015,Marc Bartra
+1979,La Liga,Spain,2014/2015,Marc Bartra
+1981,Copa Catalunya,Spain,2013/2014,Marc Bartra
+1982,Super Cup,Spain,2013/2014,Marc Bartra
+1984,UEFA U21 Championship,Europe,2013 Israel,Marc Bartra
+1985,La Liga,Spain,2012/2013,Marc Bartra
+1987,UEFA Super Cup,Europe,2011/2012,Marc Bartra
+1988,Super Cup,Spain,2011/2012,Marc Bartra
+1989,Copa del Rey,Spain,2011/2012,Marc Bartra
+1991,FIFA Club World Cup,World,2011 Japan,Marc Bartra
+1992,Audi Cup,World,2011,Marc Bartra
+1993,Super Cup,Spain,2010/2011,Marc Bartra
+1994,UEFA Champions League,Europe,2010/2011,Marc Bartra
+1996,La Liga,Spain,2010/2011,Marc Bartra
+1998,La Liga,Spain,2009/2010,Marc Bartra
+2000,Emirates Cup,World,2014,Víctor Ruíz
+2001,UEFA U21 Championship,Europe,2011 Denmark,Víctor Ruíz
+2002,Copa del Rey,Spain,2019/2020,A. Isak
+2006,DFB Pokal,Germany,2016/2017,A. Isak
+2007,U19 Bundesliga,Germany,2016/2017,A. Isak
+2009,Copa del Rey,Spain,2014/2015,Martín Montoya
+2010,UEFA Champions League,Europe,2014/2015,Martín Montoya
+2011,La Liga,Spain,2014/2015,Martín Montoya
+2014,Copa Catalunya,Spain,2013/2014,Martín Montoya
+2015,Super Cup,Spain,2013/2014,Martín Montoya
+2016,UEFA U21 Championship,Europe,2013 Israel,Martín Montoya
+2017,La Liga,Spain,2012/2013,Martín Montoya
+2019,Super Cup,Spain,2011/2012,Martín Montoya
+2020,UEFA Super Cup,Europe,2011/2012,Martín Montoya
+2021,Copa del Rey,Spain,2011/2012,Martín Montoya
+2023,FIFA Club World Cup,World,2011 Japan,Martín Montoya
+2024,UEFA U21 Championship,Europe,2011 Denmark,Martín Montoya
+2025,Audi Cup,World,2011,Martín Montoya
+2027,UEFA Champions League,Europe,2010/2011,Martín Montoya
+2028,La Liga,Spain,2010/2011,Martín Montoya
+2031,Copa del Rey,Spain,2019/2020,Carlos Fernández
+2032,UEFA Europa League,Europe,2019/2020,Carlos Fernández
+2037,Supercopa Euroamericana,World,2016,Carlos Fernández
+2039,UEFA Europa League,Europe,2015/2016,Carlos Fernández
+2041,UEFA U19 Championship,Europe,2015 Greece,Carlos Fernández
+2043,UEFA Europa League,Europe,2014/2015,Carlos Fernández
+2045,UEFA Europa League,Europe,2013/2014,Carlos Fernández
+2046,UEFA U21 Championship,Europe,2019 Italy,Dani Martín
+2047,Copa del Rey,Spain,2019/2020,Martín Zubimendi
+2048,Copa del Rey,Spain,2019/2020,Barrenetxea
+2049,UEFA U19 Championship,Europe,2019 Armenia,Barrenetxea
+2050,Copa del Rey,Spain,2019/2020,Jon Bautista
+2051,Copa del Rey,Spain,2019/2020,Roberto López
+2052,Copa del Rey,Spain,2019/2020,Martín Merquelanz
+2053,Copa del Rey,Spain,2019/2020,Mikel Oyarzabal
+2054,UEFA U21 Championship,Europe,2019 Italy,Mikel Oyarzabal
+2056,Copa del Rey,Spain,2019/2020,Portu
+2057,Supercopa de Catalunya,Spain,2019,Portu
+2061,Copa del Rey,Spain,2019/2020,Julen Lobete
+2062,Copa del Rey,Spain,2019/2020,Urko González
+2063,Copa del Rey,Spain,2019/2020,Beñat Turrientes
+2064,Trofeo Joan Gamper,World,2020,Juan Miranda
+2065,UEFA U19 Championship,Europe,2019 Armenia,Juan Miranda
+2067,Trofeo Joan Gamper,World,2019,Juan Miranda
+2068,La Liga,Spain,2018/2019,Juan Miranda
+2070,Super Cup,Spain,2018/2019,Juan Miranda
+2071,Supercopa de Catalunya,Spain,2018,Juan Miranda
+2072,Trofeo Joan Gamper,World,2018,Juan Miranda
+2073,La Liga,Spain,2017/2018,Juan Miranda
+2074,Copa del Rey,Spain,2017/2018,Juan Miranda
+2075,UEFA Youth League,Europe,2017/2018,Juan Miranda
+2077,UEFA U17 Championship,Europe,2017 Croatia,Juan Miranda
+2078,World Cup,World,2018 Russia,N. Fekir
+2084,Super Cup,Portugal,2014/2015,Sidnei
+2090,Taça da Liga,Portugal,2010/2011,Sidnei
+2092,Primeira Liga,Portugal,2009/2010,Sidnei
+2093,Taça da Liga,Portugal,2009/2010,Sidnei
+2094,Taça da Liga,Portugal,2008/2009,Sidnei
+2095,Gaúcho 1,Brazil,2008,Sidnei
+2096,CONMEBOL Recopa,South-America,2007,Sidnei
+2097,World Youth Festival Toulon,World,2019,Emerson
+2099,Africa Cup of Nations,Africa,2019 Egypt,A. Mandi
+2102,UEFA U21 Championship,Europe,2013 Israel,Sergio Canales
+2103,UEFA U21 Championship,Europe,2011 Denmark,Sergio Canales
+2105,Copa del Rey,Spain,2010/2011,Sergio Canales
+2107,Concacaf Gold Cup,Nc-America,2019 USA / Costa Ric,A. Guardado
+2109,Super Cup,Holland,2016/2017,A. Guardado
+2110,Eredivisie,Holland,2015/2016,A. Guardado
+2111,Super Cup,Holland,2015/2016,A. Guardado
+2112,Concacaf Gold Cup,Nc-America,2015,A. Guardado
+2113,Eredivisie,Holland,2014/2015,A. Guardado
+2114,Emirates Cup,World,2014,A. Guardado
+2115,Segunda División,Spain,2011/2012,A. Guardado
+2116,Concacaf Gold Cup,Nc-America,2011,A. Guardado
+2121,EC Qualification,Europe,2008 Austria/Switzer,Joaquín
+2122,Copa del Rey,Spain,2007/2008,Joaquín
+2124,Copa del Rey,Spain,2004/2005,Joaquín
+2126,UEFA Nations League,Europe,2018/2019,William Carvalho
+2128,Taça da Liga,Portugal,2017/2018,William Carvalho
+2129,European Championship,Europe,2016 France,William Carvalho
+2131,Super Cup,Portugal,2015/2016,William Carvalho
+2133,Taça de Portugal,Portugal,2014/2015,William Carvalho
+2137,Segunda División,Spain,2014/2015,Loren Morón
+2139,Trofeo Joan Gamper,World,2016,Tello
+2142,Copa Catalunya,Spain,2013/2014,Tello
+2144,Super Cup,Spain,2013/2014,Tello
+2145,UEFA U21 Championship,Europe,2013 Israel,Tello
+2146,La Liga,Spain,2012/2013,Tello
+2148,Super Cup,Spain,2011/2012,Tello
+2149,Copa del Rey,Spain,2011/2012,Tello
+2151,UEFA Super Cup,Europe,2011/2012,Tello
+2152,FIFA Club World Cup,World,2011 Japan,Tello
+2153,Audi Cup,World,2011,Tello
+2154,La Liga,Spain,2010/2011,Tello
+2155,UEFA Champions League,Europe,2010/2011,Tello
+2156,Super Cup,Spain,2010/2011,Tello
+2160,Copa MX,Mexico,2018/2019 Clausura,G. Rodríguez
+2161,Liga MX,Mexico,2018/2019 Apertura,G. Rodríguez
+2162,Campeón de Campeones,Mexico,2018/2019,G. Rodríguez
+2165,CONMEBOL Libertadores,South-America,2015,G. Rodríguez
+2166,CONMEBOL Recopa,South-America,2015,G. Rodríguez
+2167,Supercopa Euroamericana,World,2015,G. Rodríguez
+2168,J.League Cup / Copa Sudamericana Championship,World,2015,G. Rodríguez
+2169,Super Copa,Argentina,2014/2015,G. Rodríguez
+2171,CONMEBOL Sudamericana,South-America,2014,G. Rodríguez
+2174,UEFA U19 Championship,Europe,2012 Estonia,Juanmi
+2175,UEFA U19 Championship,Europe,2011 Romania,Juanmi
+2176,Segunda División,Spain,2017/2018,Álex Moreno
+2177,Audi Cup,World,2019,J. Foyth
+2179,International Champions Cup,World,2018,J. Foyth
+2181,UEFA Champions League,Europe,2018/2019,Alberto Moreno
+2184,Premier League Asia Trophy,World,2017,Alberto Moreno
+2187,UEFA Europa League,Europe,2013/2014,Alberto Moreno
+2188,UEFA U21 Championship,Europe,2013 Israel,Alberto Moreno
+2192,Super Cup,Italy,2014/2015,Albiol
+2193,Coppa Italia,Italy,2013/2014,Albiol
+2195,Super Cup,Spain,2012/2013,Albiol
+2198,European Championship,Europe,2012 Poland/Ukraine,Albiol
+2199,La Liga,Spain,2011/2012,Albiol
+2202,Copa del Rey,Spain,2010/2011,Albiol
+2203,World Cup,World,2010 South Africa,Albiol
+2206,EC Qualification,Europe,2008 Austria/Switzer,Albiol
+2207,European Championship,Europe,2008 Austria/Switzer,Albiol
+2208,Copa del Rey,Spain,2007/2008,Albiol
+2209,Copa del Rey,Spain,2018/2019,Dani Parejo
+2210,Emirates Cup,World,2014,Dani Parejo
+2211,UEFA U21 Championship,Europe,2011 Denmark,Dani Parejo
+2216,Concacaf U17,Nc-America,2017,D. Lainez
+2219,Copa del Rey,Spain,2012/2013,Asenjo
+2220,UEFA Super Cup,Europe,2012/2013,Asenjo
+2221,UEFA Europa League,Europe,2011/2012,Asenjo
+2222,UEFA U21 Championship,Europe,2011 Denmark,Asenjo
+2223,UEFA Super Cup,Europe,2010/2011,Asenjo
+2225,UEFA Europa League,Europe,2009/2010,Asenjo
+2226,Segunda División,Spain,2006/2007,Asenjo
+2231,CONMEBOL Libertadores,South-America,2015,Ramiro Funes Mori
+2232,CONMEBOL Recopa,South-America,2015,Ramiro Funes Mori
+2233,Supercopa Euroamericana,World,2015,Ramiro Funes Mori
+2234,J.League Cup / Copa Sudamericana Championship,World,2015,Ramiro Funes Mori
+2235,Super Copa,Argentina,2014/2015,Ramiro Funes Mori
+2237,CONMEBOL Sudamericana,South-America,2014,Ramiro Funes Mori
+2238,Liga Profesional Argentina,Argentina,2013/2014 Torneo Fin,Ramiro Funes Mori
+2239,Liga Profesional Argentina,Argentina,2013/2014,Ramiro Funes Mori
+2241,Primera Nacional,Argentina,2011/2012,Ramiro Funes Mori
+2247,Supercopa Euroamericana,World,2016,Iborra
+2249,UEFA Europa League,Europe,2015/2016,Iborra
+2252,UEFA Europa League,Europe,2014/2015,Iborra
+2254,UEFA Europa League,Europe,2013/2014,Iborra
+2257,Liga Profesional Argentina,Argentina,2010/2011 Apertura,G. Rulli
+2261,CONMEBOL Libertadores,South-America,2009,G. Rulli
+2262,Super Cup,Germany,2019/2020,Paco Alcácer
+2264,Super Cup,Spain,2018/2019,Paco Alcácer
+2265,Supercopa de Catalunya,Spain,2018,Paco Alcácer
+2266,Trofeo Joan Gamper,World,2018,Paco Alcácer
+2267,La Liga,Spain,2017/2018,Paco Alcácer
+2268,Copa del Rey,Spain,2017/2018,Paco Alcácer
+2270,Trofeo Joan Gamper,World,2017,Paco Alcácer
+2272,Copa del Rey,Spain,2016/2017,Paco Alcácer
+2274,Emirates Cup,World,2014,Paco Alcácer
+2275,UEFA U19 Championship,Europe,2012 Estonia,Paco Alcácer
+2276,UEFA U19 Championship,Europe,2011 Romania,Paco Alcácer
+2277,Copa del Rey,Spain,2018/2019,F. Coquelin
+2278,Community Shield,England,2017/2018,F. Coquelin
+2279,Emirates Cup,World,2017,F. Coquelin
+2280,FA Cup,England,2016/2017,F. Coquelin
+2282,Community Shield,England,2015/2016,F. Coquelin
+2283,Emirates Cup,World,2015,F. Coquelin
+2284,Premier League Asia Trophy,World,2015,F. Coquelin
+2285,FA Cup,England,2014/2015,F. Coquelin
+2286,Community Shield,England,2014/2015,F. Coquelin
+2288,UEFA U19 Championship,Europe,2010 France,F. Coquelin
+2289,Emirates Cup,World,2009,F. Coquelin
+2290,U17 World Cup,World,2015 Chile,S. Chukwueze
+2291,UEFA U21 Championship,Europe,2019 Italy,Pedraza
+2293,UEFA U19 Championship,Europe,2015 Greece,Pedraza
+2297,Super Cup,Italy,2016/2017,C. Bacca
+2300,UEFA Europa League,Europe,2014/2015,C. Bacca
+2302,UEFA Europa League,Europe,2013/2014,C. Bacca
+2304,Primera A,Colombia,2011 Clausura,C. Bacca
+2305,Primera A,Colombia,2010 Apertura,C. Bacca
+2308,Supercopa de Catalunya,Spain,2016,Gerard Moreno
+2322,Primera Nacional,Argentina,2016/2017,N. Pérez
+2323,UEFA U21 Championship,Europe,2019 Italy,Vallejo
+2325,FIFA Club World Cup,World,2018 UAE,Vallejo
+2326,UEFA Champions League,Europe,2017/2018,Vallejo
+2327,UEFA Super Cup,Europe,2017/2018,Vallejo
+2328,Super Cup,Spain,2017/2018,Vallejo
+2329,FIFA Club World Cup,World,2017 UAE,Vallejo
+2332,UEFA U19 Championship,Europe,2015 Greece,Vallejo
+2338,Trophée des Champions,France,2012/2013,M. Gonalons
+2339,Coupe de France,France,2011/2012,M. Gonalons
+2352,U20 World Cup,World,2013 Turkey,D. Foulquier
+2356,Premier League International Cup,Europe,2016/2017,Andorinha
+2357,Segunda Liga,Portugal,2015/2016,Andorinha
+2358,Júniores U19,Portugal,2014/2015,Andorinha
+2364,EC Qualification,Europe,2008 Austria/Switzer,Soldado
+2365,La Liga,Spain,2007/2008,Soldado
+2370,Super Cup,Spain,2003/2004,Soldado
+2372,Taça de Portugal,Portugal,2012/2013,D. Machís
+2373,Copa Venezuela,Venezuela,2011/2012,D. Machís
+2375,UEFA U19 Championship,Europe,2018 Finland,Domingos Quina
+2377,UEFA U17 Championship,Europe,2016 Azerbaijan,Domingos Quina
+2381,Premier League,England,2016/2017,Kenedy
+2385,Copa del Rey,Spain,2007/2008,Montoro
+2388,Super Cup,Belgium,2014/2015,Fede Vico
+2389,Super Cup,Belgium,2013/2014,Fede Vico
+2390,Copa del Rey Juvenil,Spain,2017,Echu
+2391,División de Honor Juvenil,Spain,2016/2017,Echu
+2393,Segunda División,Spain,2014/2015,Jorge Molina
+2394,Segunda División,Spain,2010/2011,Jorge Molina
+2398,Copa Federacion,Spain,2018/2019,Álvaro Bravo
+2399,Copa del Rey Juvenil,Spain,2017,Álvaro Bravo
+2400,División de Honor Juvenil,Spain,2016/2017,Álvaro Bravo
+2401,Segunda División,Spain,2018/2019,Clerc
+2404,Segunda División,Spain,2014/2015,Vadillo
+2406,Supercopa de Catalunya,Spain,2016,Ó. Duarte
+2409,Cup,Belgium,2014/2015,Ó. Duarte
+2410,Copa Centroamericana,Nc-America,2014,Ó. Duarte
+2411,Cup,Serbia,2013/2014,N. Radoja
+2413,Segunda División,Spain,2016/2017,Koke
+2414,Supercopa Euroamericana,World,2016,Coke
+2416,UEFA Europa League,Europe,2015/2016,Coke
+2419,UEFA Europa League,Europe,2014/2015,Coke
+2421,UEFA Europa League,Europe,2013/2014,Coke
+2423,Segunda División,Spain,2016/2017,Toño
+2425,Emirates Cup,World,2014,Rúben Vezo
+2426,Segunda División,Spain,2016/2017,Postigo
+2427,Segunda División,Spain,2016/2017,Rober
+2429,Super Cup,Hungary,2014/2015,E. Bardhi
+2430,Segunda División,Spain,2016/2017,Morales
+2431,Segunda División,Spain,2013/2014,Morales
+2435,Taça de Portugal,Portugal,2015/2016,N. Vukčević
+2437,Cup,Montenegro,2012/2013,N. Vukčević
+2438,First League,Montenegro,2011/2012,N. Vukčević
+2441,Segunda División,Spain,2016/2017,Son
+2443,Concacaf Gold Cup,Nc-America,2019 USA / Costa Ric,N. Araújo
+2444,Liga MX,Mexico,2017/2018 Clausura,N. Araújo
+2445,Copa MX,Mexico,2014/2015 Apertura,N. Araújo
+2446,Liga MX,Mexico,2014/2015,N. Araújo
+2447,Campeón de Campeones,Mexico,2014/2015,N. Araújo
+2449,Copa MX,Mexico,2012/2013 Clausura,N. Araújo
+2450,Olympics,World,2012 London,N. Araújo
+2451,Olympic Qualifying Concacaf,Nc-America,2012,N. Araújo
+2452,World Youth Festival Toulon,World,2012,N. Araújo
+2453,Pan American Games,World,2011,N. Araújo
+2459,Supercopa de Catalunya,Spain,2018,David Costas
+2460,La Liga,Spain,2017/2018,David Costas
+2461,Copa del Rey,Spain,2017/2018,David Costas
+2464,Africa Cup of Nations,Africa,2015 Equatorial Guin,C. Doukouré
+2465,Segunda División,Spain,2016/2017,Campaña
+2468,UEFA U19 Championship,Europe,2012 Estonia,Campaña
+2469,UEFA U19 Championship,Europe,2011 Romania,Campaña
+2470,Segunda División,Spain,2016/2017,Roger Martí
+2473,Copa del Rey Juvenil,Spain,2017,Dani Gómez
+2474,División de Honor Juvenil,Spain,2016/2017,Dani Gómez
+2476,UEFA U19 Championship,Europe,2019 Armenia,Álvaro Fernández
+2478,UEFA U17 Championship,Europe,2017 Croatia,Álvaro Fernández
+2479,UEFA U19 Championship,Europe,2019 Armenia,Víctor Mollejo
+2482,UEFA Super Cup,Europe,2018/2019,Víctor Mollejo
+2484,UEFA Europa League,Europe,2017/2018,Víctor Mollejo
+2485,Audi Cup,World,2017,Víctor Mollejo
+2487,La Liga,Spain,2018/2019,J. Murillo
+2489,Copa del Rey,Spain,2018/2019,Álex Centelles
+2491,Super Cup,Spain,2018/2019,Denis Suárez
+2492,Trofeo Joan Gamper,World,2018,Denis Suárez
+2493,Supercopa de Catalunya,Spain,2018,Denis Suárez
+2494,La Liga,Spain,2017/2018,Denis Suárez
+2495,Copa del Rey,Spain,2017/2018,Denis Suárez
+2498,Trofeo Joan Gamper,World,2017,Denis Suárez
+2500,Super Cup,Spain,2016/2017,Denis Suárez
+2501,Copa del Rey,Spain,2016/2017,Denis Suárez
+2503,Trofeo Joan Gamper,World,2016,Denis Suárez
+2506,UEFA Europa League,Europe,2014/2015,Denis Suárez
+2508,Community Shield,England,2012/2013,Denis Suárez
+2511,UEFA U19 Championship,Europe,2012 Estonia,Denis Suárez
+2513,Premier League,England,2011/2012,Denis Suárez
+2514,First Division A,Belgium,2018/2019,J. Aidoo
+2518,Super Cup,Holland,2018/2019,R. Tapia
+2519,KNVB Beker,Holland,2017/2018,R. Tapia
+2520,Super Cup,Holland,2017/2018,R. Tapia
+2521,Eredivisie,Holland,2016/2017,R. Tapia
+2523,KNVB Beker,Holland,2015/2016,R. Tapia
+2524,Trofeo de Campeones de la Superliga,Argentina,2019,A. Solari
+2525,Liga Profesional Argentina,Argentina,2018/2019,A. Solari
+2527,CONMEBOL Libertadores,South-America,2015,A. Solari
+2528,CONMEBOL Recopa,South-America,2015,A. Solari
+2529,Supercopa Euroamericana,World,2015,A. Solari
+2530,J.League Cup / Copa Sudamericana Championship,World,2015,A. Solari
+2531,Super Copa,Argentina,2014/2015,A. Solari
+2533,CONMEBOL Sudamericana,South-America,2014,A. Solari
+2534,Liga Profesional Argentina,Argentina,2013/2014 Torneo Fin,A. Solari
+2535,Liga Profesional Argentina,Argentina,2013/2014,A. Solari
+2537,CONMEBOL Libertadores U20,South-America,2012,A. Solari
+2538,Primera Nacional,Argentina,2011/2012,A. Solari
+2539,UEFA U21 Championship,Europe,2019 Italy,Aarón Martín
+2541,Supercopa de Catalunya,Spain,2016,Aarón Martín
+2542,UEFA U19 Championship,Europe,2015 Greece,Aarón Martín
+2544,Copa del Rey,Spain,2016/2017,Cardona
+2546,Segunda División,Spain,2017/2018,Fran Beltrán
+2547,Super Cup,Turkey,2019/2020,E. Mor
+2549,DFB Pokal,Germany,2016/2017,E. Mor
+2552,UEFA U17 Championship,Europe,2017 Croatia,Diego Pampín
+2554,Alkass International Cup,World,2017,Miguel Baeza
+2556,Super Cup,Spain,2020/2021,Jokin Ezkieta
+2559,La Liga,Spain,2018/2019,Jokin Ezkieta
+2561,Super Cup,Spain,2018/2019,Jokin Ezkieta
+2562,Supercopa de Catalunya,Spain,2018,Jokin Ezkieta
+2563,Trofeo Joan Gamper,World,2018,Jokin Ezkieta
+2564,La Liga,Spain,2017/2018,Jokin Ezkieta
+2565,Copa del Rey,Spain,2017/2018,Jokin Ezkieta
+2567,Trofeo Joan Gamper,World,2017,Jokin Ezkieta
+2569,Copa del Rey,Spain,2018/2019,Santi Mina
+2574,Taça da Liga,Portugal,2011/2012,Nolito
+2575,La Liga,Spain,2010/2011,Nolito
+2577,Super Cup,Spain,2010/2011,Nolito
+2578,UEFA Champions League,Europe,2010/2011,Nolito
+2579,Super Cup,Spain,2020/2021,Íñigo Martínez
+2581,UEFA U21 Championship,Europe,2013 Israel,Íñigo Martínez
+2582,Super Cup,Spain,2020/2021,Iago Herrerín
+2584,Super Cup,Spain,2015/2016,Iago Herrerín
+2587,Super Cup,Spain,2020/2021,Unai Simón
+2589,UEFA U21 Championship,Europe,2019 Italy,Unai Simón
+2590,UEFA U19 Championship,Europe,2015 Greece,Unai Simón
+2591,Super Cup,Spain,2020/2021,Yeray
+2593,Super Cup,Spain,2015/2016,Yeray
+2594,Super Cup,Spain,2020/2021,Yuri
+2596,Ligue 1,France,2017/2018,Yuri
+2597,Coupe de France,France,2017/2018,Yuri
+2598,Coupe de la Ligue,France,2017/2018,Yuri
+2599,Trophée des Champions,France,2017/2018,Yuri
+2600,Segunda División,Spain,2013/2014,Yuri
+2601,Super Cup,Spain,2020/2021,Capa
+2603,Segunda División,Spain,2013/2014,Capa
+2604,Super Cup,Spain,2020/2021,De Marcos
+2606,Super Cup,Spain,2015/2016,De Marcos
+2610,UEFA U21 Championship,Europe,2011 Denmark,De Marcos
+2612,Super Cup,Spain,2020/2021,Lekue
+2614,Super Cup,Spain,2015/2016,Lekue
+2615,Super Cup,Spain,2020/2021,Unai Núñez
+2617,UEFA U21 Championship,Europe,2019 Italy,Unai Núñez
 2618,Super Cup,Spain,2020/2021,Peru Nolaskoain
-2620,Super Cup,Spain,2020/2021,Iñigo Vicente
-2622,Super Cup,Spain,2020/2021,Williams
-2625,Super Cup,Spain,2015/2016,Williams
-2627,Super Cup,Spain,2020/2021,Mikel Vesga
-2629,Super Cup,Spain,2020/2021,Asier Villalibre
-2631,Super Cup,Spain,2020/2021,Oihan Sancet
-2633,Super Cup,Spain,2020/2021,Oier Zarraga
-2635,Super Cup,Spain,2020/2021,Jon Morcillo
-2637,Super Cup,Spain,2020/2021,Unai Vencedor
-2639,Super Cup,Spain,2020/2021,Nico Williams
-2641,Super Cup,Spain,2020/2021,Aitor Paredes
-2645,Primera Nacional,Argentina,2016/2017,N. Pérez
-2646,Segunda División,Spain,2019/2020,Joaquín Muñoz
-2648,UEFA Super Cup,Europe,2018/2019,Joaquín Muñoz
-2649,Copa del Rey Juvenil,Spain,2018,Joaquín Muñoz
-2650,División de Honor Juvenil,Spain,2017/2018,Joaquín Muñoz
-2652,UEFA U21 Championship,Europe,2019 Italy,Vallejo
-2654,FIFA Club World Cup,World,2018 UAE,Vallejo
-2655,UEFA Champions League,Europe,2017/2018,Vallejo
-2656,UEFA Super Cup,Europe,2017/2018,Vallejo
-2657,Super Cup,Spain,2017/2018,Vallejo
-2658,FIFA Club World Cup,World,2017 UAE,Vallejo
-2661,UEFA U19 Championship,Europe,2015 Greece,Vallejo
-2672,U20 World Cup,World,2013 Turkey,D. Foulquier
-2676,Premier League International Cup,Europe,2016/2017,Andorinha
-2677,Segunda Liga,Portugal,2015/2016,Andorinha
-2678,Júniores U19,Portugal,2014/2015,Andorinha
-2684,EC Qualification,Europe,2008 Austria/Switzer,Soldado
-2685,La Liga,Spain,2007/2008,Soldado
-2690,Super Cup,Spain,2003/2004,Soldado
-2696,Trophée des Champions,France,2012/2013,M. Gonalons
-2697,Coupe de France,France,2011/2012,M. Gonalons
-2703,UEFA U19 Championship,Europe,2018 Finland,Domingos Quina
-2705,UEFA U17 Championship,Europe,2016 Azerbaijan,Domingos Quina
-2709,Premier League,England,2016/2017,Kenedy
-2713,Copa del Rey,Spain,2007/2008,Montoro
-2716,Super Cup,Belgium,2014/2015,Fede Vico
-2717,Super Cup,Belgium,2013/2014,Fede Vico
-2719,FIFA Club World Cup,World,2014 Morocco,Javi Muñoz
-2722,Copa Federacion,Spain,2018/2019,Álvaro Bravo
-2723,Copa del Rey Juvenil,Spain,2017,Álvaro Bravo
-2724,División de Honor Juvenil,Spain,2016/2017,Álvaro Bravo
-2725,Taça de Portugal,Portugal,2012/2013,D. Machís
-2726,Copa Venezuela,Venezuela,2011/2012,D. Machís
-2728,Copa Argentina,Argentina,2018,J. Ledesma
-2731,Primera Nacional,Argentina,2012/2013,J. Ledesma
-2734,La Liga,Spain,2013/2014,David Gil
-2740,Primera División,Uruguay,2016,A. Espino
-2741,Primera División,Uruguay,2014/2015,A. Espino
-2745,Copa del Rey,Spain,2009/2010,Juan Cala
-2747,Copa del Rey Juvenil,Spain,2017,Echu
-2748,División de Honor Juvenil,Spain,2016/2017,Echu
-2752,Segunda División,Spain,2014/2015,Jorge Molina
-2753,Segunda División,Spain,2010/2011,Jorge Molina
-2754,Supercopa de Catalunya,Spain,2019,Alcalá
-2760,Copa del Rey Juvenil,Spain,2017,Álex Martín
-2761,División de Honor Juvenil,Spain,2016/2017,Álex Martín
-2764,Copa del Rey,Spain,2018/2019,Sobrino
-2766,Segunda B,Spain,2011/2012,Sobrino
-2767,UEFA U19 Championship,Europe,2011 Romania,Sobrino
-2769,Audi Cup,World,2017,A. Fernández
-2773,Liga Profesional Argentina,Argentina,2010/2011 Clausura,A. Fernández
-2775,Liga Profesional Argentina,Argentina,2007/2008 Clausura,A. Fernández
-2779,U20 World Cup,World,2015 New Zealand,I. Šaponjić
-2780,Super Liga,Serbia,2014/2015,I. Šaponjić
-2789,Super Cup,Spain,2012/2013,Álex
-2790,La Liga,Spain,2011/2012,Álex
-2791,Segunda B,Spain,2011/2012,Álex
-2793,UEFA U19 Championship,Europe,2011 Romania,Álex
-2795,Copa del Rey,Spain,2010/2011,Álex
-2809,Super Cup,Spain,2017/2018,L. Quezada
-2810,UEFA Champions League,Europe,2017/2018,L. Quezada
-2811,UEFA Super Cup,Europe,2017/2018,L. Quezada
-2812,FIFA Club World Cup,World,2017 UAE,L. Quezada
-2814,Supercopa de Catalunya,Spain,2019,A. Lozano
-2816,Concacaf Gold Cup Qualification,Nc-America,2015,A. Lozano
-2818,Super Cup,Turkey,2017/2018,J. Jønsson
-2819,Cup,Turkey,2016/2017,J. Jønsson
-2823,League Cup,United-Arab-Emirates,2019/2020,Álvaro Negredo
-2826,Premier League,England,2013/2014,Álvaro Negredo
-2827,League Cup,England,2013/2014,Álvaro Negredo
-2829,European Championship,Europe,2012 Poland/Ukraine,Álvaro Negredo
-2831,Copa del Rey,Spain,2009/2010,Álvaro Negredo
-2836,Super Cup,Spain,2018/2019,J. Cillessen
-2837,La Liga,Spain,2018/2019,J. Cillessen
-2838,Supercopa de Catalunya,Spain,2018,J. Cillessen
-2839,Trofeo Joan Gamper,World,2018,J. Cillessen
-2840,La Liga,Spain,2017/2018,J. Cillessen
-2841,Copa del Rey,Spain,2017/2018,J. Cillessen
-2843,Trofeo Joan Gamper,World,2017,J. Cillessen
-2845,Copa del Rey,Spain,2016/2017,J. Cillessen
-2851,Eredivisie,Holland,2013/2014,J. Cillessen
-2852,Super Cup,Holland,2013/2014,J. Cillessen
-2853,Eredivisie,Holland,2012/2013,J. Cillessen
-2855,Eredivisie,Holland,2011/2012,J. Cillessen
-2859,Super Cup,Portugal,2019/2020,Ferro
-2860,International Champions Cup,World,2019,Ferro
-2861,Primeira Liga,Portugal,2018/2019,Ferro
-2862,Copa del Rey,Spain,2018/2019,Jaume Doménech
-2863,Emirates Cup,World,2014,Jaume Doménech
-2864,Copa del Rey,Spain,2018/2019,Cristian Rivero
-2865,Copa del Rey,Spain,2018/2019,Gabriel Paulista
-2866,Community Shield,England,2017/2018,Gabriel Paulista
-2867,Emirates Cup,World,2017,Gabriel Paulista
-2868,FA Cup,England,2016/2017,Gabriel Paulista
-2870,Community Shield,England,2015/2016,Gabriel Paulista
-2871,Emirates Cup,World,2015,Gabriel Paulista
-2872,Premier League Asia Trophy,World,2015,Gabriel Paulista
-2873,FA Cup,England,2014/2015,Gabriel Paulista
-2874,Baiano 1,Brazil,2013,Gabriel Paulista
-2878,Baiano 1,Brazil,2010,Gabriel Paulista
+2621,Super Cup,Ukraine,2017/2018,F. Ferreyra
+2622,Premier League,Ukraine,2017/2018,F. Ferreyra
+2623,Cup,Ukraine,2017/2018,F. Ferreyra
+2624,Cup,Ukraine,2016/2017,F. Ferreyra
+2626,Premier League,Ukraine,2016/2017,F. Ferreyra
+2628,Cup,Ukraine,2015/2016,F. Ferreyra
+2629,Super Cup,Ukraine,2015/2016,F. Ferreyra
+2630,Super Cup,Ukraine,2014/2015,F. Ferreyra
+2631,Premier League,Ukraine,2013/2014,F. Ferreyra
+2633,Super Cup,Ukraine,2013/2014,F. Ferreyra
+2634,Liga Profesional Argentina,Argentina,2012/2013 Torneo Ini,F. Ferreyra
+2635,Liga Profesional Argentina,Argentina,2012/2013,F. Ferreyra
+2636,Liga Profesional Argentina,Argentina,2009/2010 Apertura,F. Ferreyra
+2638,UEFA Europa League,Europe,2014/2015,Iago Aspas
+2643,Super Cup,Spain,2020/2021,Muniain
+2645,Super Cup,Spain,2015/2016,Muniain
+2647,UEFA U21 Championship,Europe,2013 Israel,Muniain
+2650,UEFA U21 Championship,Europe,2011 Denmark,Muniain
+2654,Copa Argentina,Argentina,2018,J. Ledesma
+2657,Primera Nacional,Argentina,2012/2013,J. Ledesma
+2658,Super Cup,Spain,2020/2021,Álex Berenguer
+2661,La Liga,Spain,2013/2014,David Gil
+2663,Super Cup,Spain,2020/2021,Balenziaga
+2665,Super Cup,Spain,2015/2016,Balenziaga
+2668,Super Cup,Spain,2020/2021,Dani García
+2670,Segunda División,Spain,2013/2014,Dani García
+2671,Super Cup,Spain,2020/2021,Raúl García
+2673,Super Cup,Spain,2014/2015,Raúl García
+2674,La Liga,Spain,2013/2014,Raúl García
+2677,Copa del Rey,Spain,2012/2013,Raúl García
+2678,UEFA Super Cup,Europe,2012/2013,Raúl García
+2679,UEFA Super Cup,Europe,2010/2011,Raúl García
+2681,UEFA Europa League,Europe,2009/2010,Raúl García
+2683,Super Cup,Spain,2020/2021,Ibai Gómez
+2686,Super Cup,Spain,2015/2016,Ibai Gómez
+2690,Super Cup,Spain,2020/2021,Unai López
+2692,Segunda División,Spain,2017/2018,Unai López
+2694,Super Cup,Spain,2020/2021,Iñigo Vicente
+2696,Super Cup,Spain,2020/2021,Williams
+2699,Super Cup,Spain,2015/2016,Williams
+2701,Super Cup,Spain,2020/2021,Mikel Vesga
+2703,Super Cup,Spain,2020/2021,Asier Villalibre
+2706,Super Cup,Spain,2020/2021,Oihan Sancet
+2708,Super Cup,Spain,2020/2021,Oier Zarraga
+2710,Super Cup,Spain,2020/2021,Jon Morcillo
+2712,Super Cup,Spain,2020/2021,Unai Vencedor
+2714,Super Cup,Spain,2020/2021,Nico Williams
+2716,Super Cup,Spain,2020/2021,Aitor Paredes
+2719,Segunda División,Spain,2018/2019,Brandon
+2724,Primera División,Uruguay,2016,A. Espino
+2725,Primera División,Uruguay,2014/2015,A. Espino
+2732,Super Cup,Spain,2012/2013,Álex
+2733,La Liga,Spain,2011/2012,Álex
+2734,Segunda B,Spain,2011/2012,Álex
+2736,UEFA U19 Championship,Europe,2011 Romania,Álex
+2738,Copa del Rey,Spain,2010/2011,Álex
+2746,Copa del Rey,Spain,2009/2010,Juan Cala
+2751,Supercopa de Catalunya,Spain,2019,Alcalá
+2756,Super Cup,Turkey,2017/2018,J. Jønsson
+2757,Cup,Turkey,2016/2017,J. Jønsson
+2761,Copa del Rey Juvenil,Spain,2017,Álex Martín
+2762,División de Honor Juvenil,Spain,2016/2017,Álex Martín
+2767,Super Cup,Spain,2018/2019,J. Cillessen
+2768,La Liga,Spain,2018/2019,J. Cillessen
+2769,Supercopa de Catalunya,Spain,2018,J. Cillessen
+2770,Trofeo Joan Gamper,World,2018,J. Cillessen
+2771,La Liga,Spain,2017/2018,J. Cillessen
+2772,Copa del Rey,Spain,2017/2018,J. Cillessen
+2774,Trofeo Joan Gamper,World,2017,J. Cillessen
+2776,Copa del Rey,Spain,2016/2017,J. Cillessen
+2782,Eredivisie,Holland,2013/2014,J. Cillessen
+2783,Super Cup,Holland,2013/2014,J. Cillessen
+2784,Eredivisie,Holland,2012/2013,J. Cillessen
+2786,Eredivisie,Holland,2011/2012,J. Cillessen
+2790,Super Cup,Portugal,2019/2020,Ferro
+2791,International Champions Cup,World,2019,Ferro
+2792,Primeira Liga,Portugal,2018/2019,Ferro
+2793,Copa del Rey,Spain,2018/2019,Jaume Doménech
+2794,Emirates Cup,World,2014,Jaume Doménech
+2795,Copa del Rey,Spain,2018/2019,Cristian Rivero
+2796,Copa del Rey,Spain,2018/2019,Gabriel Paulista
+2797,Community Shield,England,2017/2018,Gabriel Paulista
+2798,Emirates Cup,World,2017,Gabriel Paulista
+2799,FA Cup,England,2016/2017,Gabriel Paulista
+2801,Community Shield,England,2015/2016,Gabriel Paulista
+2802,Emirates Cup,World,2015,Gabriel Paulista
+2803,Premier League Asia Trophy,World,2015,Gabriel Paulista
+2804,FA Cup,England,2014/2015,Gabriel Paulista
+2805,Baiano 1,Brazil,2013,Gabriel Paulista
+2809,Baiano 1,Brazil,2010,Gabriel Paulista
+2811,Copa del Rey,Spain,2018/2019,Toni Lato
+2812,Copa del Rey,Spain,2018/2019,Sobrino
+2814,Segunda B,Spain,2011/2012,Sobrino
+2815,UEFA U19 Championship,Europe,2011 Romania,Sobrino
+2817,Taça de Portugal,Portugal,2018/2019,Thierry Correia
+2818,Taça da Liga,Portugal,2018/2019,Thierry Correia
+2819,UEFA U19 Championship,Europe,2018 Finland,Thierry Correia
+2821,Júniores U19,Portugal,2016/2017,Thierry Correia
+2822,UEFA U17 Championship,Europe,2016 Azerbaijan,Thierry Correia
+2824,Audi Cup,World,2017,A. Fernández
+2828,Liga Profesional Argentina,Argentina,2010/2011 Clausura,A. Fernández
+2830,Liga Profesional Argentina,Argentina,2007/2008 Clausura,A. Fernández
+2834,U20 World Cup,World,2015 New Zealand,I. Šaponjić
+2835,Super Liga,Serbia,2014/2015,I. Šaponjić
+2843,Super Cup,Spain,2017/2018,L. Quezada
+2844,UEFA Champions League,Europe,2017/2018,L. Quezada
+2845,UEFA Super Cup,Europe,2017/2018,L. Quezada
+2846,FIFA Club World Cup,World,2017 UAE,L. Quezada
+2848,Supercopa de Catalunya,Spain,2019,A. Lozano
+2850,Concacaf Gold Cup Qualification,Nc-America,2015,A. Lozano
+2853,League Cup,United-Arab-Emirates,2019/2020,Álvaro Negredo
+2856,Premier League,England,2013/2014,Álvaro Negredo
+2857,League Cup,England,2013/2014,Álvaro Negredo
+2859,European Championship,Europe,2012 Poland/Ukraine,Álvaro Negredo
+2861,Copa del Rey,Spain,2009/2010,Álvaro Negredo
+2863,League Cup,England,2015/2016,E. Mangala
+2865,Super Cup,Portugal,2013/2014,E. Mangala
+2867,Primeira Liga,Portugal,2012/2013,E. Mangala
+2869,Super Cup,Portugal,2012/2013,E. Mangala
+2870,Primeira Liga,Portugal,2011/2012,E. Mangala
+2874,Cup,Belgium,2010/2011,E. Mangala
+2875,Super Cup,Belgium,2009/2010,E. Mangala
+2876,First Division A,Belgium,2008/2009,E. Mangala
+2877,Super Cup,Belgium,2008/2009,E. Mangala
 2879,Copa del Rey,Spain,2018/2019,M. Diakhaby
 2884,Copa del Rey,Spain,2018/2019,José Gayà
 2886,Emirates Cup,World,2014,José Gayà
 2887,UEFA U19 Championship,Europe,2019 Armenia,Hugo Guillamón
 2888,Copa del Rey,Spain,2018/2019,Hugo Guillamón
 2890,UEFA U17 Championship,Europe,2017 Croatia,Hugo Guillamón
-2892,Copa del Rey,Spain,2018/2019,Toni Lato
-2893,Copa del Rey,Spain,2018/2019,C. Piccini
-2895,Taça da Liga,Portugal,2017/2018,C. Piccini
-2896,Segunda División,Spain,2014/2015,C. Piccini
-2897,Copa del Rey,Spain,2018/2019,Gonçalo Guedes
-2898,Trophée des Champions,France,2018/2019,Gonçalo Guedes
-2899,UEFA Nations League,Europe,2018/2019,Gonçalo Guedes
-2900,Trophée des Champions,France,2017/2018,Gonçalo Guedes
-2902,Coupe de France,France,2016/2017,Gonçalo Guedes
-2903,Coupe de la Ligue,France,2016/2017,Gonçalo Guedes
-2904,Super Cup,Portugal,2016/2017,Gonçalo Guedes
-2905,Primeira Liga,Portugal,2015/2016,Gonçalo Guedes
-2906,Taça da Liga,Portugal,2015/2016,Gonçalo Guedes
-2908,Primeira Liga,Portugal,2014/2015,Gonçalo Guedes
-2909,Taça da Liga,Portugal,2014/2015,Gonçalo Guedes
-2910,Super Cup,Portugal,2014/2015,Gonçalo Guedes
-2913,UEFA U21 Championship,Europe,2019 Italy,Carlos Soler
-2914,Copa del Rey,Spain,2018/2019,Carlos Soler
-2917,Taça de Portugal,Portugal,2018/2019,Thierry Correia
-2918,Taça da Liga,Portugal,2018/2019,Thierry Correia
-2919,UEFA U19 Championship,Europe,2018 Finland,Thierry Correia
-2921,Júniores U19,Portugal,2016/2017,Thierry Correia
-2922,UEFA U17 Championship,Europe,2016 Azerbaijan,Thierry Correia
-2924,Copa Argentina,Argentina,2019,K. Sibille
-2926,CONMEBOL Recopa,South-America,2019,K. Sibille
-2927,CONMEBOL Libertadores,South-America,2018,K. Sibille
-2928,Super Copa,Argentina,2017/2018,K. Sibille
-2929,Copa Argentina,Argentina,2017,K. Sibille
-2932,Copa Argentina,Argentina,2016,K. Sibille
-2933,CONMEBOL Recopa,South-America,2016,K. Sibille
-2938,League Cup,England,2015/2016,E. Mangala
-2940,Super Cup,Portugal,2013/2014,E. Mangala
-2942,Primeira Liga,Portugal,2012/2013,E. Mangala
-2944,Super Cup,Portugal,2012/2013,E. Mangala
-2945,Primeira Liga,Portugal,2011/2012,E. Mangala
-2949,Cup,Belgium,2010/2011,E. Mangala
-2950,Super Cup,Belgium,2009/2010,E. Mangala
-2951,First Division A,Belgium,2008/2009,E. Mangala
-2952,Super Cup,Belgium,2008/2009,E. Mangala
-2955,Copa del Rey,Spain,2018/2019,D. Cheryshev
-2957,UEFA Europa League,Europe,2013/2014,D. Cheryshev
-2958,International Champions Cup,World,2013,D. Cheryshev
-2961,Segunda B,Spain,2011/2012,D. Cheryshev
-2963,Copa del Rey,Spain,2018/2019,Lee Kang-In
-2964,Copa del Rey,Spain,2018/2019,D. Wass
-2966,DBU Pokalen,Denmark,2007/2008,D. Wass
-2967,Copa del Rey,Spain,2018/2019,K. Gameiro
-2969,UEFA Europa League,Europe,2017/2018,K. Gameiro
-2970,Audi Cup,World,2017,K. Gameiro
-2971,Supercopa Euroamericana,World,2016,K. Gameiro
-2973,UEFA Europa League,Europe,2015/2016,K. Gameiro
-2976,UEFA Europa League,Europe,2014/2015,K. Gameiro
-2978,UEFA Europa League,Europe,2013/2014,K. Gameiro
-2979,Ligue 1,France,2012/2013,K. Gameiro
-2982,Coupe de la Ligue,France,2004/2005,K. Gameiro
-2985,Super Cup,Italy,2016/2017,P. Cutrone
-2988,China Cup,World,2019,M. Gómez
-2989,China Cup,World,2018,M. Gómez
-2990,Segunda División,Spain,2018/2019,Sergio Herrera
-2991,Segunda B,Spain,2012/2013,Sergio Herrera
-2992,Segunda División,Spain,2018/2019,Rubén
-2993,First Division A,Belgium,2016/2017,Rubén
-2995,Super Cup,Spain,2006/2007,Rubén
-2998,La Liga,Spain,2005/2006,Rubén
-2999,Super Cup,Spain,2005/2006,Rubén
-3000,UEFA Champions League,Europe,2005/2006,Rubén
-3001,La Liga,Spain,2004/2005,Rubén
-3003,Segunda División,Spain,2018/2019,Iván Martínez
-3004,Segunda División,Spain,2018/2019,Juan Pérez
-3005,Segunda División,Spain,2018/2019,Nacho Vidal
-3006,UEFA U21 Championship,Europe,2019 Italy,Manu Vallejo
-3008,Super Liga,Serbia,2017/2018,U. Račić
-3011,Super Liga,Serbia,2015/2016,U. Račić
-3012,Segunda División,Spain,2016/2017,Jason
-3015,Copa del Rey,Spain,2018/2019,F. Roncaglia
-3019,Liga Profesional Argentina,Argentina,2011/2012 Apertura,F. Roncaglia
-3020,Liga Profesional Argentina,Argentina,2010/2011 Apertura,F. Roncaglia
-3021,Liga Profesional Argentina,Argentina,2008/2009 Apertura,F. Roncaglia
-3022,CONMEBOL Recopa,South-America,2008,F. Roncaglia
-3028,UEFA Super Cup,Europe,2014/2015,Lucas Torró
-3029,FIFA Club World Cup,World,2014 Morocco,Lucas Torró
-3031,Supercopa de Catalunya,Spain,2018,Cucurella
-3032,La Liga,Spain,2017/2018,Cucurella
-3033,Copa del Rey,Spain,2017/2018,Cucurella
-3035,Trofeo Joan Gamper,World,2017,Cucurella
-3036,Pan American Games,World,2015 Canada,E. Cabaco
-3038,Segunda División,Spain,2016/2017,Chema Rodríguez
-3039,Super Cup,Spain,2015/2016,Etxeita
-3041,Segunda División,Spain,2012/2013,Etxeita
-3046,NB I,Hungary,2014/2015,S. Chakla
-3048,Trofeo Joan Gamper,World,2020,Carles Aleñá
-3049,Trofeo Joan Gamper,World,2019,Carles Aleñá
-3051,La Liga,Spain,2018/2019,Carles Aleñá
-3053,Super Cup,Spain,2018/2019,Carles Aleñá
-3054,Trofeo Joan Gamper,World,2018,Carles Aleñá
-3055,Supercopa de Catalunya,Spain,2018,Carles Aleñá
-3056,La Liga,Spain,2017/2018,Carles Aleñá
-3058,Copa del Rey,Spain,2017/2018,Carles Aleñá
-3059,Trofeo Joan Gamper,World,2017,Carles Aleñá
-3060,Super Cup,Spain,2016/2017,Carles Aleñá
-3061,Copa del Rey,Spain,2016/2017,Carles Aleñá
-3064,Trofeo Joan Gamper,World,2016,Carles Aleñá
-3066,Copa del Rey,Spain,2015/2016,Carles Aleñá
-3067,La Liga,Spain,2015/2016,Carles Aleñá
-3073,Premier League,Kazakhstan,2016,Nemanja Maksimović
-3074,Cup,Kazakhstan,2016,Nemanja Maksimović
-3076,U20 World Cup,World,2015 New Zealand,Nemanja Maksimović
-3077,Premier League,Kazakhstan,2015,Nemanja Maksimović
-3079,Super Cup,Kazakhstan,2015,Nemanja Maksimović
-3080,UEFA U19 Championship,Europe,2013 Lithuania,Nemanja Maksimović
-3083,Segunda División,Spain,2019/2020,Álvaro Fernández
-3087,Segunda División,Spain,2014/2015,Portillo
-3089,Segunda División,Spain,2012/2013,Ángel
-3093,Primera División,Uruguay,2018,G. Fernández
-3094,Super Copa,Uruguay,2018,G. Fernández
-3099,CONMEBOL Libertadores U20,South-America,2018,J. Sanabria
-3100,Segunda División,Spain,2019/2020,Sergio Gómez
-3101,Super Cup,Germany,2019/2020,Sergio Gómez
-3102,UEFA U19 Championship,Europe,2019 Armenia,Sergio Gómez
-3104,U19 Bundesliga,Germany,2018/2019,Sergio Gómez
-3107,UEFA U17 Championship,Europe,2017 Croatia,Sergio Gómez
-3108,Super Cup,Italy,2019/2020,D. Vavro
-3109,Superliga,Denmark,2018/2019,D. Vavro
-3110,Super Liga,Slovakia,2016/2017,D. Vavro
-3115,Taça de Portugal,Portugal,2018/2019,I. Doumbia
-3116,Taça da Liga,Portugal,2018/2019,I. Doumbia
-3118,First Division A,Belgium,2016/2017,I. Doumbia
-3119,China Cup,World,2018,G. Silva
-3121,J.League Cup / Copa Sudamericana Championship,World,2018,G. Silva
-3122,CONMEBOL Sudamericana,South-America,2017,G. Silva
-3132,Segunda División,Spain,2019/2020,Eugeni Valderrama
-3133,Segunda División,Spain,2019/2020,Pedro Mosquera
-3134,Segunda B,Spain,2011/2012,Pedro Mosquera
-3137,Super League 1,Greece,2015/2016,D. Siovas
-3139,Super League 1,Greece,2014/2015,D. Siovas
-3140,Cup,Greece,2014/2015,D. Siovas
-3141,Super League 1,Greece,2013/2014,D. Siovas
-3142,Super League 1,Greece,2012/2013,D. Siovas
-3143,Cup,Greece,2012/2013,D. Siovas
-3144,Segunda División,Spain,2019/2020,Pedro López
-3145,Segunda División,Spain,2016/2017,Pedro López
-3146,Segunda División,Spain,2006/2007,Pedro López
-3148,Segunda División,Spain,2019/2020,Luisinho
-3153,Segunda División,Spain,2019/2020,Javier Galán
-3154,Segunda División,Spain,2019/2020,Jorge Pulido
-3156,Copa del Rey,Spain,2012/2013,Jorge Pulido
-3157,UEFA Super Cup,Europe,2012/2013,Jorge Pulido
-3159,Segunda División,Spain,2019/2020,David Ferreiro
-3161,Segunda División,Spain,2019/2020,Pablo Ínsua
-3165,Segunda División,Spain,2019/2020,Antonio Valera
-3168,FIFA Club World Cup,World,2018 UAE,Javier Sánchez
-3169,Segunda División,Spain,2019/2020,Jaime Seoane
-3171,FIFA Club World Cup,World,2018 UAE,Jaime Seoane
-3172,UEFA Champions League,Europe,2017/2018,Jaime Seoane
-3173,FIFA Club World Cup,World,2017 UAE,Jaime Seoane
-3174,Copa del Rey Juvenil,Spain,2017,Jaime Seoane
-3175,División de Honor Juvenil,Spain,2016/2017,Jaime Seoane
-3176,Segunda División,Spain,2019/2020,S. Okazaki
-3180,Premier League,England,2015/2016,S. Okazaki
-3182,AFC Asian Cup,Asia,2011 Qatar,S. Okazaki
-3183,Kirin Cup,World,2011,S. Okazaki
-3184,Kirin Cup,World,2009,S. Okazaki
-3186,Segunda División,Spain,2019/2020,Juan Carlos
-3188,Cupa României,Romania,2015/2016,Juan Carlos
-3190,Segunda División,Spain,2011/2012,Juan Carlos
-3191,Segunda División,Spain,2019/2020,Rafa Mir
-3192,UEFA U21 Championship,Europe,2019 Italy,Rafa Mir
-3193,Premier League Asia Trophy,World,2019,Rafa Mir
-3194,Championship,England,2017/2018,Rafa Mir
-3196,World Youth Festival Toulon,World,2015,Y. Bodiger
-3198,Segunda División,Spain,2014/2015,Bruno
-3200,Segunda División,Spain,2019/2020,Mikel Rico
-3201,Super Cup,Spain,2015/2016,Mikel Rico
-3205,La Liga,Spain,2015/2016,Sandro Ramírez
-3206,Copa del Rey,Spain,2015/2016,Sandro Ramírez
-3208,UEFA Super Cup,Europe,2015/2016,Sandro Ramírez
-3209,FIFA Club World Cup,World,2015 Japan,Sandro Ramírez
-3210,La Liga,Spain,2014/2015,Sandro Ramírez
-3211,Copa del Rey,Spain,2014/2015,Sandro Ramírez
-3212,UEFA Champions League,Europe,2014/2015,Sandro Ramírez
-3213,Supercopa de Catalunya,Spain,2016,Roberto Jiménez
-3214,Super League 1,Greece,2015/2016,Roberto Jiménez
-3216,Super League 1,Greece,2014/2015,Roberto Jiménez
-3217,Cup,Greece,2014/2015,Roberto Jiménez
-3218,Super League 1,Greece,2013/2014,Roberto Jiménez
-3220,Taça da Liga,Portugal,2010/2011,Roberto Jiménez
-3223,Copa del Rey,Spain,2016/2017,Jordi Masip
-3224,Super Cup,Spain,2016/2017,Jordi Masip
-3225,Trofeo Joan Gamper,World,2016,Jordi Masip
-3227,La Liga,Spain,2015/2016,Jordi Masip
-3228,UEFA Super Cup,Europe,2015/2016,Jordi Masip
-3229,Copa del Rey,Spain,2015/2016,Jordi Masip
-3231,FIFA Club World Cup,World,2015 Japan,Jordi Masip
-3232,Copa del Rey,Spain,2014/2015,Jordi Masip
-3233,UEFA Champions League,Europe,2014/2015,Jordi Masip
-3234,La Liga,Spain,2014/2015,Jordi Masip
-3235,Super Cup,Spain,2013/2014,Jordi Masip
-3237,Copa Catalunya,Spain,2013/2014,Jordi Masip
-3239,La Liga,Spain,2012/2013,Jordi Masip
-3242,UEFA U21 Championship,Europe,2011 Denmark,Kiko Olivas
-3243,Supercopa de Catalunya,Spain,2019,Borja García
-3249,Segunda División,Spain,2019/2020,Kevin Omoruyi
-3252,Super League,Switzerland,2019/2020,S. Janko
-3253,Premiership,Scotland,2015/2016,S. Janko
-3254,International Champions Cup,World,2014,S. Janko
-3255,African Nations Championship,Africa,2018 Morocco,J. El Yamiq
-3256,Cup,Morocco,2017,J. El Yamiq
-3260,Copa America,South-America,2016  USA,F. Orellana
+2891,Copa del Rey,Spain,2018/2019,C. Piccini
+2893,Taça da Liga,Portugal,2017/2018,C. Piccini
+2894,Segunda División,Spain,2014/2015,C. Piccini
+2895,Copa del Rey,Spain,2018/2019,D. Cheryshev
+2897,UEFA Europa League,Europe,2013/2014,D. Cheryshev
+2898,International Champions Cup,World,2013,D. Cheryshev
+2901,Segunda B,Spain,2011/2012,D. Cheryshev
+2902,Copa del Rey,Spain,2018/2019,Gonçalo Guedes
+2903,Trophée des Champions,France,2018/2019,Gonçalo Guedes
+2904,UEFA Nations League,Europe,2018/2019,Gonçalo Guedes
+2905,Trophée des Champions,France,2017/2018,Gonçalo Guedes
+2907,Coupe de France,France,2016/2017,Gonçalo Guedes
+2908,Coupe de la Ligue,France,2016/2017,Gonçalo Guedes
+2909,Super Cup,Portugal,2016/2017,Gonçalo Guedes
+2910,Primeira Liga,Portugal,2015/2016,Gonçalo Guedes
+2911,Taça da Liga,Portugal,2015/2016,Gonçalo Guedes
+2913,Primeira Liga,Portugal,2014/2015,Gonçalo Guedes
+2914,Taça da Liga,Portugal,2014/2015,Gonçalo Guedes
+2915,Super Cup,Portugal,2014/2015,Gonçalo Guedes
+2918,UEFA U21 Championship,Europe,2019 Italy,Carlos Soler
+2919,Copa del Rey,Spain,2018/2019,Carlos Soler
+2921,Copa del Rey,Spain,2018/2019,D. Wass
+2923,DBU Pokalen,Denmark,2007/2008,D. Wass
+2924,Copa del Rey,Spain,2018/2019,K. Gameiro
+2926,UEFA Europa League,Europe,2017/2018,K. Gameiro
+2927,Audi Cup,World,2017,K. Gameiro
+2928,Supercopa Euroamericana,World,2016,K. Gameiro
+2930,UEFA Europa League,Europe,2015/2016,K. Gameiro
+2933,UEFA Europa League,Europe,2014/2015,K. Gameiro
+2935,UEFA Europa League,Europe,2013/2014,K. Gameiro
+2936,Ligue 1,France,2012/2013,K. Gameiro
+2939,Coupe de la Ligue,France,2004/2005,K. Gameiro
+2942,Super Cup,Italy,2016/2017,P. Cutrone
+2946,Copa Argentina,Argentina,2019,K. Sibille
+2948,CONMEBOL Recopa,South-America,2019,K. Sibille
+2949,CONMEBOL Libertadores,South-America,2018,K. Sibille
+2950,Super Copa,Argentina,2017/2018,K. Sibille
+2951,Copa Argentina,Argentina,2017,K. Sibille
+2954,Copa Argentina,Argentina,2016,K. Sibille
+2955,CONMEBOL Recopa,South-America,2016,K. Sibille
+2959,Super Liga,Serbia,2017/2018,U. Račić
+2962,Super Liga,Serbia,2015/2016,U. Račić
+2963,Segunda División,Spain,2016/2017,Jason
+2966,Copa del Rey,Spain,2018/2019,F. Roncaglia
+2970,Liga Profesional Argentina,Argentina,2011/2012 Apertura,F. Roncaglia
+2971,Liga Profesional Argentina,Argentina,2010/2011 Apertura,F. Roncaglia
+2972,Liga Profesional Argentina,Argentina,2008/2009 Apertura,F. Roncaglia
+2973,CONMEBOL Recopa,South-America,2008,F. Roncaglia
+2977,Copa del Rey,Spain,2018/2019,Lee Kang-In
+2978,China Cup,World,2019,M. Gómez
+2979,China Cup,World,2018,M. Gómez
+2980,Segunda División,Spain,2018/2019,Sergio Herrera
+2981,Segunda B,Spain,2012/2013,Sergio Herrera
+2982,Segunda División,Spain,2018/2019,Rubén
+2983,First Division A,Belgium,2016/2017,Rubén
+2985,Super Cup,Spain,2006/2007,Rubén
+2988,La Liga,Spain,2005/2006,Rubén
+2989,Super Cup,Spain,2005/2006,Rubén
+2990,UEFA Champions League,Europe,2005/2006,Rubén
+2991,La Liga,Spain,2004/2005,Rubén
+2993,Segunda División,Spain,2018/2019,Iván Martínez
+2994,Segunda División,Spain,2018/2019,Juan Pérez
+2995,Segunda División,Spain,2018/2019,Unai García
+2996,Segunda División,Spain,2018/2019,David García
+2997,Segunda División,Spain,2018/2019,Aridane
+2998,Segunda División,Spain,2018/2019,Oier
+3000,Segunda División,Spain,2018/2019,Nacho Vidal
+3001,UEFA U21 Championship,Europe,2019 Italy,Manu Vallejo
+3003,Supercopa de Catalunya,Spain,2019,Jonás Ramalho
+3007,UEFA U19 Championship,Europe,2012 Estonia,Jonás Ramalho
+3010,UEFA U19 Championship,Europe,2011 Romania,Jonás Ramalho
+3016,Copa del Rey Juvenil,Spain,2017,Zabarte
+3017,División de Honor Juvenil,Spain,2016/2017,Zabarte
+3022,Super Cup,Portugal,2018/2019,Adrián
+3025,La Liga,Spain,2013/2014,Adrián
+3028,Copa del Rey,Spain,2012/2013,Adrián
+3029,UEFA Super Cup,Europe,2012/2013,Adrián
+3030,UEFA Europa League,Europe,2011/2012,Adrián
+3031,UEFA U21 Championship,Europe,2011 Denmark,Adrián
+3035,UEFA Super Cup,Europe,2014/2015,Lucas Torró
+3036,FIFA Club World Cup,World,2014 Morocco,Lucas Torró
+3037,Segunda División,Spain,2018/2019,Rubén García
+3038,Segunda División,Spain,2016/2017,Rubén García
+3039,Segunda División,Spain,2018/2019,Javi Martínez
+3040,Segunda División,Spain,2018/2019,Moncayola
+3041,Segunda División,Spain,2018/2019,Iñigo Pérez
+3045,Segunda División,Spain,2018/2019,Roberto Torres
+3046,Segunda División,Spain,2018/2019,Kike Barja
+3054,Supercopa Euroamericana,World,2016,David Soria
+3056,UEFA Europa League,Europe,2015/2016,David Soria
+3059,UEFA Europa League,Europe,2014/2015,David Soria
+3060,Super Cup,Spain,2017/2018,Rubén Yáñez
+3061,UEFA Super Cup,Europe,2017/2018,Rubén Yáñez
+3062,La Liga,Spain,2016/2017,Rubén Yáñez
+3063,UEFA Champions League,Europe,2016/2017,Rubén Yáñez
+3064,UEFA Super Cup,Europe,2016/2017,Rubén Yáñez
+3065,FIFA Club World Cup,World,2016 Japan,Rubén Yáñez
+3067,UEFA Champions League,Europe,2015/2016,Rubén Yáñez
+3070,Elite ONE,Cameroon,2013,D. Dakonam
+3073,Cup,Serbia,2015/2016,D. Brašanac
+3074,Super Liga,Serbia,2014/2015,D. Brašanac
+3077,Super Liga,Serbia,2012/2013,D. Brašanac
+3078,Super Liga,Serbia,2010/2011,D. Brašanac
+3079,Cup,Serbia,2010/2011,D. Brašanac
+3080,Super Liga,Serbia,2009/2010,D. Brašanac
+3081,Super Cup,Italy,2019/2020,Jony
+3083,Liga Profesional Argentina,Argentina,2015,J. Calleri
+3084,Copa Libertadores Play-off,Argentina,2015,J. Calleri
+3085,Copa Argentina,Argentina,2014/2015,J. Calleri
+3086,Pan American Games,World,2015 Canada,E. Cabaco
+3090,Super Copa,Argentina,2015/2016,E. Ávila
+3094,Segunda División,Spain,2018/2019,Aimar Oroz
+3095,Trofeo Joan Gamper,World,2020,Carles Aleñá
+3096,Trofeo Joan Gamper,World,2019,Carles Aleñá
+3098,La Liga,Spain,2018/2019,Carles Aleñá
+3100,Super Cup,Spain,2018/2019,Carles Aleñá
+3101,Trofeo Joan Gamper,World,2018,Carles Aleñá
+3102,Supercopa de Catalunya,Spain,2018,Carles Aleñá
+3103,La Liga,Spain,2017/2018,Carles Aleñá
+3105,Copa del Rey,Spain,2017/2018,Carles Aleñá
+3106,Trofeo Joan Gamper,World,2017,Carles Aleñá
+3107,Super Cup,Spain,2016/2017,Carles Aleñá
+3108,Copa del Rey,Spain,2016/2017,Carles Aleñá
+3111,Trofeo Joan Gamper,World,2016,Carles Aleñá
+3113,Copa del Rey,Spain,2015/2016,Carles Aleñá
+3114,La Liga,Spain,2015/2016,Carles Aleñá
+3117,Youth Viareggio Cup,World,2018,R. Nolan
+3118,Campionato Primavera 1,Italy,2017/2018,R. Nolan
+3119,Super Cup Primavera,Italy,2017/2018,R. Nolan
+3122,Premier League,Kazakhstan,2016,Nemanja Maksimović
+3123,Cup,Kazakhstan,2016,Nemanja Maksimović
+3125,U20 World Cup,World,2015 New Zealand,Nemanja Maksimović
+3126,Premier League,Kazakhstan,2015,Nemanja Maksimović
+3128,Super Cup,Kazakhstan,2015,Nemanja Maksimović
+3129,UEFA U19 Championship,Europe,2013 Lithuania,Nemanja Maksimović
+3133,Sudamericano U20,South-America,2017 Ecuador,M. Olivera
+3134,Primera División,Uruguay,2016,M. Olivera
+3135,Primera División,Uruguay,2014/2015,M. Olivera
+3137,Segunda División,Spain,2012/2013,D. Suárez
+3142,Segunda División,Spain,2014/2015,Portillo
+3144,Supercopa de Catalunya,Spain,2018,Cucurella
+3145,La Liga,Spain,2017/2018,Cucurella
+3146,Copa del Rey,Spain,2017/2018,Cucurella
+3148,Trofeo Joan Gamper,World,2017,Cucurella
+3149,Segunda División,Spain,2016/2017,Chema Rodríguez
+3150,Super Cup,Spain,2015/2016,Etxeita
+3152,Segunda División,Spain,2012/2013,Etxeita
+3156,NB I,Hungary,2014/2015,S. Chakla
+3158,Super Cup,Italy,2019/2020,D. Vavro
+3159,Superliga,Denmark,2018/2019,D. Vavro
+3160,Super Liga,Slovakia,2016/2017,D. Vavro
+3166,China Cup,World,2018,G. Silva
+3168,J.League Cup / Copa Sudamericana Championship,World,2018,G. Silva
+3169,CONMEBOL Sudamericana,South-America,2017,G. Silva
+3179,Segunda División,Spain,2019/2020,Álvaro Fernández
+3182,Segunda División,Spain,2012/2013,Ángel
+3183,Super League 1,Greece,2015/2016,D. Siovas
+3185,Super League 1,Greece,2014/2015,D. Siovas
+3186,Cup,Greece,2014/2015,D. Siovas
+3187,Super League 1,Greece,2013/2014,D. Siovas
+3188,Super League 1,Greece,2012/2013,D. Siovas
+3189,Cup,Greece,2012/2013,D. Siovas
+3190,Segunda División,Spain,2019/2020,Pedro López
+3191,Segunda División,Spain,2016/2017,Pedro López
+3192,Segunda División,Spain,2006/2007,Pedro López
+3195,FIFA Club World Cup,World,2018 UAE,Javier Sánchez
+3196,Super League,Switzerland,2019/2020,S. Janko
+3197,Premiership,Scotland,2015/2016,S. Janko
+3198,International Champions Cup,World,2014,S. Janko
+3199,African Nations Championship,Africa,2018 Morocco,J. El Yamiq
+3200,Cup,Morocco,2017,J. El Yamiq
+3202,Segunda División,Spain,2014/2015,Bruno
+3204,Supercopa de Catalunya,Spain,2016,Roberto Jiménez
+3205,Super League 1,Greece,2015/2016,Roberto Jiménez
+3207,Super League 1,Greece,2014/2015,Roberto Jiménez
+3208,Cup,Greece,2014/2015,Roberto Jiménez
+3209,Super League 1,Greece,2013/2014,Roberto Jiménez
+3211,Taça da Liga,Portugal,2010/2011,Roberto Jiménez
+3217,Copa del Rey,Spain,2016/2017,Jordi Masip
+3218,Super Cup,Spain,2016/2017,Jordi Masip
+3219,Trofeo Joan Gamper,World,2016,Jordi Masip
+3221,La Liga,Spain,2015/2016,Jordi Masip
+3222,UEFA Super Cup,Europe,2015/2016,Jordi Masip
+3223,Copa del Rey,Spain,2015/2016,Jordi Masip
+3225,FIFA Club World Cup,World,2015 Japan,Jordi Masip
+3226,Copa del Rey,Spain,2014/2015,Jordi Masip
+3227,UEFA Champions League,Europe,2014/2015,Jordi Masip
+3228,La Liga,Spain,2014/2015,Jordi Masip
+3229,Super Cup,Spain,2013/2014,Jordi Masip
+3231,Copa Catalunya,Spain,2013/2014,Jordi Masip
+3233,La Liga,Spain,2012/2013,Jordi Masip
+3236,UEFA U21 Championship,Europe,2011 Denmark,Kiko Olivas
+3237,Supercopa de Catalunya,Spain,2019,Raúl García
+3240,Segunda División,Spain,2015/2016,Raúl García
+3241,Copa Catalunya,Spain,2017/2018,Ignasi Vilarrasa
+3243,Copa del Rey Juvenil,Spain,2017,Sergio López
+3244,División de Honor Juvenil,Spain,2016/2017,Sergio López
+3247,Super Cup,Portugal,2019/2020,Jota
+3248,International Champions Cup,World,2019,Jota
+3249,Primeira Liga,Portugal,2018/2019,Jota
+3251,UEFA U19 Championship,Europe,2018 Finland,Jota
+3252,Júniores U19,Portugal,2017/2018,Jota
+3255,UEFA U17 Championship,Europe,2016 Azerbaijan,Jota
+3262,Super Cup,Spain,2020/2021,K. Kodro
+3263,Copa America,South-America,2016  USA,F. Orellana
 3268,UEFA U21 Championship,Europe,2011 Denmark,Míchel
 3269,Segunda B,Spain,2016/2017,Toni Villa
-3270,Supercopa de Catalunya,Spain,2019,Raúl García
-3273,Segunda División,Spain,2015/2016,Raúl García
-3274,Copa Catalunya,Spain,2017/2018,Ignasi Vilarrasa
-3276,Copa del Rey Juvenil,Spain,2017,Sergio López
-3277,División de Honor Juvenil,Spain,2016/2017,Sergio López
-3278,Audi Cup,World,2019,P. Gazzaniga
-3280,International Champions Cup,World,2018,P. Gazzaniga
-3283,Super Cup,Portugal,2019/2020,Jota
-3284,International Champions Cup,World,2019,Jota
-3285,Primeira Liga,Portugal,2018/2019,Jota
-3287,UEFA U19 Championship,Europe,2018 Finland,Jota
-3288,Júniores U19,Portugal,2017/2018,Jota
-3291,UEFA U17 Championship,Europe,2016 Azerbaijan,Jota
-3293,Emirates Cup,World,2014,Barragán
-3294,FA Cup,England,2005/2006,Barragán
-3295,UEFA Super Cup,Europe,2005/2006,Barragán
-3299,Copa Colombia,Colombia,2018,H. Palacios
-3301,Florida Cup,World,2018,H. Palacios
-3303,Olympics Intercontinental Play-offs,World,2016 Rio de Janeiro,H. Palacios
-3305,Primera A,Colombia,2015 Apertura,H. Palacios
-3307,Sudamericano U20,South-America,2013 Argentina,H. Palacios
-3312,Supercopa Euroamericana,World,2016,Diego González
-3314,UEFA Europa League,Europe,2015/2016,Diego González
-3318,UEFA U19 Championship,Europe,2011 Romania,Edgar Badia
-3321,Super Cup,Spain,2020/2021,K. Kodro
-3322,Segunda B,Spain,2011/2012,Óscar Plano
-3325,Liga Leumit,Israel,2016/2017,S. Weissman
-3327,Segunda División,Spain,2017/2018,Sergio Benito
-3331,UEFA U19 Championship,Europe,2019 Armenia,Moha
-3334,UEFA U17 Championship,Europe,2017 Croatia,Moha
-3335,Copa del Rey Juvenil,Spain,2017,Moha
-3336,División de Honor Juvenil,Spain,2016/2017,Moha
-3338,CONMEBOL Libertadores,South-America,2015,L. Boyé
-3339,CONMEBOL Recopa,South-America,2015,L. Boyé
-3340,Supercopa Euroamericana,World,2015,L. Boyé
-3341,J.League Cup / Copa Sudamericana Championship,World,2015,L. Boyé
-3342,Super Copa,Argentina,2014/2015,L. Boyé
-3344,CONMEBOL Sudamericana,South-America,2014,L. Boyé
-3345,Liga Profesional Argentina,Argentina,2019/2020,I. Marcone
-3347,Super Copa,Argentina,2018/2019,I. Marcone
-3349,Super Copa,Argentina,2016/2017,I. Marcone
-3350,Liga Profesional Argentina,Argentina,2016,I. Marcone
-3351,Copa Bicentenario,Argentina,2016,I. Marcone
-3353,Copa Argentina,Argentina,2012/2013,I. Marcone
-3354,Super Copa,Argentina,2012/2013,I. Marcone
-3355,Liga Profesional Argentina,Argentina,2011/2012 Clausura,I. Marcone
-3358,National 1,France,2017/2018,O. Mfulu
-3362,Segunda División,Spain,2012/2013,Cifuentes
-3364,Segunda B,Spain,2015/2016,Josan Ferrández
-3368,Segunda División,Spain,2012/2013,Fidel
-3373,Supercopa de Catalunya,Spain,2016,P. Piatti
-3374,Emirates Cup,World,2014,P. Piatti
-3375,Liga Profesional Argentina,Argentina,2006/2007 Apertura,P. Piatti
-3377,Copa Catalunya,Spain,2016/2017,Luismi Sánchez
-3379,UEFA Europa League,Europe,2015/2016,Luismi Sánchez
-3382,UEFA Europa League,Europe,2014/2015,Luismi Sánchez
-3384,UEFA Europa League,Europe,2013/2014,Luismi Sánchez
-3386,MLS,United-States,2019,Víctor Rodríguez
-3388,Supercopa de Catalunya,Spain,2019,J. Mojica
-3395,UEFA Super Cup,Europe,2018/2019,Alberto Rodríguez
-3397,Super Cup,Russia,2020/2021,E. Rigoni
-3398,Premier League,Russia,2019/2020,E. Rigoni
-3399,Cup,Russia,2019/2020,E. Rigoni
-3401,Premier League,Russia,2018/2019,E. Rigoni
-3406,Segunda División,Spain,2013/2014,Raúl Navas
-3409,Segunda División,Spain,2015/2016,Pacheco
-3413,UEFA Super Cup,Europe,2014/2015,Pacheco
-3414,FIFA Club World Cup,World,2014 Morocco,Pacheco
-3415,La Liga,Spain,2011/2012,Pacheco
-3416,Segunda B,Spain,2011/2012,Pacheco
-3418,UEFA U19 Championship,Europe,2011 Romania,Pacheco
-3420,Copa del Rey,Spain,2010/2011,Pacheco
-3421,UEFA U21 Championship,Europe,2019 Italy,Sivera
-3422,UEFA U19 Championship,Europe,2015 Greece,Sivera
-3423,UEFA U21 Championship,Europe,2019 Italy,Martín Aguirregabiria
-3425,Supercopa de Catalunya,Spain,2016,Rubén Duarte
-3428,Super Cup,Italy,2016/2017,Rodrigo Ely
-3431,Segunda División,Spain,2015/2016,Laguardia
-3433,Ligue 1,France,2016/2017,G. Carrillo
-3435,Liga Profesional Argentina,Argentina,2010/2011 Apertura,G. Carrillo
-3436,Segunda División,Spain,2015/2016,Aritz Castro
-3440,Taça de Portugal,Portugal,2018/2019,R. Battaglia
-3441,Taça da Liga,Portugal,2018/2019,R. Battaglia
-3443,Taça da Liga,Portugal,2017/2018,R. Battaglia
-3445,Super Cup,Hungary,2014/2015,M. Dmitrović
-3446,Magyar Kupa,Hungary,2013/2014,M. Dmitrović
-3447,Florida Cup,World,2020,Deyverson
-3448,Serie A,Brazil,2018,Deyverson
-3452,Community Shield,England,2017/2018,Lucas Pérez
-3453,Emirates Cup,World,2017,Lucas Pérez
-3454,FA Cup,England,2016/2017,Lucas Pérez
-3457,La Liga,Spain,2011/2012,Joselu
-3458,Segunda B,Spain,2011/2012,Joselu
-3460,UEFA U21 Championship,Europe,2011 Denmark,Joselu
-3463,Segunda División,Spain,2013/2014,Jota Peleteiro
-3465,Supercopa MX,Mexico,2019,Edgar Méndez
-3466,Leagues Cup,Nc-America,2019,Edgar Méndez
-3468,Copa MX,Mexico,2018/2019,Edgar Méndez
-3470,Segunda División,Spain,2010/2011,Edgar Méndez
-3471,Super Cup,Spain,2020/2021,Iñigo Córdoba
-3472,UEFA Super Cup,Europe,2014/2015,Burgui
-3474,UEFA Champions League,Europe,2013/2014,Burgui
-3476,Segunda División,Spain,2015/2016,Manu García
-3477,Segunda B,Spain,2012/2013,Manu García
-3479,Super Cup,Belgium,2016/2017,Pina
-3481,UEFA U21 Championship,Europe,2015 Czech Republic,J. Guidetti
-3482,Premiership,Scotland,2014/2015,J. Guidetti
-3483,League Cup,Scotland,2014/2015,J. Guidetti
-3488,Community Shield,England,2012/2013,J. Guidetti
-3491,FA Cup,England,2010/2011,J. Guidetti
-3492,Emirates Cup,World,2014,Yoel
-3494,Supercopa de Catalunya,Spain,2019,Pere Pons
-3499,Primera División,Uruguay,2018,F. Pellistri
-3500,Copa Catalunya,Spain,2018/2019,Sergi García
-3505,UEFA Europa League,Europe,2019/2020,Alejandro Pozo
-3512,Super Cup,Portugal,2015/2016,Paulo Oliveira
-3514,Taça de Portugal,Portugal,2014/2015,Paulo Oliveira
-3516,Taça de Portugal,Portugal,2012/2013,Paulo Oliveira
-3520,UEFA U21 Championship,Europe,2011 Denmark,Cote
+3270,Segunda B,Spain,2011/2012,Óscar Plano
+3273,Liga Leumit,Israel,2016/2017,S. Weissman
+3275,Segunda División,Spain,2017/2018,Sergio Benito
+3277,UEFA U19 Championship,Europe,2019 Armenia,Moha
+3280,UEFA U17 Championship,Europe,2017 Croatia,Moha
+3281,Copa del Rey Juvenil,Spain,2017,Moha
+3282,División de Honor Juvenil,Spain,2016/2017,Moha
+3283,Audi Cup,World,2019,P. Gazzaniga
+3285,International Champions Cup,World,2018,P. Gazzaniga
+3287,Emirates Cup,World,2014,Barragán
+3288,FA Cup,England,2005/2006,Barragán
+3289,UEFA Super Cup,Europe,2005/2006,Barragán
+3291,Liga Profesional Argentina,Argentina,2019/2020,I. Marcone
+3293,Super Copa,Argentina,2018/2019,I. Marcone
+3295,Super Copa,Argentina,2016/2017,I. Marcone
+3296,Liga Profesional Argentina,Argentina,2016,I. Marcone
+3297,Copa Bicentenario,Argentina,2016,I. Marcone
+3299,Copa Argentina,Argentina,2012/2013,I. Marcone
+3300,Super Copa,Argentina,2012/2013,I. Marcone
+3301,Liga Profesional Argentina,Argentina,2011/2012 Clausura,I. Marcone
+3305,Copa Colombia,Colombia,2018,H. Palacios
+3307,Florida Cup,World,2018,H. Palacios
+3309,Olympics Intercontinental Play-offs,World,2016 Rio de Janeiro,H. Palacios
+3311,Primera A,Colombia,2015 Apertura,H. Palacios
+3313,Sudamericano U20,South-America,2013 Argentina,H. Palacios
+3316,National 1,France,2017/2018,O. Mfulu
+3320,Segunda División,Spain,2012/2013,Cifuentes
+3324,Supercopa Euroamericana,World,2016,Diego González
+3326,UEFA Europa League,Europe,2015/2016,Diego González
+3332,UEFA U19 Championship,Europe,2011 Romania,Edgar Badia
+3336,Copa Catalunya,Spain,2016/2017,Luismi Sánchez
+3338,UEFA Europa League,Europe,2015/2016,Luismi Sánchez
+3341,UEFA Europa League,Europe,2014/2015,Luismi Sánchez
+3343,UEFA Europa League,Europe,2013/2014,Luismi Sánchez
+3345,MLS,United-States,2019,Víctor Rodríguez
+3347,Supercopa de Catalunya,Spain,2019,J. Mojica
+3355,UEFA Super Cup,Europe,2018/2019,Alberto Rodríguez
+3358,CONMEBOL Libertadores,South-America,2015,L. Boyé
+3359,CONMEBOL Recopa,South-America,2015,L. Boyé
+3360,Supercopa Euroamericana,World,2015,L. Boyé
+3361,J.League Cup / Copa Sudamericana Championship,World,2015,L. Boyé
+3362,Super Copa,Argentina,2014/2015,L. Boyé
+3364,CONMEBOL Sudamericana,South-America,2014,L. Boyé
+3365,Super Cup,Russia,2020/2021,E. Rigoni
+3366,Premier League,Russia,2019/2020,E. Rigoni
+3367,Cup,Russia,2019/2020,E. Rigoni
+3369,Premier League,Russia,2018/2019,E. Rigoni
+3371,Segunda B,Spain,2015/2016,Josan Ferrández
+3376,Segunda División,Spain,2012/2013,Fidel
+3379,Supercopa de Catalunya,Spain,2016,P. Piatti
+3380,Emirates Cup,World,2014,P. Piatti
+3381,Liga Profesional Argentina,Argentina,2006/2007 Apertura,P. Piatti
+3383,Segunda División,Spain,2015/2016,Pacheco
+3387,UEFA Super Cup,Europe,2014/2015,Pacheco
+3388,FIFA Club World Cup,World,2014 Morocco,Pacheco
+3389,La Liga,Spain,2011/2012,Pacheco
+3390,Segunda B,Spain,2011/2012,Pacheco
+3392,UEFA U19 Championship,Europe,2011 Romania,Pacheco
+3394,Copa del Rey,Spain,2010/2011,Pacheco
+3395,UEFA U21 Championship,Europe,2019 Italy,Sivera
+3396,UEFA U19 Championship,Europe,2015 Greece,Sivera
+3397,Supercopa de Catalunya,Spain,2016,Rubén Duarte
+3401,Ligue 1,France,2016/2017,G. Carrillo
+3403,Liga Profesional Argentina,Argentina,2010/2011 Apertura,G. Carrillo
+3405,Segunda División,Spain,2015/2016,Aritz Castro
+3411,Taça de Portugal,Portugal,2018/2019,R. Battaglia
+3412,Taça da Liga,Portugal,2018/2019,R. Battaglia
+3414,Taça da Liga,Portugal,2017/2018,R. Battaglia
+3419,Segunda División,Spain,2013/2014,Jota Peleteiro
+3421,Supercopa MX,Mexico,2019,Edgar Méndez
+3422,Leagues Cup,Nc-America,2019,Edgar Méndez
+3424,Copa MX,Mexico,2018/2019,Edgar Méndez
+3426,Segunda División,Spain,2010/2011,Edgar Méndez
+3428,FIFA Club World Cup,World,2014 Morocco,Javi Muñoz
+3429,Super Cup,Spain,2020/2021,Iñigo Córdoba
+3430,UEFA U21 Championship,Europe,2019 Italy,Martín Aguirregabiria
+3433,Super Cup,Italy,2016/2017,Rodrigo Ely
+3436,Segunda División,Spain,2015/2016,Laguardia
+3437,UEFA Super Cup,Europe,2014/2015,Burgui
+3439,UEFA Champions League,Europe,2013/2014,Burgui
+3441,Segunda División,Spain,2015/2016,Manu García
+3442,Segunda B,Spain,2012/2013,Manu García
+3444,Super Cup,Belgium,2016/2017,Pina
+3446,Supercopa de Catalunya,Spain,2019,Pere Pons
+3450,Copa Catalunya,Spain,2018/2019,Sergi García
+3451,Super Cup,Hungary,2014/2015,M. Dmitrović
+3452,Magyar Kupa,Hungary,2013/2014,M. Dmitrović
+3453,Florida Cup,World,2020,Deyverson
+3454,Serie A,Brazil,2018,Deyverson
+3458,Community Shield,England,2017/2018,Lucas Pérez
+3459,Emirates Cup,World,2017,Lucas Pérez
+3460,FA Cup,England,2016/2017,Lucas Pérez
+3463,La Liga,Spain,2011/2012,Joselu
+3464,Segunda B,Spain,2011/2012,Joselu
+3466,UEFA U21 Championship,Europe,2011 Denmark,Joselu
+3473,UEFA U21 Championship,Europe,2015 Czech Republic,J. Guidetti
+3474,Premiership,Scotland,2014/2015,J. Guidetti
+3475,League Cup,Scotland,2014/2015,J. Guidetti
+3480,Community Shield,England,2012/2013,J. Guidetti
+3483,FA Cup,England,2010/2011,J. Guidetti
+3485,Super Cup,Portugal,2015/2016,Paulo Oliveira
+3487,Taça de Portugal,Portugal,2014/2015,Paulo Oliveira
+3489,Taça de Portugal,Portugal,2012/2013,Paulo Oliveira
+3493,UEFA U21 Championship,Europe,2011 Denmark,Cote
+3494,Emirates Cup,World,2014,Yoel
+3497,Primera División,Uruguay,2018,F. Pellistri
+3499,UEFA Europa League,Europe,2019/2020,Bryan Gil
+3500,UEFA U19 Championship,Europe,2019 Armenia,Bryan Gil
+3504,J2 League,Japan,2011,Y. Muto
+3505,Emperor Cup,Japan,2011,Y. Muto
+3507,UEFA Europa League,Europe,2019/2020,Alejandro Pozo
+3510,Super Cup,Spain,2017/2018,Álvaro Tejero
+3511,UEFA Champions League,Europe,2017/2018,Álvaro Tejero
+3512,UEFA Super Cup,Europe,2017/2018,Álvaro Tejero
+3513,FIFA Club World Cup,World,2017 UAE,Álvaro Tejero
+3514,La Liga,Spain,2016/2017,Álvaro Tejero
+3515,UEFA Champions League,Europe,2016/2017,Álvaro Tejero
+3516,UEFA Super Cup,Europe,2016/2017,Álvaro Tejero
+3517,FIFA Club World Cup,World,2016 Japan,Álvaro Tejero
+3519,UEFA Champions League,Europe,2015/2016,Álvaro Tejero
 3522,Supercopa de Catalunya,Spain,2016,P. Diop
 3525,Copa del Rey,Spain,2010/2011,Pedro León
-3526,Community Shield,England,2019/2020,Aleix García
-3527,Supercopa de Catalunya,Spain,2019,Aleix García
-3530,League Cup,England,2015/2016,Aleix García
-3534,UEFA Europa League,Europe,2019/2020,Bryan Gil
-3535,UEFA U19 Championship,Europe,2019 Armenia,Bryan Gil
-3538,J2 League,Japan,2011,Y. Muto
-3539,Emperor Cup,Japan,2011,Y. Muto
-3540,Segunda División,Spain,2019/2020,K. Nwakali
-3541,U17 World Cup,World,2015 Chile,K. Nwakali
-3543,UEFA U21 Championship,Europe,2011 Denmark,Kike
+3526,UEFA U21 Championship,Europe,2011 Denmark,Kike
+3527,Community Shield,England,2019/2020,Aleix García
+3528,Supercopa de Catalunya,Spain,2019,Aleix García
+3531,League Cup,England,2015/2016,Aleix García
+3534,Primera División,Uruguay,2018,G. Fernández
+3535,Super Copa,Uruguay,2018,G. Fernández
+3539,CONMEBOL Libertadores U20,South-America,2018,J. Sanabria
+3541,La Liga,Spain,2019/2020,L. Jović
+3542,Super Cup,Spain,2019/2020,L. Jović
+3544,DFB Pokal,Germany,2017/2018,L. Jović
+3545,Primeira Liga,Portugal,2016/2017,L. Jović
+3546,Taça de Portugal,Portugal,2016/2017,L. Jović
+3547,Super Cup,Portugal,2016/2017,L. Jović
+3548,Primeira Liga,Portugal,2015/2016,L. Jović
+3549,Taça da Liga,Portugal,2015/2016,L. Jović
+3551,Super Liga,Serbia,2013/2014,L. Jović
+3552,Arena Cup,World,2021,Rafael Jesús Navarro Mazuelos
+3554,Segunda División,Spain,2019/2020,K. Nwakali
+3555,U17 World Cup,World,2015 Chile,K. Nwakali
+3559,World Youth Festival Toulon,World,2015,Y. Bodiger
+3560,Segunda División,Spain,2013/2014,Raúl Navas
